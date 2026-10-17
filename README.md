@@ -1,8 +1,10 @@
-# OpenFree Tools Dataset
+# OpenFree Free and Open Source Tools Dataset
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [Explore OpenFree](https://openfree.tools)
 
-Discover open-source software, organized by category. This repository is the daily
+Find free and open source AI tools worth using.
+
+This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 

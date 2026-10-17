@@ -1,8 +1,10 @@
-# OpenFree 开源工具数据集
+# OpenFree 开源免费工具数据集
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [访问 OpenFree](https://openfree.tools/zh)
 
-按分类发现开源软件。本仓库保存 **[OpenFree](https://openfree.tools/zh)**
+发现真正值得用的开源免费 AI 工具。
+
+本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
 **130 个项目 · 80 个二级分类 · 每日同步**
