@@ -150,8 +150,8 @@ export function renderCatalog(data, locale) {
   function table(projects) {
     if (!projects.length) return [zh ? '暂无已发布项目。' : 'No published projects yet.', ''];
     const rows = [
-      zh ? '| 项目 | 简介 | Stars | 许可证 | 语言 | 自托管 | 链接 |' : '| Project | Description | Stars | License | Language | Self-hosted | Links |',
-      '| --- | --- | ---: | --- | --- | --- | --- |',
+      zh ? '| 项目 | 简介 | Stars | 许可证 | 链接 |' : '| Project | Description | Stars | License | Links |',
+      '| --- | --- | ---: | --- | --- |',
     ];
     for (const project of [...projects].sort(projectOrder)) {
       seen.add(project.id);
@@ -160,8 +160,8 @@ export function renderCatalog(data, locale) {
       const description = short.length > 220 ? `${short.slice(0, 217)}…` : short;
       const projectUrl = `${SOURCE}${zh ? '/zh' : ''}/${encodeURIComponent(project.slug)}`;
       const urls = [link(zh ? '官网' : 'Website', project.websiteUrl), link('GitHub', project.repositoryUrl)].filter((item) => item !== '—');
-      const hosting = project.selfHosted === 'yes' ? (zh ? '是' : 'Yes') : project.selfHosted === 'no' ? (zh ? '否' : 'No') : '—';
-      rows.push(`| ${link(localized(project, 'name', locale), projectUrl)}${project.archived ? (zh ? '（已归档）' : ' (archived)') : ''} | ${cell(description) || '—'} | ${project.stars ?? '—'} | ${cell(project.license) || '—'} | ${cell(project.primaryLanguage) || '—'} | ${hosting} | ${urls.join(' · ') || '—'} |`);
+      const stars = project.stars === null ? '—' : `${(project.stars / 1000).toFixed(1)}K`;
+      rows.push(`| ${link(localized(project, 'name', locale), projectUrl)}${project.archived ? (zh ? '（已归档）' : ' (archived)') : ''} | ${cell(description) || '—'} | ${stars} | ${cell(project.license) || '—'} | ${urls.join(' · ') || '—'} |`);
     }
     return [...rows, ''];
   }
