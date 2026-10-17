@@ -1,0 +1,11 @@
+{
+  "name": "openfree-tools-dataset",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "render": "node scripts/sync.mjs --from-file data/dataset.json",
+    "test": "node --test"
+  }
+}
