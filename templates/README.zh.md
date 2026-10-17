@@ -24,8 +24,6 @@
 
 如需提交项目，请使用 OpenFree 的[提交入口](https://openfree.tools/zh/dashboard/submit)。
 项目信息统一在 [OpenFree](https://openfree.tools/zh) 维护，本数据仓库不接受 GitHub Issue。
-修改生成器或模板前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
-README 中的目录和 JSON 快照均由脚本生成，请勿直接编辑。
 
 ## 许可
 

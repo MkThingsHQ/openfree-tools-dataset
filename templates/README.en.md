@@ -28,8 +28,6 @@ GitHub counters. Chinese fields fall back to English when unavailable.
 To submit a project, use [Submit on OpenFree](https://openfree.tools/dashboard/submit).
 Project information is maintained on [OpenFree](https://openfree.tools);
 this dataset repository does not accept GitHub Issues.
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the generator or templates;
-the README catalog and JSON snapshot are generated files.
 
 ## Licenses
 
