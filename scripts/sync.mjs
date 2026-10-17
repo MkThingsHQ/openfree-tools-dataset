@@ -13,6 +13,9 @@ const nullableDate = (v) => v === null || (text(v) && Number.isFinite(Date.parse
 const nonempty = (v) => text(v) && v.trim().length > 0;
 const slug = (v) => nonempty(v) && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(v);
 const fields = (names, check) => Object.fromEntries(names.split(' ').map((name) => [name, check]));
+const sponsorSchema = {
+  id: nonempty, name: nonempty, websiteUrl: nonempty, description: text,
+};
 const schemas = {
   categories: {
     id: nonempty, slug, name: nonempty, parentId: nullableText,
@@ -39,9 +42,13 @@ function assert(ok, message) {
 /** Reject unexpected fields before they can enter the public Git repository. */
 export function validateDataset(input) {
   assert(input && typeof input === 'object' && !Array.isArray(input), 'Invalid dataset object.');
-  assert(input.schemaVersion === 1 && input.source === SOURCE, 'Unsupported dataset source or version.');
-  assert(Object.keys(input).sort().join(',') === 'categories,projects,schemaVersion,source,tags', 'Unexpected top-level fields.');
-  for (const [collection, schema] of Object.entries(schemas)) {
+  assert([1, 2].includes(input.schemaVersion) && input.source === SOURCE, 'Unsupported dataset source or version.');
+  const expected = input.schemaVersion === 2
+    ? 'categories,projects,schemaVersion,source,sponsors,tags'
+    : 'categories,projects,schemaVersion,source,tags';
+  assert(Object.keys(input).sort().join(',') === expected, 'Unexpected top-level fields.');
+  const collections = input.schemaVersion === 2 ? { ...schemas, sponsors: sponsorSchema } : schemas;
+  for (const [collection, schema] of Object.entries(collections)) {
     assert(Array.isArray(input[collection]), `Missing ${collection}.`);
     const ids = new Set();
     const slugs = new Set();
@@ -51,7 +58,7 @@ export function validateDataset(input) {
       for (const [name, check] of Object.entries(schema)) {
         assert(check(row[name]), `Invalid ${collection}.${name}.`);
       }
-      assert(!ids.has(row.id) && !slugs.has(row.slug), `Duplicate ${collection} identity.`);
+      assert(!ids.has(row.id) && (!('slug' in schema) || !slugs.has(row.slug)), `Duplicate ${collection} identity.`);
       ids.add(row.id);
       slugs.add(row.slug);
     }
@@ -130,6 +137,22 @@ const categoryOrder = (a, b) => a.sortOrder - b.sortOrder || compare(a.slug, b.s
 const projectOrder = (a, b) => (b.stars ?? -1) - (a.stars ?? -1) || compare(a.slug, b.slug);
 const anchor = (category) => `category-${category.slug}`;
 
+export function renderSponsors(data, locale) {
+  const zh = locale === 'zh';
+  const sponsors = data.sponsors ?? [];
+  const lines = [zh ? '## 赞助商' : '## Sponsors', ''];
+  if (sponsors.length) {
+    for (const sponsor of sponsors) {
+      const description = cell(sponsor.description);
+      lines.push(`- ${link(sponsor.name, sponsor.websiteUrl)}${description ? ` — ${description}` : ''}`);
+    }
+  } else {
+    lines.push(zh ? '暂无赞助商。' : 'No sponsors yet.');
+  }
+  lines.push('', link(zh ? '成为赞助商' : 'Become a sponsor', `${SOURCE}${zh ? '/zh' : ''}/advertise`));
+  return lines.join('\n');
+}
+
 export function renderCatalog(data, locale) {
   const zh = locale === 'zh';
   const parents = data.categories.filter((c) => c.parentId === null).sort(categoryOrder);
@@ -185,11 +208,11 @@ export async function sync({ data, root = ROOT }) {
   const outputs = new Map([['data/dataset.json', `${JSON.stringify(data, null, 2)}\n`]]);
   for (const locale of ['en', 'zh']) {
     const template = await readFile(resolve(root, `templates/README.${locale}.md`), 'utf8');
-    assert(template.includes('{{STATS}}') && template.includes('{{CATALOG}}'), 'Missing README template markers.');
+    assert(template.includes('{{STATS}}') && template.includes('{{SPONSORS}}') && template.includes('{{CATALOG}}'), 'Missing README template markers.');
     const stats = locale === 'zh'
       ? `**${data.projects.length} 个项目 · ${data.categories.filter((c) => c.parentId !== null).length} 个二级分类 · 每日同步**`
       : `**${data.projects.length} projects · ${data.categories.filter((c) => c.parentId !== null).length} subcategories · Synced daily**`;
-    outputs.set(locale === 'en' ? 'README.md' : 'README.zh-CN.md', template.split('{{STATS}}').join(stats).split('{{CATALOG}}').join(renderCatalog(data, locale)));
+    outputs.set(locale === 'en' ? 'README.md' : 'README.zh-CN.md', template.split('{{STATS}}').join(stats).split('{{SPONSORS}}').join(renderSponsors(data, locale)).split('{{CATALOG}}').join(renderCatalog(data, locale)));
   }
   // Finish validation and rendering of both languages before touching output files.
   const changed = [];

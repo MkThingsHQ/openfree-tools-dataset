@@ -1,4 +1,4 @@
-# OpenFree 开源免费工具数据集
+# 开源免费工具数据集
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [访问 OpenFree](https://openfree.tools/zh)
 
@@ -12,6 +12,12 @@
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
 一个项目可能属于多个分类，项目总数按唯一项目计算。
+
+## 赞助商
+
+暂无赞助商。
+
+[成为赞助商](https://openfree.tools/zh/advertise)
 
 ## 分类目录
 

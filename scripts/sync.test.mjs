@@ -3,11 +3,12 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, readFile, writeFile, cp, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
-import { SOURCE, ENDPOINT, validateDataset, fetchDataset, renderCatalog, link, sync } from './sync.mjs';
+import { SOURCE, ENDPOINT, validateDataset, fetchDataset, renderCatalog, renderSponsors, link, sync } from './sync.mjs';
 
 function fixture() {
   return {
-    schemaVersion: 1, source: SOURCE,
+    schemaVersion: 2, source: SOURCE,
+    sponsors: [],
     categories: [
       { id: 'root', slug: 'developer-tools', name: 'Developer tools', nameZh: '开发工具', label: null, labelZh: null, description: null, descriptionZh: null, parentId: null, sortOrder: 0 },
       { id: 'leaf', slug: 'editors', name: 'Editors', nameZh: '编辑器', label: null, labelZh: null, description: null, descriptionZh: null, parentId: 'root', sortOrder: 0 },
@@ -37,6 +38,23 @@ test('validates identities, complete references, hierarchy and rejects private/s
     const data = fixture(); mutate(data);
     assert.throws(() => validateDataset(data));
   }
+});
+
+test('supports prior snapshots, requires sponsor data in v2 and rejects private sponsor fields', () => {
+  const legacy = fixture();
+  legacy.schemaVersion = 1;
+  delete legacy.sponsors;
+  assert.equal(validateDataset(legacy).schemaVersion, 1);
+  const current = fixture();
+  current.sponsors = [{ id: 'sponsor', name: 'Supporter', websiteUrl: 'https://sponsor.example/', description: 'Public introduction' }];
+  assert.equal(validateDataset(current).sponsors.length, 1);
+  assert.ok(renderSponsors(current, 'en').includes('[Supporter](https://sponsor.example/)'));
+  assert.ok(renderSponsors(current, 'zh').includes('[Supporter](https://sponsor.example/)'));
+  current.sponsors[0].purchaserEmail = 'private@example.test';
+  assert.throws(() => validateDataset(current));
+  const missing = fixture();
+  delete missing.sponsors;
+  assert.throws(() => validateDataset(missing));
 });
 
 test('fetch sends credentials only as a header to the fixed HTTPS endpoint and refuses redirects', async () => {

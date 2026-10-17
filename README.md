@@ -1,4 +1,4 @@
-# OpenFree Free and Open Source Tools Dataset
+# Free and Open Source Tools Dataset
 
 [English](README.md) · [简体中文](README.zh-CN.md) · [Explore OpenFree](https://openfree.tools)
 
@@ -13,6 +13,12 @@ and Chinese project information maintained together.
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
 appear in several categories; the project count counts each project once.
+
+## Sponsors
+
+No sponsors yet.
+
+[Become a sponsor](https://openfree.tools/advertise)
 
 ## Categories
 
