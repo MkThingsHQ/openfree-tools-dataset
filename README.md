@@ -829,15 +829,16 @@ GitHub counters. Chinese fields fall back to English when unavailable.
 
 The [daily workflow](.github/workflows/sync.yml) requests OpenFree's authenticated
 read-only API and regenerates both READMEs and the JSON snapshot together. It is
-scheduled for **01:17 UTC / 09:17 Asia/Shanghai**; GitHub may delay scheduled runs.
+scheduled for **01:00 Asia/Shanghai / 17:00 UTC**; GitHub may delay scheduled runs.
 Unchanged data creates no commit. A failed sync preserves the last committed
 snapshot. Check [Actions](https://github.com/MkThingsHQ/openfree-tools-dataset/actions/workflows/sync.yml)
 for the latest successful run and Git history for snapshot changes.
 
 ## Contributing
 
-Submit a project or suggest a correction on [OpenFree](https://openfree.tools).
-For automation issues, [open an issue](https://github.com/MkThingsHQ/openfree-tools-dataset/issues).
+To submit a project, use [Submit on OpenFree](https://openfree.tools/dashboard/submit).
+Project information is maintained on [OpenFree](https://openfree.tools);
+this dataset repository does not accept GitHub Issues.
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the generator or templates;
 the README catalog and JSON snapshot are generated files.
 

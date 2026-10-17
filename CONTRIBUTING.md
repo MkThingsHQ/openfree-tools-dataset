@@ -1,8 +1,9 @@
 # Contributing
 
 Project data is maintained on [OpenFree](https://openfree.tools). Submit new
-projects and content corrections there so they appear in the next daily sync.
-Use GitHub issues and pull requests for generator, template, or workflow fixes.
+projects through [Submit on OpenFree](https://openfree.tools/dashboard/submit)
+so they appear in the next daily sync. This dataset repository does not accept
+GitHub Issues. The following instructions are for maintaining the automation.
 
 ## Local development
 
@@ -28,7 +29,7 @@ unset OPENFREE_API_KEY
 ```
 
 Enter the key at the hidden prompt; never include it in command history, URLs,
-files, commits, screenshots, or issue reports. The fixed request target is
+files, commits, screenshots, or public reports. The fixed request target is
 `https://openfree.tools/api/bot/dataset`, authenticated with the `x-api-key` header.
 Redirects are rejected. The script retries network/429/5xx failures up to three
 attempts, validates the response schema and references, and rejects empty
@@ -40,7 +41,8 @@ The repository secret `OPENFREE_API_KEY` is required. Manage it with GitHub's
 Secrets UI or `gh secret set OPENFREE_API_KEY --repo MkThingsHQ/openfree-tools-dataset`
 using stdin. Forks do not receive this secret.
 
-The workflow runs once daily at 01:17 UTC and supports manual `workflow_dispatch`.
+The workflow runs daily at 01:00 Asia/Shanghai (17:00 UTC on the previous day)
+and supports manual `workflow_dispatch`.
 It has no pull-request or push trigger and only runs on this repository's main
 branch. Read-only checkout/test/fetch steps do not receive Git write credentials.
 The API key is scoped to the fetch step; `GITHUB_TOKEN` is scoped to the final
