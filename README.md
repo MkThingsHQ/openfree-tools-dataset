@@ -835,7 +835,7 @@ this dataset repository does not accept GitHub Issues.
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before changing the generator or templates;
 the README catalog and JSON snapshot are generated files.
 
-## Licenses and attribution
+## Licenses
 
 Each listed project retains its own license; follow the project's repository for
 license terms. Inclusion is not an endorsement or a change to that license.
