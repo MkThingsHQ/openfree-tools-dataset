@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**130 个项目 · 80 个二级分类 · 每日同步**
+**131 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -426,6 +426,7 @@
 | [OpenWork](https://openfree.tools/zh/openwork) | 你的 AI 工作空间，无供应商锁定。 | 23.7K | Other | [官网](https://openworklabs.com/) · [GitHub](https://github.com/different-ai/openwork) |
 | [OpenSEO](https://openfree.tools/zh/openseo) | Semrush 和 Ahrefs 的开源替代方案 | 23.2K | MIT | [官网](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/zh/openworker) | AI 帮你把日常任务做完 | 18.3K | MIT | [官网](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
+| [Bytebase](https://openfree.tools/zh/bytebase) | 统一数据库治理，覆盖团队与 AI 代理 | 14.6K | Other | [官网](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |

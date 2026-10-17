@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**130 projects · 80 subcategories · Synced daily**
+**131 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -427,6 +427,7 @@ No published projects yet.
 | [OpenWork](https://openfree.tools/openwork) | Your AI workspace. Without vendor lock-in. | 23.7K | Other | [Website](https://openworklabs.com/) · [GitHub](https://github.com/different-ai/openwork) |
 | [OpenSEO](https://openfree.tools/openseo) | Open source alternative to Semrush and Ahrefs | 23.2K | MIT | [Website](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/openworker) | AI that gets your everyday tasks done. | 18.3K | MIT | [Website](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
+| [Bytebase](https://openfree.tools/bytebase) | Unified database governance for teams and AI agents | 14.6K | Other | [Website](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
