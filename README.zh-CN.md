@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**131 个项目 · 80 个二级分类 · 每日同步**
+**145 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -187,6 +187,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [ComfyUI](https://openfree.tools/zh/comfyui) | 模块化节点图 AI 创作引擎 | 138.2K | GPL-3.0 | [官网](https://www.comfy.org/) · [GitHub](https://github.com/Comfy-Org/ComfyUI) |
 | [OpenDesign](https://openfree.tools/zh/opendesign) | 开源、本地优先的 Claude Design 替代方案 | 98.3K | Apache-2.0 | [官网](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/zh/artcraft) | 可控 AI 图像与视频的开源工作室 | 28.9K | Apache-2.0 | [官网](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
@@ -254,6 +255,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Agency Agents](https://openfree.tools/zh/agency-agents) | 可安装到开发工具的专用 AI 代理角色集合 | 161.0K | MIT | [官网](https://github.com/msitarzewski/agency-agents) · [GitHub](https://github.com/msitarzewski/agency-agents) |
 | [Claude Code](https://openfree.tools/zh/claude-code) | 智能体编程工具，支持终端、IDE、桌面应用与浏览器。 | 148.3K | — | [官网](https://code.claude.com/docs/en/overview) · [GitHub](https://github.com/anthropics/claude-code) |
 | [Zed](https://openfree.tools/zh/zed) | 你的最后一款下一代编辑器 | 90.9K | Other | [官网](https://zed.dev/) · [GitHub](https://github.com/zed-industries/zed) |
 | [Screenshot to Code](https://openfree.tools/zh/screenshot-to-code) | 将任意截图或设计转换为整洁代码 | 79.8K | MIT | [官网](https://screenshottocode.com/) · [GitHub](https://github.com/abi/screenshot-to-code) |
@@ -261,6 +263,7 @@
 | [Claude Code Plugins](https://openfree.tools/zh/claude-plugins-official) | Anthropic 官方维护的 Claude Code 插件目录 | 41.0K | Apache-2.0 | [官网](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/zh/omp) | 内置 IDE 的编码智能体。 | 33.5K | MIT | [官网](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/zh/kilo-code) | 为每个开发者工作流打造的开放智能体 | 27.6K | MIT | [官网](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
 
 <a id="category-coding-agents"></a>
 
@@ -322,6 +325,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Pebrel](https://openfree.tools/zh/pebrel) | 面向 AI CLI 的 GPU 加速终端与 SSH 工作台 | 3.5K | GPL-3.0 | [官网](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/zh/cf) | 面向整个 Cloudflare API 的智能体 CLI | 0.6K | Apache-2.0 | [官网](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
 
 <a id="category-agents-automation"></a>
@@ -348,10 +352,12 @@
 | [OpenHuman](https://openfree.tools/zh/openhuman) | 运行在笔记本电脑上的开源个人 AI | 40.1K | GPL-3.0 | [官网](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [NanoClaw](https://openfree.tools/zh/nanoclaw) | 您的个人 AI 代理。安全。轻量。属于您。 | 30.8K | MIT | [官网](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
 | [OpenAI Agents SDK](https://openfree.tools/zh/openai-agents-sdk) | 轻量且强大的多智能体工作流框架 | 29.7K | MIT | [官网](https://openai.github.io/openai-agents-python/) · [GitHub](https://github.com/openai/openai-agents-python) |
+| [Mastra](https://openfree.tools/zh/mastra) | 面向 AI 智能体与应用的 TypeScript 框架 | 28.9K | Other | [官网](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
 | [Agent Development Kit (ADK)](https://openfree.tools/zh/agent-development-kit-adk) | 开源、代码优先的 Python AI 智能体框架 | 21.6K | Apache-2.0 | [官网](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/zh/swe-agent) | 自主软件工程智能体 | 20.4K | MIT | [官网](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | [Browser Harness](https://openfree.tools/zh/browser-harness) | 基于 CDP 的自愈式浏览器代理工具 | 18.1K | MIT | [官网](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [Harbor](https://openfree.tools/zh/harbor) | 评估并优化沙箱化智能体与模型。 | 5.6K | Apache-2.0 | [官网](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
+| [AI-DLC Workflows](https://openfree.tools/zh/aidlc-workflows) | 结构化、带审批关卡的 AI 驱动软件开发流程 | 5.4K | MIT-0 | [官网](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
 | [Octop](https://openfree.tools/zh/octop) | 更智能的自托管 AI 助手，多用户、多智能体 | 5.3K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/Octop) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/zh/octop-harness) | 生产级智能体运行时与自托管智能协作伙伴 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
@@ -363,6 +369,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [n8n](https://openfree.tools/zh/n8n) | 可见可控的 AI 智能体与工作流 | 206.0K | Other | [官网](https://n8n.io/) · [GitHub](https://github.com/n8n-io/n8n) |
+| [TradingAgents](https://openfree.tools/zh/tradingagents) | 多智能体大语言模型金融交易框架 | 111.8K | Apache-2.0 | [官网](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/zh/lobehub) | 你的首席智能体运营官，7×24 小时管理 AI 团队 | 82.8K | Other | [官网](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
 | [cmux](https://openfree.tools/zh/cmux) | 基于 Ghostty 的 macOS 终端，为编码代理打造 | 28.2K | Other | [官网](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -418,11 +425,14 @@
 | [REA](https://openfree.tools/zh/rea) | 用你的编程智能体进行逆向工程 | 263.5K | MIT | [官网](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/zh/firecrawl) | 用于大规模搜索、抓取和交互的网页数据 API | 184.8K | AGPL-3.0 | [官网](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
 | [Gemini CLI](https://openfree.tools/zh/gemini-cli) | 将 Gemini 能力带入终端的开源 AI 智能体 | 107.2K | Apache-2.0 | [官网](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
+| [Agent Reach](https://openfree.tools/zh/agent-reach) | 给你的 AI Agent 一键装上互联网能力 | 98.8K | MIT | [官网](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
 | [Model Context Protocol](https://openfree.tools/zh/model-context-protocol) | 连接AI应用与外部系统的开放标准 | 90.6K | Other | [官网](https://modelcontextprotocol.io/) · [GitHub](https://github.com/modelcontextprotocol/servers) |
 | [Crawl4AI](https://openfree.tools/zh/crawl4ai) | 面向 LLM 与 AI 代理的开源网络爬虫 | 84.3K | Apache-2.0 | [官网](https://crawl4ai.com/) · [GitHub](https://github.com/unclecode/crawl4ai) |
+| [Headroom](https://openfree.tools/zh/headroom) | 在到达模型前压缩 LLM 上下文 | 75.7K | Apache-2.0 | [官网](https://docs.headroomlabs.ai/docs) · [GitHub](https://github.com/headroomlabs-ai/headroom) |
 | [Chrome DevTools for agents](https://openfree.tools/zh/chrome-devtools-mcp) | 让 AI 编码代理控制并检查实时 Chrome 浏览器 | 53.7K | Apache-2.0 | [官网](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | [Cognee](https://openfree.tools/zh/cognee) | 面向 AI 智能体的开源记忆平台 | 31.0K | Apache-2.0 | [官网](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/zh/qmd) | 面向文档、笔记与知识库的设备端混合搜索 | 30.1K | MIT | [官网](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
+| [AiToEarn](https://openfree.tools/zh/aitoearn) | 面向 OPC、创作者与品牌的 AI 内容营销智能体 | 26.6K | MIT | [官网](https://aitoearn.ai/) · [GitHub](https://github.com/yikart/AiToEarn) |
 | [OpenWork](https://openfree.tools/zh/openwork) | 你的 AI 工作空间，无供应商锁定。 | 23.7K | Other | [官网](https://openworklabs.com/) · [GitHub](https://github.com/different-ai/openwork) |
 | [OpenSEO](https://openfree.tools/zh/openseo) | Semrush 和 Ahrefs 的开源替代方案 | 23.2K | MIT | [官网](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/zh/openworker) | AI 帮你把日常任务做完 | 18.3K | MIT | [官网](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
@@ -448,7 +458,9 @@
 
 ### 上下文管理
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [billion-context](https://openfree.tools/zh/billion-context) | 面向长时间编码会话的上下文压缩插件 | 1.7K | Other | [官网](https://github.com/ranxianglei/billion-context) · [GitHub](https://github.com/ranxianglei/billion-context) |
 
 <a id="category-agent-sdks-runtimes"></a>
 
@@ -474,6 +486,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Skills](https://openfree.tools/zh/skills-2) | 面向真实工程师的实用代理技能 | 295.7K | MIT | [官网](https://aihero.dev/skills) · [GitHub](https://github.com/mattpocock/skills) |
 | [Archify](https://openfree.tools/zh/archify) | 把系统、流程或计划变成可交互图解 | 81.9K | MIT | [官网](https://archify.si/) · [GitHub](https://github.com/tt-a1i/archify) |
 | [HyperFrames](https://openfree.tools/zh/hyperframes) | 为智能体打造的视频编辑器：编写 HTML、渲染视频 | 59.2K | Apache-2.0 | [官网](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [Marketing Skills](https://openfree.tools/zh/marketing-skills) | 面向 AI 代理的营销技能库 | 54.0K | MIT | [官网](https://marketing-skills.com/) · [GitHub](https://github.com/coreyhaines31/marketingskills) |
@@ -643,6 +656,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Graphiti](https://openfree.tools/zh/graphiti) | 构建时序知识图谱的框架 | 31.2K | Apache-2.0 | [官网](https://help.getzep.com/graphiti) · [GitHub](https://github.com/getzep/graphiti) |
 | [Marble Skill Taxonomy](https://openfree.tools/zh/marble-skill-taxonomy) | 开放的小学学习主题与先修依赖分类体系 | 5.0K | ODbL-1.0 | [官网](https://github.com/withmarbleapp/os-taxonomy) · [GitHub](https://github.com/withmarbleapp/os-taxonomy) |
 
 <a id="category-datasets-labeling-data-quality"></a>
@@ -798,7 +812,9 @@
 
 ### 安全测试与红队
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 
 <a id="category-guardrails-content-moderation"></a>
 

@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**131 projects · 80 subcategories · Synced daily**
+**145 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -188,6 +188,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [ComfyUI](https://openfree.tools/comfyui) | Modular node-graph AI creation engine | 138.2K | GPL-3.0 | [Website](https://www.comfy.org/) · [GitHub](https://github.com/Comfy-Org/ComfyUI) |
 | [OpenDesign](https://openfree.tools/opendesign) | The open-source, local-first Claude Design alternative | 98.3K | Apache-2.0 | [Website](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/artcraft) | Open-source studio for controllable AI image and video. | 28.9K | Apache-2.0 | [Website](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
@@ -255,6 +256,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Agency Agents](https://openfree.tools/agency-agents) | Specialized AI agent personalities for developer tools | 161.0K | MIT | [Website](https://github.com/msitarzewski/agency-agents) · [GitHub](https://github.com/msitarzewski/agency-agents) |
 | [Claude Code](https://openfree.tools/claude-code) | Agentic coding tool for terminal, IDE, desktop, and browser. | 148.3K | — | [Website](https://code.claude.com/docs/en/overview) · [GitHub](https://github.com/anthropics/claude-code) |
 | [Zed](https://openfree.tools/zed) | Your last next editor | 90.9K | Other | [Website](https://zed.dev/) · [GitHub](https://github.com/zed-industries/zed) |
 | [Screenshot to Code](https://openfree.tools/screenshot-to-code) | Convert screenshots and designs into clean code | 79.8K | MIT | [Website](https://screenshottocode.com/) · [GitHub](https://github.com/abi/screenshot-to-code) |
@@ -262,6 +264,7 @@ No published projects yet.
 | [Claude Code Plugins](https://openfree.tools/claude-plugins-official) | Official Anthropic-managed Claude Code plugin directory | 41.0K | Apache-2.0 | [Website](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/omp) | A coding agent with the IDE wired in. | 33.5K | MIT | [Website](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
 
 <a id="category-coding-agents"></a>
 
@@ -323,6 +326,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Pebrel](https://openfree.tools/pebrel) | GPU-accelerated terminal and SSH workspace for AI CLI work | 3.5K | GPL-3.0 | [Website](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/cf) | The agentic CLI for the entire Cloudflare API | 0.6K | Apache-2.0 | [Website](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
 
 <a id="category-agents-automation"></a>
@@ -349,10 +353,12 @@ No published projects yet.
 | [OpenHuman](https://openfree.tools/openhuman) | Open-source personal AI that runs on your laptop | 40.1K | GPL-3.0 | [Website](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [NanoClaw](https://openfree.tools/nanoclaw) | Your personal AI agent. Secure. Lightweight. Yours. | 30.8K | MIT | [Website](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
 | [OpenAI Agents SDK](https://openfree.tools/openai-agents-sdk) | A lightweight, powerful framework for multi-agent workflows | 29.7K | MIT | [Website](https://openai.github.io/openai-agents-python/) · [GitHub](https://github.com/openai/openai-agents-python) |
+| [Mastra](https://openfree.tools/mastra) | TypeScript framework for AI agents and applications | 28.9K | Other | [Website](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
 | [Agent Development Kit (ADK)](https://openfree.tools/agent-development-kit-adk) | Open-source, code-first Python framework for AI agents | 21.6K | Apache-2.0 | [Website](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/swe-agent) | Autonomous software engineering agent | 20.4K | MIT | [Website](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | [Browser Harness](https://openfree.tools/browser-harness) | Self-healing browser agents built directly on CDP | 18.1K | MIT | [Website](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [Harbor](https://openfree.tools/harbor) | Evaluate and optimize sandboxed agents and models. | 5.6K | Apache-2.0 | [Website](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
+| [AI-DLC Workflows](https://openfree.tools/aidlc-workflows) | Structured, gated AI-driven software development workflows | 5.4K | MIT-0 | [Website](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
 | [Octop](https://openfree.tools/octop) | A smarter, self-hosted, multi-user, multi-agent AI assistant | 5.3K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/Octop) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/octop-harness) | Production-grade agent runtime and self-hosted collaboration | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
@@ -364,6 +370,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [n8n](https://openfree.tools/n8n) | AI agents and workflows you can see and control | 206.0K | Other | [Website](https://n8n.io/) · [GitHub](https://github.com/n8n-io/n8n) |
+| [TradingAgents](https://openfree.tools/tradingagents) | Multi-agent LLM framework for financial trading | 111.8K | Apache-2.0 | [Website](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/lobehub) | Your Chief Agent Operator for 7×24 AI team operations | 82.8K | Other | [Website](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
 | [cmux](https://openfree.tools/cmux) | Ghostty-based macOS terminal for coding agents | 28.2K | Other | [Website](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -419,11 +426,14 @@ No published projects yet.
 | [REA](https://openfree.tools/rea) | Reverse engineering, with your coding agent | 263.5K | MIT | [Website](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/firecrawl) | The web data API to search, scrape, and interact at scale. | 184.8K | AGPL-3.0 | [Website](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
 | [Gemini CLI](https://openfree.tools/gemini-cli) | Gemini-powered AI agent in your terminal | 107.2K | Apache-2.0 | [Website](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
+| [Agent Reach](https://openfree.tools/agent-reach) | Give your AI agent one-click internet access | 98.8K | MIT | [Website](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
 | [Model Context Protocol](https://openfree.tools/model-context-protocol) | Open standard for connecting AI apps to external systems | 90.6K | Other | [Website](https://modelcontextprotocol.io/) · [GitHub](https://github.com/modelcontextprotocol/servers) |
 | [Crawl4AI](https://openfree.tools/crawl4ai) | Open-source web crawler for LLMs and AI agents | 84.3K | Apache-2.0 | [Website](https://crawl4ai.com/) · [GitHub](https://github.com/unclecode/crawl4ai) |
+| [Headroom](https://openfree.tools/headroom) | Compress LLM context before it reaches the model | 75.7K | Apache-2.0 | [Website](https://docs.headroomlabs.ai/docs) · [GitHub](https://github.com/headroomlabs-ai/headroom) |
 | [Chrome DevTools for agents](https://openfree.tools/chrome-devtools-mcp) | Live Chrome browser control for AI coding agents | 53.7K | Apache-2.0 | [Website](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | [Cognee](https://openfree.tools/cognee) | Open-source memory platform for AI agents | 31.0K | Apache-2.0 | [Website](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/qmd) | On-device hybrid search for docs, notes, and knowledge bases | 30.1K | MIT | [Website](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
+| [AiToEarn](https://openfree.tools/aitoearn) | AI content marketing agent for OPC, creators, and brands | 26.6K | MIT | [Website](https://aitoearn.ai/) · [GitHub](https://github.com/yikart/AiToEarn) |
 | [OpenWork](https://openfree.tools/openwork) | Your AI workspace. Without vendor lock-in. | 23.7K | Other | [Website](https://openworklabs.com/) · [GitHub](https://github.com/different-ai/openwork) |
 | [OpenSEO](https://openfree.tools/openseo) | Open source alternative to Semrush and Ahrefs | 23.2K | MIT | [Website](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/openworker) | AI that gets your everyday tasks done. | 18.3K | MIT | [Website](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
@@ -449,7 +459,9 @@ No published projects yet.
 
 ### Context Management
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [billion-context](https://openfree.tools/billion-context) | Context-compression plugin for long coding sessions | 1.7K | Other | [Website](https://github.com/ranxianglei/billion-context) · [GitHub](https://github.com/ranxianglei/billion-context) |
 
 <a id="category-agent-sdks-runtimes"></a>
 
@@ -475,6 +487,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Skills](https://openfree.tools/skills-2) | Practical agent skills for real engineers | 295.7K | MIT | [Website](https://aihero.dev/skills) · [GitHub](https://github.com/mattpocock/skills) |
 | [Archify](https://openfree.tools/archify) | Turn any system, process, or plan into an interactive | 81.9K | MIT | [Website](https://archify.si/) · [GitHub](https://github.com/tt-a1i/archify) |
 | [HyperFrames](https://openfree.tools/hyperframes) | Write HTML. Render video. Built for agents. | 59.2K | Apache-2.0 | [Website](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [Marketing Skills](https://openfree.tools/marketing-skills) | AI agent skills for marketing tasks | 54.0K | MIT | [Website](https://marketing-skills.com/) · [GitHub](https://github.com/coreyhaines31/marketingskills) |
@@ -644,6 +657,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Graphiti](https://openfree.tools/graphiti) | A Framework for Building Temporal Knowledge Graphs | 31.2K | Apache-2.0 | [Website](https://help.getzep.com/graphiti) · [GitHub](https://github.com/getzep/graphiti) |
 | [Marble Skill Taxonomy](https://openfree.tools/marble-skill-taxonomy) | Open taxonomy of primary learning topics and prerequisites | 5.0K | ODbL-1.0 | [Website](https://github.com/withmarbleapp/os-taxonomy) · [GitHub](https://github.com/withmarbleapp/os-taxonomy) |
 
 <a id="category-datasets-labeling-data-quality"></a>
@@ -799,7 +813,9 @@ No published projects yet.
 
 ### Security Testing &amp; Red Teaming
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 
 <a id="category-guardrails-content-moderation"></a>
 
