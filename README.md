@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**145 projects · 80 subcategories · Synced daily**
+**155 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -264,6 +264,7 @@ No published projects yet.
 | [Claude Code Plugins](https://openfree.tools/claude-plugins-official) | Official Anthropic-managed Claude Code plugin directory | 41.0K | Apache-2.0 | [Website](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/omp) | A coding agent with the IDE wired in. | 33.5K | MIT | [Website](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
 
 <a id="category-coding-agents"></a>
@@ -357,6 +358,7 @@ No published projects yet.
 | [Agent Development Kit (ADK)](https://openfree.tools/agent-development-kit-adk) | Open-source, code-first Python framework for AI agents | 21.6K | Apache-2.0 | [Website](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/swe-agent) | Autonomous software engineering agent | 20.4K | MIT | [Website](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | [Browser Harness](https://openfree.tools/browser-harness) | Self-healing browser agents built directly on CDP | 18.1K | MIT | [Website](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
+| [TrueForge](https://openfree.tools/trueforge) | Open-source runtime for turning LLMs into agents | 6.3K | MIT | [Website](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
 | [Harbor](https://openfree.tools/harbor) | Evaluate and optimize sandboxed agents and models. | 5.6K | Apache-2.0 | [Website](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
 | [AI-DLC Workflows](https://openfree.tools/aidlc-workflows) | Structured, gated AI-driven software development workflows | 5.4K | MIT-0 | [Website](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
 | [Octop](https://openfree.tools/octop) | A smarter, self-hosted, multi-user, multi-agent AI assistant | 5.3K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/Octop) |
@@ -426,11 +428,13 @@ No published projects yet.
 | [REA](https://openfree.tools/rea) | Reverse engineering, with your coding agent | 263.5K | MIT | [Website](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/firecrawl) | The web data API to search, scrape, and interact at scale. | 184.8K | AGPL-3.0 | [Website](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
 | [Gemini CLI](https://openfree.tools/gemini-cli) | Gemini-powered AI agent in your terminal | 107.2K | Apache-2.0 | [Website](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
+| [claude-mem](https://openfree.tools/claude-mem) | Persistent context across sessions for every agent | 101.6K | Apache-2.0 | [Website](https://claude-mem.ai/) · [GitHub](https://github.com/thedotmack/claude-mem) |
 | [Agent Reach](https://openfree.tools/agent-reach) | Give your AI agent one-click internet access | 98.8K | MIT | [Website](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
 | [Model Context Protocol](https://openfree.tools/model-context-protocol) | Open standard for connecting AI apps to external systems | 90.6K | Other | [Website](https://modelcontextprotocol.io/) · [GitHub](https://github.com/modelcontextprotocol/servers) |
 | [Crawl4AI](https://openfree.tools/crawl4ai) | Open-source web crawler for LLMs and AI agents | 84.3K | Apache-2.0 | [Website](https://crawl4ai.com/) · [GitHub](https://github.com/unclecode/crawl4ai) |
 | [Headroom](https://openfree.tools/headroom) | Compress LLM context before it reaches the model | 75.7K | Apache-2.0 | [Website](https://docs.headroomlabs.ai/docs) · [GitHub](https://github.com/headroomlabs-ai/headroom) |
 | [Chrome DevTools for agents](https://openfree.tools/chrome-devtools-mcp) | Live Chrome browser control for AI coding agents | 53.7K | Apache-2.0 | [Website](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| [MCP for Blender](https://openfree.tools/mcp-for-blender) | Control Blender 3D with any LLM | 31.6K | MIT | [Website](https://www.mcp-for-blender.com/) · [GitHub](https://github.com/ahujasid/mcp-for-blender) |
 | [Cognee](https://openfree.tools/cognee) | Open-source memory platform for AI agents | 31.0K | Apache-2.0 | [Website](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/qmd) | On-device hybrid search for docs, notes, and knowledge bases | 30.1K | MIT | [Website](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
 | [AiToEarn](https://openfree.tools/aitoearn) | AI content marketing agent for OPC, creators, and brands | 26.6K | MIT | [Website](https://aitoearn.ai/) · [GitHub](https://github.com/yikart/AiToEarn) |
@@ -438,6 +442,7 @@ No published projects yet.
 | [OpenSEO](https://openfree.tools/openseo) | Open source alternative to Semrush and Ahrefs | 23.2K | MIT | [Website](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/openworker) | AI that gets your everyday tasks done. | 18.3K | MIT | [Website](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
 | [Bytebase](https://openfree.tools/bytebase) | Unified database governance for teams and AI agents | 14.6K | Other | [Website](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
+| [Manufact](https://openfree.tools/manufact) | The MCP cloud for building, testing, and shipping MCP apps | 10.8K | MIT | [Website](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
@@ -471,6 +476,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/browser-use) | Agents that use the browser. | 116.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
+| [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/octop-gateway) | Multi-platform IM channel bridge for AI agents and bots | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
 
 <a id="category-sandboxes-code-execution"></a>
@@ -572,6 +578,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [GDevelop](https://openfree.tools/gdevelop) | Open-source no-code engine for 2D, 3D and multiplayer games | 27.6K | Other | [Website](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
+| [EmDash](https://openfree.tools/emdash) | Open source Astro CMS for humans and agents | 13.8K | MIT | [Website](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
 | [Void](https://openfree.tools/void) | Build with Vite. Deploy with Void. | 0.3K | MIT | [Website](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
 
 <a id="category-rag-frameworks"></a>
@@ -596,7 +603,9 @@ No published projects yet.
 
 ### App UI &amp; SDKs
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Pele](https://openfree.tools/pele) | Render Mermaid diagrams to SVG with CSS-variable theming. | 1.8K | Other | [Website](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
 
 <a id="category-model-gateways-routing"></a>
 
@@ -640,6 +649,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [PaddleOCR](https://openfree.tools/paddleocr) | Global Leading OCR Toolkit &amp; Document AI Engine | 90.2K | Apache-2.0 | [Website](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
+| [Docling](https://openfree.tools/docling) | Get your documents ready for gen AI | 68.0K | MIT | [Website](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
 | [anydoc](https://openfree.tools/anydoc) | Convert documents to GitHub-Flavored Markdown in Rust. | 22.1K | MIT | [Website](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
 | [@office-kit/xlsx](https://openfree.tools/office-kit-xlsx) | Read, edit, and write Excel files in TypeScript | 0.1K | MIT | [Website](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/office-kit-pptx) | Read, edit, and write .pptx files in TypeScript | 0.0K | MIT | [Website](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
@@ -697,6 +707,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Langfuse](https://openfree.tools/langfuse) | Open Source Agent Evals &amp; Observability | 35.1K | Other | [Website](https://langfuse.com/) · [GitHub](https://github.com/langfuse/langfuse) |
+| [Arize Phoenix](https://openfree.tools/arize-phoenix) | AI Observability and Evaluation | 11.6K | Other | [Website](https://arize.com/docs/phoenix) · [GitHub](https://github.com/Arize-ai/phoenix) |
 
 <a id="category-observability-tracing"></a>
 

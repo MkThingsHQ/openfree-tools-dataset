@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**145 个项目 · 80 个二级分类 · 每日同步**
+**155 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -263,6 +263,7 @@
 | [Claude Code Plugins](https://openfree.tools/zh/claude-plugins-official) | Anthropic 官方维护的 Claude Code 插件目录 | 41.0K | Apache-2.0 | [官网](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/zh/omp) | 内置 IDE 的编码智能体。 | 33.5K | MIT | [官网](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/zh/kilo-code) | 为每个开发者工作流打造的开放智能体 | 27.6K | MIT | [官网](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [ThinkRail](https://openfree.tools/zh/thinkrail) | 带隔离工作树与活规格的智能体 IDE | 0.9K | Apache-2.0 | [官网](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
 
 <a id="category-coding-agents"></a>
@@ -356,6 +357,7 @@
 | [Agent Development Kit (ADK)](https://openfree.tools/zh/agent-development-kit-adk) | 开源、代码优先的 Python AI 智能体框架 | 21.6K | Apache-2.0 | [官网](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/zh/swe-agent) | 自主软件工程智能体 | 20.4K | MIT | [官网](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
 | [Browser Harness](https://openfree.tools/zh/browser-harness) | 基于 CDP 的自愈式浏览器代理工具 | 18.1K | MIT | [官网](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
+| [TrueForge](https://openfree.tools/zh/trueforge) | 将 LLM 转化为可用智能体的开源运行时 | 6.3K | MIT | [官网](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
 | [Harbor](https://openfree.tools/zh/harbor) | 评估并优化沙箱化智能体与模型。 | 5.6K | Apache-2.0 | [官网](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
 | [AI-DLC Workflows](https://openfree.tools/zh/aidlc-workflows) | 结构化、带审批关卡的 AI 驱动软件开发流程 | 5.4K | MIT-0 | [官网](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
 | [Octop](https://openfree.tools/zh/octop) | 更智能的自托管 AI 助手，多用户、多智能体 | 5.3K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/Octop) |
@@ -425,11 +427,13 @@
 | [REA](https://openfree.tools/zh/rea) | 用你的编程智能体进行逆向工程 | 263.5K | MIT | [官网](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/zh/firecrawl) | 用于大规模搜索、抓取和交互的网页数据 API | 184.8K | AGPL-3.0 | [官网](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
 | [Gemini CLI](https://openfree.tools/zh/gemini-cli) | 将 Gemini 能力带入终端的开源 AI 智能体 | 107.2K | Apache-2.0 | [官网](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
+| [claude-mem](https://openfree.tools/zh/claude-mem) | 为各类代理提供跨会话持续上下文 | 101.6K | Apache-2.0 | [官网](https://claude-mem.ai/) · [GitHub](https://github.com/thedotmack/claude-mem) |
 | [Agent Reach](https://openfree.tools/zh/agent-reach) | 给你的 AI Agent 一键装上互联网能力 | 98.8K | MIT | [官网](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
 | [Model Context Protocol](https://openfree.tools/zh/model-context-protocol) | 连接AI应用与外部系统的开放标准 | 90.6K | Other | [官网](https://modelcontextprotocol.io/) · [GitHub](https://github.com/modelcontextprotocol/servers) |
 | [Crawl4AI](https://openfree.tools/zh/crawl4ai) | 面向 LLM 与 AI 代理的开源网络爬虫 | 84.3K | Apache-2.0 | [官网](https://crawl4ai.com/) · [GitHub](https://github.com/unclecode/crawl4ai) |
 | [Headroom](https://openfree.tools/zh/headroom) | 在到达模型前压缩 LLM 上下文 | 75.7K | Apache-2.0 | [官网](https://docs.headroomlabs.ai/docs) · [GitHub](https://github.com/headroomlabs-ai/headroom) |
 | [Chrome DevTools for agents](https://openfree.tools/zh/chrome-devtools-mcp) | 让 AI 编码代理控制并检查实时 Chrome 浏览器 | 53.7K | Apache-2.0 | [官网](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| [MCP for Blender](https://openfree.tools/zh/mcp-for-blender) | 用任意 LLM 控制 Blender 3D | 31.6K | MIT | [官网](https://www.mcp-for-blender.com/) · [GitHub](https://github.com/ahujasid/mcp-for-blender) |
 | [Cognee](https://openfree.tools/zh/cognee) | 面向 AI 智能体的开源记忆平台 | 31.0K | Apache-2.0 | [官网](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/zh/qmd) | 面向文档、笔记与知识库的设备端混合搜索 | 30.1K | MIT | [官网](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
 | [AiToEarn](https://openfree.tools/zh/aitoearn) | 面向 OPC、创作者与品牌的 AI 内容营销智能体 | 26.6K | MIT | [官网](https://aitoearn.ai/) · [GitHub](https://github.com/yikart/AiToEarn) |
@@ -437,6 +441,7 @@
 | [OpenSEO](https://openfree.tools/zh/openseo) | Semrush 和 Ahrefs 的开源替代方案 | 23.2K | MIT | [官网](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/zh/openworker) | AI 帮你把日常任务做完 | 18.3K | MIT | [官网](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
 | [Bytebase](https://openfree.tools/zh/bytebase) | 统一数据库治理，覆盖团队与 AI 代理 | 14.6K | Other | [官网](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
+| [Manufact](https://openfree.tools/zh/manufact) | 用于构建、测试和发布 MCP 应用的 MCP 云平台 | 10.8K | MIT | [官网](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
@@ -470,6 +475,7 @@
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/zh/browser-use) | 使用浏览器的智能体。 | 116.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
+| [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/zh/octop-gateway) | 面向 AI Agent 与机器人的多平台 IM 通道桥接 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
 
 <a id="category-sandboxes-code-execution"></a>
@@ -571,6 +577,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [GDevelop](https://openfree.tools/zh/gdevelop) | 开源无代码游戏引擎，支持2D、3D和多人游戏 | 27.6K | Other | [官网](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
+| [EmDash](https://openfree.tools/zh/emdash) | 面向人类与智能体的开源 Astro CMS | 13.8K | MIT | [官网](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
 | [Void](https://openfree.tools/zh/void) | 用 Vite 构建，用 Void 部署。 | 0.3K | MIT | [官网](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
 
 <a id="category-rag-frameworks"></a>
@@ -595,7 +602,9 @@
 
 ### 应用界面与 SDK
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Pele](https://openfree.tools/zh/pele) | 轻量快速渲染 Mermaid 图表为 SVG，并用 CSS 变量设置主题。 | 1.8K | Other | [官网](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
 
 <a id="category-model-gateways-routing"></a>
 
@@ -639,6 +648,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [PaddleOCR](https://openfree.tools/zh/paddleocr) | 全球领先的OCR工具包与文档AI引擎 | 90.2K | Apache-2.0 | [官网](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
+| [Docling](https://openfree.tools/zh/docling) | 让文档为生成式 AI 做好准备 | 68.0K | MIT | [官网](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
 | [anydoc](https://openfree.tools/zh/anydoc) | 将各类文档转换为 GitHub 风格 Markdown 的 Rust 库 | 22.1K | MIT | [官网](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
 | [@office-kit/xlsx](https://openfree.tools/zh/office-kit-xlsx) | 在 TypeScript 中读取、编辑和写入 Excel 文件 | 0.1K | MIT | [官网](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/zh/office-kit-pptx) | 用 TypeScript 读取、编辑和写入 .pptx 文件 | 0.0K | MIT | [官网](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
@@ -696,6 +706,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Langfuse](https://openfree.tools/zh/langfuse) | 开源智能体评估与可观测性 | 35.1K | Other | [官网](https://langfuse.com/) · [GitHub](https://github.com/langfuse/langfuse) |
+| [Arize Phoenix](https://openfree.tools/zh/arize-phoenix) | AI 可观测性与评估 | 11.6K | Other | [官网](https://arize.com/docs/phoenix) · [GitHub](https://github.com/Arize-ai/phoenix) |
 
 <a id="category-observability-tracing"></a>
 
