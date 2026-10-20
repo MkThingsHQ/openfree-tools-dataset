@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**155 projects · 80 subcategories · Synced daily**
+**166 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -141,6 +141,7 @@ No sponsors yet.
 | --- | --- | ---: | --- | --- |
 | [OpenClaw](https://openfree.tools/openclaw) | The AI that really does things. | 390.5K | Other | [Website](https://openclaw.ai/) · [GitHub](https://github.com/openclaw/openclaw) |
 | [Inbox Zero](https://openfree.tools/inbox-zero) | Open-source AI email assistant to reach inbox zero fast | 12.6K | Other | [Website](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
+| [OpenWhispr](https://openfree.tools/openwhispr) | Privacy-first voice-to-text dictation and meeting notes | 9.6K | MIT | [Website](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
 
 <a id="category-meeting-assistants-notes"></a>
 
@@ -238,6 +239,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Pascal Editor](https://openfree.tools/pascal-editor) | Open-source local-first 3D building editor | 25.0K | MIT | [Website](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [Hunyuan3D](https://openfree.tools/hunyuan3d) | All-in-one AI creation platform for 3D content | 15.0K | Other | [Website](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
 
 <a id="category-avatars-digital-humans"></a>
@@ -427,6 +429,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [REA](https://openfree.tools/rea) | Reverse engineering, with your coding agent | 263.5K | MIT | [Website](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/firecrawl) | The web data API to search, scrape, and interact at scale. | 184.8K | AGPL-3.0 | [Website](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
+| [Graphify](https://openfree.tools/graphify) | The knowledge graph your coding assistant queries | 129.5K | Apache-2.0 | [Website](https://github.com/Graphify-Labs/graphify) · [GitHub](https://github.com/Graphify-Labs/graphify) |
 | [Gemini CLI](https://openfree.tools/gemini-cli) | Gemini-powered AI agent in your terminal | 107.2K | Apache-2.0 | [Website](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
 | [claude-mem](https://openfree.tools/claude-mem) | Persistent context across sessions for every agent | 101.6K | Apache-2.0 | [Website](https://claude-mem.ai/) · [GitHub](https://github.com/thedotmack/claude-mem) |
 | [Agent Reach](https://openfree.tools/agent-reach) | Give your AI agent one-click internet access | 98.8K | MIT | [Website](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
@@ -495,6 +498,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Skills](https://openfree.tools/skills-2) | Practical agent skills for real engineers | 295.7K | MIT | [Website](https://aihero.dev/skills) · [GitHub](https://github.com/mattpocock/skills) |
 | [Archify](https://openfree.tools/archify) | Turn any system, process, or plan into an interactive | 81.9K | MIT | [Website](https://archify.si/) · [GitHub](https://github.com/tt-a1i/archify) |
+| [career-ops](https://openfree.tools/career-ops) | Local AI job search agent for your coding CLI | 75.7K | MIT | [Website](https://githubrepo.cloud/repo/career-ops-hq/career-ops?utm_source=x#badge) · [GitHub](https://github.com/career-ops-hq/career-ops) |
 | [HyperFrames](https://openfree.tools/hyperframes) | Write HTML. Render video. Built for agents. | 59.2K | Apache-2.0 | [Website](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [Marketing Skills](https://openfree.tools/marketing-skills) | AI agent skills for marketing tasks | 54.0K | MIT | [Website](https://marketing-skills.com/) · [GitHub](https://github.com/coreyhaines31/marketingskills) |
 | [CLI-Anything](https://openfree.tools/cli-anything) | Generate agent-native CLIs and let AI agents operate them | 53.5K | Apache-2.0 | [Website](https://github.com/HKUDS/CLI-Anything) · [GitHub](https://github.com/HKUDS/CLI-Anything) |
@@ -559,7 +563,10 @@ No published projects yet.
 
 ### Inference Servers &amp; APIs
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [vLLM](https://openfree.tools/vllm) | Easy, fast, and cost-efficient LLM serving for everyone. | 94.2K | Apache-2.0 | [Website](https://vllm.ai/) · [GitHub](https://github.com/vllm-project/vllm) |
+| [DeepInfer](https://openfree.tools/deepinfer) | High-performance inference framework for DeepSeek models | 7.9K | Apache-2.0 | [Website](https://github.com/deepseek-ai/DeepInfer) · [GitHub](https://github.com/deepseek-ai/DeepInfer) |
 
 <a id="category-quantization-acceleration"></a>
 
@@ -598,6 +605,7 @@ No published projects yet.
 | [Open Notebook](https://openfree.tools/open-notebook) | Take Control of Your Research, Privately | 39.5K | MIT | [Website](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
 | [Tolaria](https://openfree.tools/tolaria) | A second brain for the AI era. Free forever. | 19.9K | AGPL-3.0 | [Website](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [OpenKnowledge](https://openfree.tools/openknowledge) | Beautiful, AI-native markdown editor | 4.3K | GPL-3.0 | [Website](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
+| [Morrow](https://openfree.tools/morrow) | Privacy-first, local-first workspace for notes and databases | 0.2K | Apache-2.0 | [Website](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
 
 <a id="category-app-ui-sdks"></a>
 
@@ -614,6 +622,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Helicone](https://openfree.tools/helicone) | AI Gateway and LLM observability platform | 6.2K | Apache-2.0 | [Website](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
+| [llm-d](https://openfree.tools/llm-d) | Kubernetes-native distributed LLM inference | 4.9K | Apache-2.0 | [Website](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
 <a id="category-prompting-structured-generation"></a>
 
@@ -708,6 +717,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Langfuse](https://openfree.tools/langfuse) | Open Source Agent Evals &amp; Observability | 35.1K | Other | [Website](https://langfuse.com/) · [GitHub](https://github.com/langfuse/langfuse) |
 | [Arize Phoenix](https://openfree.tools/arize-phoenix) | AI Observability and Evaluation | 11.6K | Other | [Website](https://arize.com/docs/phoenix) · [GitHub](https://github.com/Arize-ai/phoenix) |
+| [Folkbench](https://openfree.tools/folkbench) | AI relay station benchmarks and rankings | 2.0K | Other | [Website](https://folkbench.com/) · [GitHub](https://github.com/Folkbench/folkbench) |
 
 <a id="category-observability-tracing"></a>
 
@@ -725,7 +735,9 @@ No published projects yet.
 
 ### Pipelines, Deployment &amp; Compute
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [FlashMLA](https://openfree.tools/flashmla) | Optimized attention kernels for DeepSeek inference | 13.1K | MIT | [Website](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 
 <a id="category-business-industry"></a>
 
@@ -826,6 +838,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Strix](https://openfree.tools/strix) | Autonomous AI pentesting for code, APIs, and cloud | 70.3K | Apache-2.0 | [Website](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 
 <a id="category-guardrails-content-moderation"></a>

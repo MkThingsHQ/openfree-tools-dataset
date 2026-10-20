@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**155 个项目 · 80 个二级分类 · 每日同步**
+**166 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -140,6 +140,7 @@
 | --- | --- | ---: | --- | --- |
 | [OpenClaw](https://openfree.tools/zh/openclaw) | 真正能做事的AI | 390.5K | Other | [官网](https://openclaw.ai/) · [GitHub](https://github.com/openclaw/openclaw) |
 | [Inbox Zero](https://openfree.tools/zh/inbox-zero) | 开源 AI 邮件助手，快速实现收件箱清零 | 12.6K | Other | [官网](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
+| [OpenWhispr](https://openfree.tools/zh/openwhispr) | 隐私优先的语音转文字与会议笔记 | 9.6K | MIT | [官网](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
 
 <a id="category-meeting-assistants-notes"></a>
 
@@ -237,6 +238,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Pascal Editor](https://openfree.tools/zh/pascal-editor) | 开源、本地优先的 3D 建筑编辑器 | 25.0K | MIT | [官网](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [腾讯混元3D](https://openfree.tools/zh/hunyuan3d) | 一站式3D内容AI创作平台 | 15.0K | Other | [官网](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
 
 <a id="category-avatars-digital-humans"></a>
@@ -426,6 +428,7 @@
 | --- | --- | ---: | --- | --- |
 | [REA](https://openfree.tools/zh/rea) | 用你的编程智能体进行逆向工程 | 263.5K | MIT | [官网](https://github.com/morluto/rea) · [GitHub](https://github.com/morluto/rea) |
 | [Firecrawl](https://openfree.tools/zh/firecrawl) | 用于大规模搜索、抓取和交互的网页数据 API | 184.8K | AGPL-3.0 | [官网](https://firecrawl.dev/) · [GitHub](https://github.com/firecrawl/firecrawl) |
+| [Graphify](https://openfree.tools/zh/graphify) | 编码助手查询知识图谱，而非逐文件搜索；可托管或本地开源运行 | 129.5K | Apache-2.0 | [官网](https://github.com/Graphify-Labs/graphify) · [GitHub](https://github.com/Graphify-Labs/graphify) |
 | [Gemini CLI](https://openfree.tools/zh/gemini-cli) | 将 Gemini 能力带入终端的开源 AI 智能体 | 107.2K | Apache-2.0 | [官网](https://geminicli.com/) · [GitHub](https://github.com/google-gemini/gemini-cli) |
 | [claude-mem](https://openfree.tools/zh/claude-mem) | 为各类代理提供跨会话持续上下文 | 101.6K | Apache-2.0 | [官网](https://claude-mem.ai/) · [GitHub](https://github.com/thedotmack/claude-mem) |
 | [Agent Reach](https://openfree.tools/zh/agent-reach) | 给你的 AI Agent 一键装上互联网能力 | 98.8K | MIT | [官网](https://github.com/Panniantong/Agent-Reach) · [GitHub](https://github.com/Panniantong/Agent-Reach) |
@@ -494,6 +497,7 @@
 | --- | --- | ---: | --- | --- |
 | [Skills](https://openfree.tools/zh/skills-2) | 面向真实工程师的实用代理技能 | 295.7K | MIT | [官网](https://aihero.dev/skills) · [GitHub](https://github.com/mattpocock/skills) |
 | [Archify](https://openfree.tools/zh/archify) | 把系统、流程或计划变成可交互图解 | 81.9K | MIT | [官网](https://archify.si/) · [GitHub](https://github.com/tt-a1i/archify) |
+| [career-ops](https://openfree.tools/zh/career-ops) | 本地运行的 AI 求职搜索代理 | 75.7K | MIT | [官网](https://githubrepo.cloud/repo/career-ops-hq/career-ops?utm_source=x#badge) · [GitHub](https://github.com/career-ops-hq/career-ops) |
 | [HyperFrames](https://openfree.tools/zh/hyperframes) | 为智能体打造的视频编辑器：编写 HTML、渲染视频 | 59.2K | Apache-2.0 | [官网](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [Marketing Skills](https://openfree.tools/zh/marketing-skills) | 面向 AI 代理的营销技能库 | 54.0K | MIT | [官网](https://marketing-skills.com/) · [GitHub](https://github.com/coreyhaines31/marketingskills) |
 | [CLI-Anything](https://openfree.tools/zh/cli-anything) | 生成智能体原生 CLI，让 AI 智能体操作 | 53.5K | Apache-2.0 | [官网](https://github.com/HKUDS/CLI-Anything) · [GitHub](https://github.com/HKUDS/CLI-Anything) |
@@ -558,7 +562,10 @@
 
 ### 推理服务与 API
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [vLLM](https://openfree.tools/zh/vllm) | 面向所有人，简单、快速且经济高效的 LLM 服务。 | 94.2K | Apache-2.0 | [官网](https://vllm.ai/) · [GitHub](https://github.com/vllm-project/vllm) |
+| [DeepInfer](https://openfree.tools/zh/deepinfer) | 面向 DeepSeek 模型的高性能大规模推理框架 | 7.9K | Apache-2.0 | [官网](https://github.com/deepseek-ai/DeepInfer) · [GitHub](https://github.com/deepseek-ai/DeepInfer) |
 
 <a id="category-quantization-acceleration"></a>
 
@@ -597,6 +604,7 @@
 | [Open Notebook](https://openfree.tools/zh/open-notebook) | 私密掌控你的研究 | 39.5K | MIT | [官网](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
 | [Tolaria](https://openfree.tools/zh/tolaria) | AI 时代的第二大脑。永久免费。 | 19.9K | AGPL-3.0 | [官网](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [OpenKnowledge](https://openfree.tools/zh/openknowledge) | 漂亮的 AI 原生 Markdown 编辑器与知识库 | 4.3K | GPL-3.0 | [官网](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
+| [Morrow](https://openfree.tools/zh/morrow) | 隐私优先、本地优先的笔记与数据库工作区 | 0.2K | Apache-2.0 | [官网](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
 
 <a id="category-app-ui-sdks"></a>
 
@@ -613,6 +621,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Helicone](https://openfree.tools/zh/helicone) | AI 网关与 LLM 可观测性平台 | 6.2K | Apache-2.0 | [官网](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
+| [llm-d](https://openfree.tools/zh/llm-d) | Kubernetes 原生分布式 LLM 推理栈 | 4.9K | Apache-2.0 | [官网](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
 <a id="category-prompting-structured-generation"></a>
 
@@ -707,6 +716,7 @@
 | --- | --- | ---: | --- | --- |
 | [Langfuse](https://openfree.tools/zh/langfuse) | 开源智能体评估与可观测性 | 35.1K | Other | [官网](https://langfuse.com/) · [GitHub](https://github.com/langfuse/langfuse) |
 | [Arize Phoenix](https://openfree.tools/zh/arize-phoenix) | AI 可观测性与评估 | 11.6K | Other | [官网](https://arize.com/docs/phoenix) · [GitHub](https://github.com/Arize-ai/phoenix) |
+| [Folkbench](https://openfree.tools/zh/folkbench) | AI 中转站测评与排行榜 | 2.0K | Other | [官网](https://folkbench.com/) · [GitHub](https://github.com/Folkbench/folkbench) |
 
 <a id="category-observability-tracing"></a>
 
@@ -724,7 +734,9 @@
 
 ### 流水线、部署与计算
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [FlashMLA](https://openfree.tools/zh/flashmla) | 面向 DeepSeek 推理的优化注意力算子 | 13.1K | MIT | [官网](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 
 <a id="category-business-industry"></a>
 
@@ -825,6 +837,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Strix](https://openfree.tools/zh/strix) | 面向代码、API 与云端的自主 AI 渗透测试 | 70.3K | Apache-2.0 | [官网](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 
 <a id="category-guardrails-content-moderation"></a>
