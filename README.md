@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**166 projects · 80 subcategories · Synced daily**
+**179 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -140,14 +140,18 @@ No sponsors yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [OpenClaw](https://openfree.tools/openclaw) | The AI that really does things. | 390.5K | Other | [Website](https://openclaw.ai/) · [GitHub](https://github.com/openclaw/openclaw) |
+| [Mole](https://openfree.tools/mole) | Cleanup, software, and status for your Mac. | 72.0K | GPL-3.0 | [Website](https://mole.fit/) · [GitHub](https://github.com/tw93/Mole) |
 | [Inbox Zero](https://openfree.tools/inbox-zero) | Open-source AI email assistant to reach inbox zero fast | 12.6K | Other | [Website](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
 | [OpenWhispr](https://openfree.tools/openwhispr) | Privacy-first voice-to-text dictation and meeting notes | 9.6K | MIT | [Website](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
+| [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 
 <a id="category-meeting-assistants-notes"></a>
 
 ### Meeting Assistants &amp; Notes
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Meetily](https://openfree.tools/meetily) | Privacy-first AI meeting assistant | 31.1K | MIT | [Website](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -287,6 +291,8 @@ No published projects yet.
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 
@@ -410,6 +416,8 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Worktrunk](https://openfree.tools/worktrunk) | Git worktrees as easy as branches for parallel AI agents | 9.3K | Other | [Website](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
+| [Filee](https://openfree.tools/filee) | Drag. Drop. Converted. | 8.6K | MIT | [Website](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 
 <a id="category-voice-agents"></a>
 
@@ -446,8 +454,12 @@ No published projects yet.
 | [OpenWorker](https://openfree.tools/openworker) | AI that gets your everyday tasks done. | 18.3K | MIT | [Website](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
 | [Bytebase](https://openfree.tools/bytebase) | Unified database governance for teams and AI agents | 14.6K | Other | [Website](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [Manufact](https://openfree.tools/manufact) | The MCP cloud for building, testing, and shipping MCP apps | 10.8K | MIT | [Website](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
+| [universal-modder](https://openfree.tools/universal-modder) | Let AI coding agents mod almost any PC game you own. | 8.6K | MIT | [Website](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
+| [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
+| [freehire](https://openfree.tools/freehire) | Every tech job, straight from the source. | 2.0K | MIT | [Website](https://github.com/strelov1/freehire) · [GitHub](https://github.com/strelov1/freehire) |
+| [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
 
@@ -478,6 +490,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/browser-use) | Agents that use the browser. | 116.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
+| [Jev Ultrafast](https://openfree.tools/jev-ultrafast) | Fastest and cheapest web agent | 23.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/octop-gateway) | Multi-platform IM channel bridge for AI agents and bots | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
@@ -772,7 +785,9 @@ No published projects yet.
 
 ### Finance &amp; Investing
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [OpenStock](https://openfree.tools/openstock) | Markets, minus the paywall. | 20.6K | AGPL-3.0 | [Website](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 
 <a id="category-legal-compliance"></a>
 

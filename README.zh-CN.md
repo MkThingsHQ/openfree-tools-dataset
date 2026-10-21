@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**166 个项目 · 80 个二级分类 · 每日同步**
+**179 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -139,14 +139,18 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [OpenClaw](https://openfree.tools/zh/openclaw) | 真正能做事的AI | 390.5K | Other | [官网](https://openclaw.ai/) · [GitHub](https://github.com/openclaw/openclaw) |
+| [Mole](https://openfree.tools/zh/mole) | Mac 清理、软件管理与实时状态 | 72.0K | GPL-3.0 | [官网](https://mole.fit/) · [GitHub](https://github.com/tw93/Mole) |
 | [Inbox Zero](https://openfree.tools/zh/inbox-zero) | 开源 AI 邮件助手，快速实现收件箱清零 | 12.6K | Other | [官网](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
 | [OpenWhispr](https://openfree.tools/zh/openwhispr) | 隐私优先的语音转文字与会议笔记 | 9.6K | MIT | [官网](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
+| [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 
 <a id="category-meeting-assistants-notes"></a>
 
 ### 会议助手与纪要
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Meetily](https://openfree.tools/zh/meetily) | 隐私优先的AI会议助手 | 31.1K | MIT | [官网](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -286,6 +290,8 @@
 | [Happy](https://openfree.tools/zh/happy) | Claude Code 与 Codex 的远程控制 | 23.9K | MIT | [官网](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/zh/t3-code) | 面向编码代理的开源控制平面 | 23.6K | MIT | [官网](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Paseo](https://openfree.tools/zh/paseo) | 编码代理的控制平面 | 18.6K | Other | [官网](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 
@@ -409,6 +415,8 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Worktrunk](https://openfree.tools/zh/worktrunk) | 让 Git worktree 像分支一样简单，服务并行 AI 代理 | 9.3K | Other | [官网](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
+| [Filee](https://openfree.tools/zh/filee) | 拖拽，放下，转换完成。 | 8.6K | MIT | [官网](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 
 <a id="category-voice-agents"></a>
 
@@ -445,8 +453,12 @@
 | [OpenWorker](https://openfree.tools/zh/openworker) | AI 帮你把日常任务做完 | 18.3K | MIT | [官网](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
 | [Bytebase](https://openfree.tools/zh/bytebase) | 统一数据库治理，覆盖团队与 AI 代理 | 14.6K | Other | [官网](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [Manufact](https://openfree.tools/zh/manufact) | 用于构建、测试和发布 MCP 应用的 MCP 云平台 | 10.8K | MIT | [官网](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
+| [universal-modder](https://openfree.tools/zh/universal-modder) | 让 AI 编码代理为你拥有的几乎任何 PC 游戏制作模组。 | 8.6K | MIT | [官网](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
+| [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
+| [freehire](https://openfree.tools/zh/freehire) | 每个技术职位，直达原始来源。 | 2.0K | MIT | [官网](https://github.com/strelov1/freehire) · [GitHub](https://github.com/strelov1/freehire) |
+| [earshot](https://openfree.tools/zh/earshot) | 为编程智能体提供听觉：听见、审查并制作声音 | 1.9K | MIT | [官网](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/zh/octop-browser) | 直连 CDP 的轻量级浏览器自动化工具，精准可靠。 | 0.0K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
 
@@ -477,6 +489,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/zh/browser-use) | 使用浏览器的智能体。 | 116.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
+| [Jev Ultrafast](https://openfree.tools/zh/jev-ultrafast) | 最快、最便宜的网络智能体 | 23.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/zh/octop-gateway) | 面向 AI Agent 与机器人的多平台 IM 通道桥接 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
@@ -771,7 +784,9 @@
 
 ### 金融与投资
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [OpenStock](https://openfree.tools/zh/openstock) | 行情数据，无需付费墙。 | 20.6K | AGPL-3.0 | [官网](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 
 <a id="category-legal-compliance"></a>
 
