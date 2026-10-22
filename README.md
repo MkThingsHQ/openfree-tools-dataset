@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**179 projects · 80 subcategories · Synced daily**
+**193 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -132,6 +132,7 @@ No sponsors yet.
 | [Open WebUI](https://openfree.tools/open-webui) | User-friendly AI interface for Ollama and OpenAI | 153.2K | Other | [Website](https://openwebui.com/) · [GitHub](https://github.com/open-webui/open-webui) |
 | [Cherry Studio](https://openfree.tools/cherry-studio) | The All-in-One AI Workstation | 52.2K | AGPL-3.0 | [Website](https://cherryai.com/) · [GitHub](https://github.com/CherryHQ/cherry-studio) |
 | [OpenBot](https://openfree.tools/openbot) | The AI assistant your company can actually own. | 5.6K | MIT | [Website](https://www.copilotkit.ai/openbot) · [GitHub](https://github.com/CopilotKit/OpenBot) |
+| [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -143,6 +144,7 @@ No sponsors yet.
 | [Mole](https://openfree.tools/mole) | Cleanup, software, and status for your Mac. | 72.0K | GPL-3.0 | [Website](https://mole.fit/) · [GitHub](https://github.com/tw93/Mole) |
 | [Inbox Zero](https://openfree.tools/inbox-zero) | Open-source AI email assistant to reach inbox zero fast | 12.6K | Other | [Website](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
 | [OpenWhispr](https://openfree.tools/openwhispr) | Privacy-first voice-to-text dictation and meeting notes | 9.6K | MIT | [Website](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
+| [Open Duet](https://openfree.tools/open-duet) | Self-hosted AI coworkers with memory and approvals | 6.0K | Apache-2.0 | [Website](https://github.com/Anil-matcha/open-duet) · [GitHub](https://github.com/Anil-matcha/open-duet) |
 | [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 
 <a id="category-meeting-assistants-notes"></a>
@@ -182,6 +184,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [WordCraft](https://openfree.tools/wordcraft) | Fast, open-source word processing, rebuilt in pure Rust. | 13.8K | Apache-2.0 | [Website](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
+| [Wenyi](https://openfree.tools/wenyi) | Bring literature into your language with whole-book context. | 2.8K | MIT | [Website](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 
 <a id="category-generative-media-design"></a>
 
@@ -213,6 +216,8 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [HyperFrames](https://openfree.tools/hyperframes) | Write HTML. Render video. Built for agents. | 59.2K | Apache-2.0 | [Website](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
+| [AI Short Video Factory](https://openfree.tools/ai-short-video-factory) | Create more. Edit less. | 5.8K | AGPL-3.0 | [Website](https://short-video-factory.yils.blog/) · [GitHub](https://github.com/YILS-LIN/short-video-factory) |
+| [LemoOpuscar](https://openfree.tools/lemo-opuscar) | Reusable style prompts and code-made short films | 5.0K | MIT | [Website](https://github.com/lemomo-ai/lemo-opuscar) · [GitHub](https://github.com/lemomo-ai/lemo-opuscar) |
 
 <a id="category-video-editing-animation"></a>
 
@@ -229,6 +234,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [VoxCPM](https://openfree.tools/voxcpm) | Creative and expressive multilingual text-to-speech | 39.9K | Apache-2.0 | [Website](https://voxcpm.com/) · [GitHub](https://github.com/OpenBMB/VoxCPM) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 
 <a id="category-music-audio-generation"></a>
@@ -283,6 +289,7 @@ No published projects yet.
 | [OpenCode](https://openfree.tools/opencode) | The open source AI coding agent. | 210.1K | MIT | [Website](https://opencode.ai/) · [GitHub](https://github.com/anomalyco/opencode) |
 | [Codex](https://openfree.tools/codex) | Lightweight coding agent that runs in your terminal | 126.5K | Apache-2.0 | [Website](https://github.com/openai/codex) · [GitHub](https://github.com/openai/codex) |
 | [Caveman](https://openfree.tools/caveman) | Make AI agents say less and read less. | 113.1K | Apache-2.0 | [Website](https://github.com/JuliusBrussee/caveman) · [GitHub](https://github.com/JuliusBrussee/caveman) |
+| [Taste Skill](https://openfree.tools/taste-skill) | Agent skills that give coding agents taste | 100.5K | MIT | [Website](https://github.com/Leonxlnx/taste-skill) · [GitHub](https://github.com/Leonxlnx/taste-skill) |
 | [Orca](https://openfree.tools/orca) | Ship 100x with the agent IDE | 78.5K | MIT | [Website](https://onorca.dev/) · [GitHub](https://github.com/stablyai/orca) |
 | [Warp](https://openfree.tools/warp) | Open infrastructure for cloud software factories | 65.2K | AGPL-3.0 | [Website](https://warp.dev/) · [GitHub](https://github.com/warpdotdev/warp) |
 | [Open Code Review](https://openfree.tools/open-code-review) | AI code review agent with line-level precision | 47.5K | Apache-2.0 | [Website](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
@@ -302,6 +309,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Hallmark](https://openfree.tools/hallmark) | Anti-AI-slop design skill for AI coding agents. | 30.6K | MIT | [Website](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/openui) | Open Standard for Generative UI | 11.4K | MIT | [Website](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
 | [Anatomy](https://openfree.tools/anatomy) | A Claude Code skill for live isometric machine figures | 1.5K | MIT | [Website](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
 
@@ -453,6 +461,7 @@ No published projects yet.
 | [OpenSEO](https://openfree.tools/openseo) | Open source alternative to Semrush and Ahrefs | 23.2K | MIT | [Website](https://openseo.so/) · [GitHub](https://github.com/every-app/open-seo) |
 | [OpenWorker](https://openfree.tools/openworker) | AI that gets your everyday tasks done. | 18.3K | MIT | [Website](http://openworker.com/) · [GitHub](https://github.com/andrewyng/openworker) |
 | [Bytebase](https://openfree.tools/bytebase) | Unified database governance for teams and AI agents | 14.6K | Other | [Website](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
+| [ARTEMIS](https://openfree.tools/artemis) | Reliable Android automation from natural language | 13.7K | Apache-2.0 | [Website](https://github.com/google/artemis) · [GitHub](https://github.com/google/artemis) |
 | [Manufact](https://openfree.tools/manufact) | The MCP cloud for building, testing, and shipping MCP apps | 10.8K | MIT | [Website](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [universal-modder](https://openfree.tools/universal-modder) | Let AI coding agents mod almost any PC game you own. | 8.6K | MIT | [Website](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
@@ -460,6 +469,7 @@ No published projects yet.
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [freehire](https://openfree.tools/freehire) | Every tech job, straight from the source. | 2.0K | MIT | [Website](https://github.com/strelov1/freehire) · [GitHub](https://github.com/strelov1/freehire) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
+| [CoOp:Anything](https://openfree.tools/coop-anything) | Find co-op mods for single-player games | 0.8K | MIT | [Website](https://coopanything.app/) · [GitHub](https://github.com/cranebeaker/coop-anything) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
 
@@ -472,6 +482,7 @@ No published projects yet.
 | [Mem0](https://openfree.tools/mem0) | AI memory that persists across sessions and agents | 66.0K | Apache-2.0 | [Website](https://mem0.ai/) · [GitHub](https://github.com/mem0ai/mem0) |
 | [Context Mode](https://openfree.tools/context-mode) | The control plane between coding agents and models. | 30.2K | Other | [Website](https://github.com/mksglu/context-mode) · [GitHub](https://github.com/mksglu/context-mode) |
 | [ai-memory](https://openfree.tools/ai-memory) | Long-term memory for AI coding agents | 9.7K | MIT | [Website](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
+| [Beacon](https://openfree.tools/beacon) | Self-improving memory for coding agents | 2.5K | MIT | [Website](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
 | [Hy-Memory](https://openfree.tools/hy-memory) | Dual-system cognitive memory for self-evolving LLM agents. | 0.3K | Other | [Website](https://github.com/Tencent-Hunyuan/Hy-Memory) · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) |
 | [Octop Memory](https://openfree.tools/octop-2) | Your intelligent partner that understands and grows with you | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-memory) |
 
@@ -481,6 +492,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Repomix](https://openfree.tools/repomix) | Pack your codebase into AI-friendly formats | 29.0K | MIT | [Website](https://repomix.com/) · [GitHub](https://github.com/yamadashy/repomix) |
 | [billion-context](https://openfree.tools/billion-context) | Context-compression plugin for long coding sessions | 1.7K | Other | [Website](https://github.com/ranxianglei/billion-context) · [GitHub](https://github.com/ranxianglei/billion-context) |
 
 <a id="category-agent-sdks-runtimes"></a>
@@ -517,6 +529,7 @@ No published projects yet.
 | [CLI-Anything](https://openfree.tools/cli-anything) | Generate agent-native CLIs and let AI agents operate them | 53.5K | Apache-2.0 | [Website](https://github.com/HKUDS/CLI-Anything) · [GitHub](https://github.com/HKUDS/CLI-Anything) |
 | [Guizang PPT Skill](https://openfree.tools/guizang-ppt-skill) | Generate web decks, images, and covers for AI agents. | 27.6K | AGPL-3.0 | [Website](https://github.com/op7418/guizang-ppt-skill) · [GitHub](https://github.com/op7418/guizang-ppt-skill) |
 | [baoyu-skills](https://openfree.tools/baoyu-skills) | AI Agent skills for daily work efficiency | 26.4K | MIT | [Website](https://github.com/JimLiu/baoyu-skills) · [GitHub](https://github.com/JimLiu/baoyu-skills) |
+| [img2threejs](https://openfree.tools/img2threejs) | Rebuild reference images as procedural Three.js models | 18.6K | Apache-2.0 | [Website](https://img2threejs.io/) · [GitHub](https://github.com/img2threejs/img2threejs) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Android Skills](https://openfree.tools/skills) | AI-optimized modular instructions for Android development | 8.3K | Apache-2.0 | [Website](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
 | [ASD-STE100 Skill](https://openfree.tools/asd-ste100-skill) | Rewrite ambiguous agent-facing English with ASD-STE100 rules | 4.2K | MIT | [Website](https://github.com/danyuchn/asd-ste100-skill) · [GitHub](https://github.com/danyuchn/asd-ste100-skill) |
@@ -626,6 +639,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Free My TV](https://openfree.tools/free-my-tv) | A fast, ad-free TV home screen | 3.1K | MIT | [Website](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Pele](https://openfree.tools/pele) | Render Mermaid diagrams to SVG with CSS-variable theming. | 1.8K | Other | [Website](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
 
 <a id="category-model-gateways-routing"></a>
