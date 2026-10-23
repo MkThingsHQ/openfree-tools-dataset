@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**193 个项目 · 80 个二级分类 · 每日同步**
+**202 个项目 · 80 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -198,6 +198,7 @@
 | [ComfyUI](https://openfree.tools/zh/comfyui) | 模块化节点图 AI 创作引擎 | 138.2K | GPL-3.0 | [官网](https://www.comfy.org/) · [GitHub](https://github.com/Comfy-Org/ComfyUI) |
 | [OpenDesign](https://openfree.tools/zh/opendesign) | 开源、本地优先的 Claude Design 替代方案 | 98.3K | Apache-2.0 | [官网](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/zh/artcraft) | 可控 AI 图像与视频的开源工作室 | 28.9K | Apache-2.0 | [官网](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
+| [Toonflow](https://openfree.tools/zh/toonflow-app) | 开源 AI 短剧、漫剧与视频创作平台 | 19.0K | MIT | [官网](https://github.com/HBAI-Ltd/Toonflow-app) · [GitHub](https://github.com/HBAI-Ltd/Toonflow-app) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 
 <a id="category-image-editing-enhancement"></a>
@@ -226,6 +227,7 @@
 | --- | --- | ---: | --- | --- |
 | [Recordly](https://openfree.tools/zh/recordly) | 开源屏幕录制与编辑工具，制作精美演示 | 33.9K | Other | [官网](https://github.com/webadderallorg/Recordly) · [GitHub](https://github.com/webadderallorg/Recordly) |
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Concat](https://openfree.tools/zh/concat) | 免费开源的 CapCut 替代方案 | 10.9K | AGPL-3.0 | [官网](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
 
 <a id="category-speech-voice-generation"></a>
 
@@ -367,6 +369,7 @@
 | [Multica](https://openfree.tools/zh/multica) | 让智能体像队友一样出现在看板上。 | 51.4K | Other | [官网](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/zh/ai-job-search) | 在你的机器上运行的求职流程。 | 48.6K | MIT | [官网](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
 | [OpenHuman](https://openfree.tools/zh/openhuman) | 运行在笔记本电脑上的开源个人 AI | 40.1K | GPL-3.0 | [官网](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
+| [Onyx](https://openfree.tools/zh/onyx) | 为您的员工和AI代理提供完整上下文 | 32.3K | Other | [官网](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/zh/nanoclaw) | 您的个人 AI 代理。安全。轻量。属于您。 | 30.8K | MIT | [官网](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
 | [OpenAI Agents SDK](https://openfree.tools/zh/openai-agents-sdk) | 轻量且强大的多智能体工作流框架 | 29.7K | MIT | [官网](https://openai.github.io/openai-agents-python/) · [GitHub](https://github.com/openai/openai-agents-python) |
 | [Mastra](https://openfree.tools/zh/mastra) | 面向 AI 智能体与应用的 TypeScript 框架 | 28.9K | Other | [官网](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
@@ -390,6 +393,7 @@
 | [TradingAgents](https://openfree.tools/zh/tradingagents) | 多智能体大语言模型金融交易框架 | 111.8K | Apache-2.0 | [官网](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/zh/lobehub) | 你的首席智能体运营官，7×24 小时管理 AI 团队 | 82.8K | Other | [官网](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
 | [cmux](https://openfree.tools/zh/cmux) | 基于 Ghostty 的 macOS 终端，为编码代理打造 | 28.2K | Other | [官网](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
+| [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -502,6 +506,7 @@
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/zh/browser-use) | 使用浏览器的智能体。 | 116.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/zh/jev-ultrafast) | 最快、最便宜的网络智能体 | 23.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [OpenShell](https://openfree.tools/zh/openshell) | 面向自主 AI 智能体的安全、私密运行时 | 17.7K | Apache-2.0 | [官网](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/zh/octop-gateway) | 面向 AI Agent 与机器人的多平台 IM 通道桥接 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
@@ -553,6 +558,7 @@
 | --- | --- | ---: | --- | --- |
 | [llama.cpp](https://openfree.tools/zh/llama-cpp) | C/C++ 实现的 LLM 推理 | 129.5K | MIT | [官网](https://llama.app/) · [GitHub](https://github.com/ggml-org/llama.cpp) |
 | [DeepSeek-V3](https://openfree.tools/zh/deepseek-v3) | 671B 参数混合专家语言模型，每 token 激活 37B | 104.5K | MIT | [官网](https://github.com/deepseek-ai/DeepSeek-V3) · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3) |
+| [Laya](https://openfree.tools/zh/laya) | 单次前向完成类型化决策并给出校准概率 | 34.0K | Apache-2.0 | [官网](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
 
@@ -639,6 +645,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Free My TV](https://openfree.tools/zh/free-my-tv) | 快速、无广告的电视首页 | 3.1K | MIT | [官网](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
+| [Solid Glass](https://openfree.tools/zh/solid-glass) | 面向 AI 应用的触感化实体设计系统。 | 2.1K | MIT | [官网](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/zh/pele) | 轻量快速渲染 Mermaid 图表为 SVG，并用 CSS 变量设置主题。 | 1.8K | Other | [官网](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
 
 <a id="category-model-gateways-routing"></a>
@@ -647,6 +654,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [New API](https://openfree.tools/zh/new-api) | 面向模型、应用与智能体的统一 AI 网关 | 50.6K | AGPL-3.0 | [官网](https://www.newapi.ai/) · [GitHub](https://github.com/QuantumNous/new-api) |
 | [Helicone](https://openfree.tools/zh/helicone) | AI 网关与 LLM 可观测性平台 | 6.2K | Apache-2.0 | [官网](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
 | [llm-d](https://openfree.tools/zh/llm-d) | Kubernetes 原生分布式 LLM 推理栈 | 4.9K | Apache-2.0 | [官网](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
@@ -685,6 +693,7 @@
 | --- | --- | ---: | --- | --- |
 | [PaddleOCR](https://openfree.tools/zh/paddleocr) | 全球领先的OCR工具包与文档AI引擎 | 90.2K | Apache-2.0 | [官网](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
 | [Docling](https://openfree.tools/zh/docling) | 让文档为生成式 AI 做好准备 | 68.0K | MIT | [官网](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
+| [PPT Master](https://openfree.tools/zh/ppt-master) | 从任意文档生成原生可编辑的 PPTX | 56.6K | MIT | [官网](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
 | [anydoc](https://openfree.tools/zh/anydoc) | 将各类文档转换为 GitHub 风格 Markdown 的 Rust 库 | 22.1K | MIT | [官网](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
 | [@office-kit/xlsx](https://openfree.tools/zh/office-kit-xlsx) | 在 TypeScript 中读取、编辑和写入 Excel 文件 | 0.1K | MIT | [官网](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/zh/office-kit-pptx) | 用 TypeScript 读取、编辑和写入 .pptx 文件 | 0.0K | MIT | [官网](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |

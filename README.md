@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**193 projects · 80 subcategories · Synced daily**
+**202 projects · 80 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -199,6 +199,7 @@ No published projects yet.
 | [ComfyUI](https://openfree.tools/comfyui) | Modular node-graph AI creation engine | 138.2K | GPL-3.0 | [Website](https://www.comfy.org/) · [GitHub](https://github.com/Comfy-Org/ComfyUI) |
 | [OpenDesign](https://openfree.tools/opendesign) | The open-source, local-first Claude Design alternative | 98.3K | Apache-2.0 | [Website](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/artcraft) | Open-source studio for controllable AI image and video. | 28.9K | Apache-2.0 | [Website](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
+| [Toonflow](https://openfree.tools/toonflow-app) | Open-source AI short drama, motion comic, and video platform | 19.0K | MIT | [Website](https://github.com/HBAI-Ltd/Toonflow-app) · [GitHub](https://github.com/HBAI-Ltd/Toonflow-app) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 
 <a id="category-image-editing-enhancement"></a>
@@ -227,6 +228,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Recordly](https://openfree.tools/recordly) | Open-source screen recorder for polished demos | 33.9K | Other | [Website](https://github.com/webadderallorg/Recordly) · [GitHub](https://github.com/webadderallorg/Recordly) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Concat](https://openfree.tools/concat) | The free, open-source CapCut replacement. | 10.9K | AGPL-3.0 | [Website](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
 
 <a id="category-speech-voice-generation"></a>
 
@@ -368,6 +370,7 @@ No published projects yet.
 | [Multica](https://openfree.tools/multica) | Agents that show up on the board. | 51.4K | Other | [Website](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/ai-job-search) | The job search that runs on your machine. | 48.6K | MIT | [Website](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
 | [OpenHuman](https://openfree.tools/openhuman) | Open-source personal AI that runs on your laptop | 40.1K | GPL-3.0 | [Website](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
+| [Onyx](https://openfree.tools/onyx) | Complete Context for Your Humans and Agents | 32.3K | Other | [Website](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/nanoclaw) | Your personal AI agent. Secure. Lightweight. Yours. | 30.8K | MIT | [Website](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
 | [OpenAI Agents SDK](https://openfree.tools/openai-agents-sdk) | A lightweight, powerful framework for multi-agent workflows | 29.7K | MIT | [Website](https://openai.github.io/openai-agents-python/) · [GitHub](https://github.com/openai/openai-agents-python) |
 | [Mastra](https://openfree.tools/mastra) | TypeScript framework for AI agents and applications | 28.9K | Other | [Website](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
@@ -391,6 +394,7 @@ No published projects yet.
 | [TradingAgents](https://openfree.tools/tradingagents) | Multi-agent LLM framework for financial trading | 111.8K | Apache-2.0 | [Website](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/lobehub) | Your Chief Agent Operator for 7×24 AI team operations | 82.8K | Other | [Website](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
 | [cmux](https://openfree.tools/cmux) | Ghostty-based macOS terminal for coding agents | 28.2K | Other | [Website](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
+| [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -503,6 +507,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/browser-use) | Agents that use the browser. | 116.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/jev-ultrafast) | Fastest and cheapest web agent | 23.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [OpenShell](https://openfree.tools/openshell) | Safe, private runtime for autonomous AI agents. | 17.7K | Apache-2.0 | [Website](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/octop-gateway) | Multi-platform IM channel bridge for AI agents and bots | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
@@ -554,6 +559,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [llama.cpp](https://openfree.tools/llama-cpp) | LLM inference in C/C++ | 129.5K | MIT | [Website](https://llama.app/) · [GitHub](https://github.com/ggml-org/llama.cpp) |
 | [DeepSeek-V3](https://openfree.tools/deepseek-v3) | Mixture-of-Experts language model with 671B parameters | 104.5K | MIT | [Website](https://github.com/deepseek-ai/DeepSeek-V3) · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3) |
+| [Laya](https://openfree.tools/laya) | Typed decisions with calibrated probabilities in one pass | 34.0K | Apache-2.0 | [Website](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/qwen3) | Large language model series by the Qwen team, Alibaba Cloud | 27.7K | — | [Website](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/qwen3-vl) | Multimodal large language model series by Qwen team | 20.0K | Apache-2.0 | [Website](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
 
@@ -640,6 +646,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Free My TV](https://openfree.tools/free-my-tv) | A fast, ad-free TV home screen | 3.1K | MIT | [Website](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
+| [Solid Glass](https://openfree.tools/solid-glass) | A tactile, physical design system for AI applications. | 2.1K | MIT | [Website](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/pele) | Render Mermaid diagrams to SVG with CSS-variable theming. | 1.8K | Other | [Website](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
 
 <a id="category-model-gateways-routing"></a>
@@ -648,6 +655,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [New API](https://openfree.tools/new-api) | Unified AI gateway for models, apps, and agents | 50.6K | AGPL-3.0 | [Website](https://www.newapi.ai/) · [GitHub](https://github.com/QuantumNous/new-api) |
 | [Helicone](https://openfree.tools/helicone) | AI Gateway and LLM observability platform | 6.2K | Apache-2.0 | [Website](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
 | [llm-d](https://openfree.tools/llm-d) | Kubernetes-native distributed LLM inference | 4.9K | Apache-2.0 | [Website](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
@@ -686,6 +694,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [PaddleOCR](https://openfree.tools/paddleocr) | Global Leading OCR Toolkit &amp; Document AI Engine | 90.2K | Apache-2.0 | [Website](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
 | [Docling](https://openfree.tools/docling) | Get your documents ready for gen AI | 68.0K | MIT | [Website](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
+| [PPT Master](https://openfree.tools/ppt-master) | AI generates natively editable PPTX from any document | 56.6K | MIT | [Website](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
 | [anydoc](https://openfree.tools/anydoc) | Convert documents to GitHub-Flavored Markdown in Rust. | 22.1K | MIT | [Website](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
 | [@office-kit/xlsx](https://openfree.tools/office-kit-xlsx) | Read, edit, and write Excel files in TypeScript | 0.1K | MIT | [Website](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/office-kit-pptx) | Read, edit, and write .pptx files in TypeScript | 0.0K | MIT | [Website](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
