@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**202 projects · 80 subcategories · Synced daily**
+**218 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -30,6 +30,7 @@ No sponsors yet.
   - [Search &amp; Answer Engines](#category-search-answer-engines)
   - [Deep Research](#category-deep-research)
   - [Writing &amp; Knowledge Work](#category-writing-knowledge)
+  - [System &amp; Device Utilities](#category-system-device-utilities)
 - [Generative Media &amp; Design](#category-generative-media-design)
   - [Image Generation &amp; Workflows](#category-image-generation-workflows)
   - [Image Editing &amp; Enhancement](#category-image-editing-enhancement)
@@ -48,6 +49,7 @@ No sponsors yet.
   - [Debugging &amp; Program Repair](#category-debugging-program-repair)
   - [Code Search &amp; Understanding](#category-code-search-understanding)
   - [Coding Harnesses &amp; CLI Runtimes](#category-coding-harnesses-cli-runtimes)
+  - [Gaming Tools &amp; Modding](#category-gaming-tools-modding)
 - [Agents &amp; Automation](#category-agents-automation)
   - [Agent Frameworks](#category-agent-frameworks)
   - [Multi-Agent Systems](#category-multi-agent-systems)
@@ -102,6 +104,7 @@ No sponsors yet.
   - [Legal &amp; Compliance](#category-legal-compliance)
   - [Healthcare &amp; Medical](#category-healthcare-medical)
   - [Education &amp; Learning](#category-education-learning)
+  - [Jobs &amp; Recruiting](#category-jobs-recruiting)
 - [Vision &amp; Robotics](#category-vision-robotics-edge)
   - [Object Detection &amp; Tracking](#category-object-detection-tracking)
   - [Segmentation &amp; Image Understanding](#category-segmentation-image-understanding)
@@ -131,8 +134,8 @@ No sponsors yet.
 | --- | --- | ---: | --- | --- |
 | [Open WebUI](https://openfree.tools/open-webui) | User-friendly AI interface for Ollama and OpenAI | 153.2K | Other | [Website](https://openwebui.com/) · [GitHub](https://github.com/open-webui/open-webui) |
 | [Cherry Studio](https://openfree.tools/cherry-studio) | The All-in-One AI Workstation | 52.2K | AGPL-3.0 | [Website](https://cherryai.com/) · [GitHub](https://github.com/CherryHQ/cherry-studio) |
+| [Strata](https://openfree.tools/strata) | Run Qwen3.8-Flash-Next on your own PC | 31.2K | MIT | [Website](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [OpenBot](https://openfree.tools/openbot) | The AI assistant your company can actually own. | 5.6K | MIT | [Website](https://www.copilotkit.ai/openbot) · [GitHub](https://github.com/CopilotKit/OpenBot) |
-| [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -169,7 +172,9 @@ No sponsors yet.
 
 ### Search &amp; Answer Engines
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Vane](https://openfree.tools/vane) | Privacy-focused AI answering engine | 36.9K | MIT | [Website](https://github.com/ItzCrazyKns/Vane) · [GitHub](https://github.com/ItzCrazyKns/Vane) |
 
 <a id="category-deep-research"></a>
 
@@ -185,6 +190,14 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [WordCraft](https://openfree.tools/wordcraft) | Fast, open-source word processing, rebuilt in pure Rust. | 13.8K | Apache-2.0 | [Website](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [Wenyi](https://openfree.tools/wenyi) | Bring literature into your language with whole-book context. | 2.8K | MIT | [Website](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
+
+<a id="category-system-device-utilities"></a>
+
+### System &amp; Device Utilities
+
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 
 <a id="category-generative-media-design"></a>
 
@@ -229,6 +242,8 @@ No published projects yet.
 | [Recordly](https://openfree.tools/recordly) | Open-source screen recorder for polished demos | 33.9K | Other | [Website](https://github.com/webadderallorg/Recordly) · [GitHub](https://github.com/webadderallorg/Recordly) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Concat](https://openfree.tools/concat) | The free, open-source CapCut replacement. | 10.9K | AGPL-3.0 | [Website](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
+| [ManimGX](https://openfree.tools/manimgx) | Blazingly fast 3D animation engine for agents | 2.1K | MIT | [Website](https://manimgx.academa.ai/) · [GitHub](https://github.com/academa-labs/manimgx) |
+| [CorridorKey 2.0](https://openfree.tools/corridorkey-2-0) | One-click chroma keying for green and blue screens | 1.1K | Other | [Website](https://corridorkey.com/) · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) |
 
 <a id="category-speech-voice-generation"></a>
 
@@ -253,6 +268,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Pascal Editor](https://openfree.tools/pascal-editor) | Open-source local-first 3D building editor | 25.0K | MIT | [Website](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [Hunyuan3D](https://openfree.tools/hunyuan3d) | All-in-one AI creation platform for 3D content | 15.0K | Other | [Website](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
 <a id="category-avatars-digital-humans"></a>
 
@@ -278,6 +294,7 @@ No published projects yet.
 | [Claude Code Plugins](https://openfree.tools/claude-plugins-official) | Official Anthropic-managed Claude Code plugin directory | 41.0K | Apache-2.0 | [Website](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/omp) | A coding agent with the IDE wired in. | 33.5K | MIT | [Website](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
 
@@ -300,9 +317,9 @@ No published projects yet.
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
-| [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
+| [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 
 <a id="category-app-ui-generation"></a>
@@ -348,6 +365,14 @@ No published projects yet.
 | [Pebrel](https://openfree.tools/pebrel) | GPU-accelerated terminal and SSH workspace for AI CLI work | 3.5K | GPL-3.0 | [Website](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/cf) | The agentic CLI for the entire Cloudflare API | 0.6K | Apache-2.0 | [Website](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
 
+<a id="category-gaming-tools-modding"></a>
+
+### Gaming Tools &amp; Modding
+
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [CoOp:Anything](https://openfree.tools/coop-anything) | Find co-op mods for single-player games | 0.8K | MIT | [Website](https://coopanything.app/) · [GitHub](https://github.com/cranebeaker/coop-anything) |
+
 <a id="category-agents-automation"></a>
 
 ## Agents &amp; Automation
@@ -381,6 +406,7 @@ No published projects yet.
 | [Harbor](https://openfree.tools/harbor) | Evaluate and optimize sandboxed agents and models. | 5.6K | Apache-2.0 | [Website](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
 | [AI-DLC Workflows](https://openfree.tools/aidlc-workflows) | Structured, gated AI-driven software development workflows | 5.4K | MIT-0 | [Website](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
 | [Octop](https://openfree.tools/octop) | A smarter, self-hosted, multi-user, multi-agent AI assistant | 5.3K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/Octop) |
+| [Rakazo](https://openfree.tools/rakazo) | Open-source platform for persistent AI teammates | 3.0K | Apache-2.0 | [Website](https://rakazo.com/) · [GitHub](https://github.com/elie222/rakazo) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/octop-harness) | Production-grade agent runtime and self-hosted collaboration | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
 
@@ -404,6 +430,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [OpenMontage](https://openfree.tools/openmontage) | The open-source, agentic video production system | 61.5K | AGPL-3.0 | [Website](https://www.openmontage.video/) · [GitHub](https://github.com/calesthio/OpenMontage) |
+| [Omnara](https://openfree.tools/omnara) | Open-source managed agent platform | 3.2K | Apache-2.0 | [Website](https://www.omnara.com/) · [GitHub](https://github.com/omnara-ai/omnara) |
 
 <a id="category-browser-agents"></a>
 
@@ -470,10 +497,10 @@ No published projects yet.
 | [universal-modder](https://openfree.tools/universal-modder) | Let AI coding agents mod almost any PC game you own. | 8.6K | MIT | [Website](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
+| [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
-| [freehire](https://openfree.tools/freehire) | Every tech job, straight from the source. | 2.0K | MIT | [Website](https://github.com/strelov1/freehire) · [GitHub](https://github.com/strelov1/freehire) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
-| [CoOp:Anything](https://openfree.tools/coop-anything) | Find co-op mods for single-player games | 0.8K | MIT | [Website](https://coopanything.app/) · [GitHub](https://github.com/cranebeaker/coop-anything) |
+| [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
 
@@ -484,6 +511,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Mem0](https://openfree.tools/mem0) | AI memory that persists across sessions and agents | 66.0K | Apache-2.0 | [Website](https://mem0.ai/) · [GitHub](https://github.com/mem0ai/mem0) |
+| [Hindsight](https://openfree.tools/hindsight) | Agent memory that learns | 53.2K | MIT | [Website](https://hindsight.vectorize.io/) · [GitHub](https://github.com/vectorize-io/hindsight) |
 | [Context Mode](https://openfree.tools/context-mode) | The control plane between coding agents and models. | 30.2K | Other | [Website](https://github.com/mksglu/context-mode) · [GitHub](https://github.com/mksglu/context-mode) |
 | [ai-memory](https://openfree.tools/ai-memory) | Long-term memory for AI coding agents | 9.7K | MIT | [Website](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
 | [Beacon](https://openfree.tools/beacon) | Self-improving memory for coding agents | 2.5K | MIT | [Website](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
@@ -539,6 +567,7 @@ No published projects yet.
 | [Android Skills](https://openfree.tools/skills) | AI-optimized modular instructions for Android development | 8.3K | Apache-2.0 | [Website](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
 | [ASD-STE100 Skill](https://openfree.tools/asd-ste100-skill) | Rewrite ambiguous agent-facing English with ASD-STE100 rules | 4.2K | MIT | [Website](https://github.com/danyuchn/asd-ste100-skill) · [GitHub](https://github.com/danyuchn/asd-ste100-skill) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
+| [3D Model Anything](https://openfree.tools/3d-model-anything) | Capture rooms with iPhone LiDAR as editable Three.js scenes | 1.3K | Other | [Website](https://wesbos.github.io/3d-model-anything/) · [GitHub](https://github.com/wesbos/3d-model-anything) |
 | [engineering-review-board](https://openfree.tools/engineering-review-board) | Canonical local source for reusable AI agent skills | 0.0K | MIT | [Website](https://github.com/nledford/engineering-review-board) · [GitHub](https://github.com/nledford/engineering-review-board) |
 
 <a id="category-agent-communication-protocols"></a>
@@ -598,6 +627,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [vLLM](https://openfree.tools/vllm) | Easy, fast, and cost-efficient LLM serving for everyone. | 94.2K | Apache-2.0 | [Website](https://vllm.ai/) · [GitHub](https://github.com/vllm-project/vllm) |
+| [DwarfStar](https://openfree.tools/dwarfstar) | Local inference engine for DeepSeek, GLM, and Qwen | 24.0K | MIT | [Website](https://github.com/antirez/ds4) · [GitHub](https://github.com/antirez/ds4) |
 | [DeepInfer](https://openfree.tools/deepinfer) | High-performance inference framework for DeepSeek models | 7.9K | Apache-2.0 | [Website](https://github.com/deepseek-ai/DeepInfer) · [GitHub](https://github.com/deepseek-ai/DeepInfer) |
 
 <a id="category-quantization-acceleration"></a>
@@ -616,6 +646,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [DSPy](https://openfree.tools/dspy) | Program, don’t prompt, your LLMs. | 38.8K | MIT | [Website](https://dspy.ai/) · [GitHub](https://github.com/stanfordnlp/dspy) |
 | [GDevelop](https://openfree.tools/gdevelop) | Open-source no-code engine for 2D, 3D and multiplayer games | 27.6K | Other | [Website](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/emdash) | Open source Astro CMS for humans and agents | 13.8K | MIT | [Website](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
 | [Void](https://openfree.tools/void) | Build with Vite. Deploy with Void. | 0.3K | MIT | [Website](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
@@ -627,6 +658,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [GraphRAG](https://openfree.tools/graphrag) | A modular graph-based Retrieval-Augmented Generation system | 36.1K | MIT | [Website](https://microsoft.github.io/graphrag/) · [GitHub](https://github.com/microsoft/graphrag) |
+| [PageIndex](https://openfree.tools/pageindex) | Vectorless, reasoning-based RAG for long documents | 35.9K | MIT | [Website](https://pageindex.ai/) · [GitHub](https://github.com/VectifyAI/PageIndex) |
 
 <a id="category-knowledge-applications"></a>
 
@@ -655,6 +687,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [OmniRoute](https://openfree.tools/omniroute) | One endpoint, many providers, automatic fallback. | 80.6K | MIT | [Website](https://omniroute.online/) · [GitHub](https://github.com/cheaper-inference/OmniRoute) |
 | [New API](https://openfree.tools/new-api) | Unified AI gateway for models, apps, and agents | 50.6K | AGPL-3.0 | [Website](https://www.newapi.ai/) · [GitHub](https://github.com/QuantumNous/new-api) |
 | [Helicone](https://openfree.tools/helicone) | AI Gateway and LLM observability platform | 6.2K | Apache-2.0 | [Website](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
 | [llm-d](https://openfree.tools/llm-d) | Kubernetes-native distributed LLM inference | 4.9K | Apache-2.0 | [Website](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
@@ -692,6 +725,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [MarkItDown](https://openfree.tools/markitdown) | Convert documents and media to Markdown for LLMs | 191.8K | MIT | [Website](https://github.com/microsoft/markitdown) · [GitHub](https://github.com/microsoft/markitdown) |
 | [PaddleOCR](https://openfree.tools/paddleocr) | Global Leading OCR Toolkit &amp; Document AI Engine | 90.2K | Apache-2.0 | [Website](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
 | [Docling](https://openfree.tools/docling) | Get your documents ready for gen AI | 68.0K | MIT | [Website](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
 | [PPT Master](https://openfree.tools/ppt-master) | AI generates natively editable PPTX from any document | 56.6K | MIT | [Website](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
@@ -829,6 +863,14 @@ No published projects yet.
 ### Education &amp; Learning
 
 No published projects yet.
+
+<a id="category-jobs-recruiting"></a>
+
+### Jobs &amp; Recruiting
+
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [freehire](https://openfree.tools/freehire) | Every tech job, straight from the source. | 2.0K | MIT | [Website](https://github.com/strelov1/freehire) · [GitHub](https://github.com/strelov1/freehire) |
 
 <a id="category-vision-robotics-edge"></a>
 
