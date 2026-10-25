@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**218 projects · 83 subcategories · Synced daily**
+**226 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -313,10 +313,12 @@ No published projects yet.
 | [Warp](https://openfree.tools/warp) | Open infrastructure for cloud software factories | 65.2K | AGPL-3.0 | [Website](https://warp.dev/) · [GitHub](https://github.com/warpdotdev/warp) |
 | [Open Code Review](https://openfree.tools/open-code-review) | AI code review agent with line-level precision | 47.5K | Apache-2.0 | [Website](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/codewhale) | Open-source coding agent that works with any model. | 41.1K | MIT | [Website](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
+| [AI Website Cloner Template](https://openfree.tools/ai-website-cloner-template) | Clone any website with one command using AI coding agents | 37.3K | MIT | [Website](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
 | [Grok Build](https://openfree.tools/grok-build) | SpaceXAI's coding agent harness and TUI | 27.1K | Apache-2.0 | [Website](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [OpenRig](https://openfree.tools/openrig) | Persistent teams of coding agents on your own machine | 8.2K | Apache-2.0 | [Website](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
@@ -394,6 +396,7 @@ No published projects yet.
 | [Ruflo](https://openfree.tools/ruflo) | An agent meta-harness for Claude Code and Codex. | 75.6K | MIT | [Website](https://github.com/ruvnet/ruflo) · [GitHub](https://github.com/ruvnet/ruflo) |
 | [Multica](https://openfree.tools/multica) | Agents that show up on the board. | 51.4K | Other | [Website](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/ai-job-search) | The job search that runs on your machine. | 48.6K | MIT | [Website](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
+| [CowAgent](https://openfree.tools/cowagent) | Open-source super AI assistant and Agent Harness | 47.6K | MIT | [Website](https://cowagent.ai/) · [GitHub](https://github.com/zhayujie/CowAgent) |
 | [OpenHuman](https://openfree.tools/openhuman) | Open-source personal AI that runs on your laptop | 40.1K | GPL-3.0 | [Website](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [Onyx](https://openfree.tools/onyx) | Complete Context for Your Humans and Agents | 32.3K | Other | [Website](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/nanoclaw) | Your personal AI agent. Secure. Lightweight. Yours. | 30.8K | MIT | [Website](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
@@ -535,6 +538,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/browser-use) | Agents that use the browser. | 116.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/jev-ultrafast) | Fastest and cheapest web agent | 23.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [Moli](https://openfree.tools/moli) | Open-source headless browser for AI agents | 20.6K | Apache-2.0 | [Website](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/openshell) | Safe, private runtime for autonomous AI agents. | 17.7K | Apache-2.0 | [Website](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
@@ -667,8 +671,10 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Open Notebook](https://openfree.tools/open-notebook) | Take Control of Your Research, Privately | 39.5K | MIT | [Website](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
+| [Folo](https://openfree.tools/folo) | AI RSS reader for articles, news, and podcasts | 39.2K | AGPL-3.0 | [Website](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/tolaria) | A second brain for the AI era. Free forever. | 19.9K | AGPL-3.0 | [Website](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [OpenKnowledge](https://openfree.tools/openknowledge) | Beautiful, AI-native markdown editor | 4.3K | GPL-3.0 | [Website](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
+| [EdgeEver](https://openfree.tools/edgeever) | AI-native, self-hosted notes and knowledge base | 2.6K | AGPL-3.0 | [Website](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/morrow) | Privacy-first, local-first workspace for notes and databases | 0.2K | Apache-2.0 | [Website](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
 
 <a id="category-app-ui-sdks"></a>
@@ -821,6 +827,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [DATAGEN](https://openfree.tools/datagen) | AI-driven multi-agent research assistant | 1.8K | MIT | [Website](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 
 <a id="category-customer-support-service"></a>
 
@@ -906,7 +913,9 @@ No published projects yet.
 
 ### Edge &amp; On-Device Inference
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [WebLLM](https://openfree.tools/webllm) | High-performance in-browser LLM inference engine | 19.3K | Apache-2.0 | [Website](https://webllm.mlc.ai/) · [GitHub](https://github.com/mlc-ai/web-llm) |
 
 <a id="category-security-privacy"></a>
 

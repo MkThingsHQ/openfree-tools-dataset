@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**218 个项目 · 83 个二级分类 · 每日同步**
+**226 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -312,10 +312,12 @@
 | [Warp](https://openfree.tools/zh/warp) | 面向云软件工厂的开放基础设施 | 65.2K | AGPL-3.0 | [官网](https://warp.dev/) · [GitHub](https://github.com/warpdotdev/warp) |
 | [Open Code Review](https://openfree.tools/zh/open-code-review) | 行级精准的 AI 代码审查命令行工具 | 47.5K | Apache-2.0 | [官网](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/zh/codewhale) | 支持任意模型的开源编码智能体 | 41.1K | MIT | [官网](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
+| [AI Website Cloner Template](https://openfree.tools/zh/ai-website-cloner-template) | 用一条命令让 AI 编码代理克隆任意网站 | 37.3K | MIT | [官网](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
 | [Grok Build](https://openfree.tools/zh/grok-build) | SpaceXAI 的编码代理框架与 TUI | 27.1K | Apache-2.0 | [官网](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/zh/happy) | Claude Code 与 Codex 的远程控制 | 23.9K | MIT | [官网](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/zh/t3-code) | 面向编码代理的开源控制平面 | 23.6K | MIT | [官网](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Paseo](https://openfree.tools/zh/paseo) | 编码代理的控制平面 | 18.6K | Other | [官网](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [OpenRig](https://openfree.tools/zh/openrig) | 在你自己的机器上运行持久的编程智能体团队 | 8.2K | Apache-2.0 | [官网](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
@@ -393,6 +395,7 @@
 | [Ruflo](https://openfree.tools/zh/ruflo) | 面向 Claude Code 和 Codex 的智能体元框架。 | 75.6K | MIT | [官网](https://github.com/ruvnet/ruflo) · [GitHub](https://github.com/ruvnet/ruflo) |
 | [Multica](https://openfree.tools/zh/multica) | 让智能体像队友一样出现在看板上。 | 51.4K | Other | [官网](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/zh/ai-job-search) | 在你的机器上运行的求职流程。 | 48.6K | MIT | [官网](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
+| [CowAgent](https://openfree.tools/zh/cowagent) | 开源超级 AI 助手与 Agent Harness | 47.6K | MIT | [官网](https://cowagent.ai/) · [GitHub](https://github.com/zhayujie/CowAgent) |
 | [OpenHuman](https://openfree.tools/zh/openhuman) | 运行在笔记本电脑上的开源个人 AI | 40.1K | GPL-3.0 | [官网](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [Onyx](https://openfree.tools/zh/onyx) | 为您的员工和AI代理提供完整上下文 | 32.3K | Other | [官网](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/zh/nanoclaw) | 您的个人 AI 代理。安全。轻量。属于您。 | 30.8K | MIT | [官网](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
@@ -534,6 +537,7 @@
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/zh/browser-use) | 使用浏览器的智能体。 | 116.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/zh/jev-ultrafast) | 最快、最便宜的网络智能体 | 23.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [Moli](https://openfree.tools/zh/moli) | 面向 AI 智能体的开源无头浏览器 | 20.6K | Apache-2.0 | [官网](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/zh/openshell) | 面向自主 AI 智能体的安全、私密运行时 | 17.7K | Apache-2.0 | [官网](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
@@ -666,8 +670,10 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Open Notebook](https://openfree.tools/zh/open-notebook) | 私密掌控你的研究 | 39.5K | MIT | [官网](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
+| [Folo](https://openfree.tools/zh/folo) | AI RSS 阅读器，汇集文章、新闻与播客 | 39.2K | AGPL-3.0 | [官网](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/zh/tolaria) | AI 时代的第二大脑。永久免费。 | 19.9K | AGPL-3.0 | [官网](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [OpenKnowledge](https://openfree.tools/zh/openknowledge) | 漂亮的 AI 原生 Markdown 编辑器与知识库 | 4.3K | GPL-3.0 | [官网](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
+| [EdgeEver](https://openfree.tools/zh/edgeever) | AI 原生、可自托管的笔记与知识库 | 2.6K | AGPL-3.0 | [官网](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/zh/morrow) | 隐私优先、本地优先的笔记与数据库工作区 | 0.2K | Apache-2.0 | [官网](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
 
 <a id="category-app-ui-sdks"></a>
@@ -820,6 +826,7 @@
 | --- | --- | ---: | --- | --- |
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [DATAGEN](https://openfree.tools/zh/datagen) | AI 驱动的多智能体研究助手 | 1.8K | MIT | [官网](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 
 <a id="category-customer-support-service"></a>
 
@@ -905,7 +912,9 @@
 
 ### 边缘与端侧推理
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [WebLLM](https://openfree.tools/zh/webllm) | 高性能浏览器内大语言模型推理引擎 | 19.3K | Apache-2.0 | [官网](https://webllm.mlc.ai/) · [GitHub](https://github.com/mlc-ai/web-llm) |
 
 <a id="category-security-privacy"></a>
 
