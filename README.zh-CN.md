@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**244 个项目 · 83 个二级分类 · 每日同步**
+**255 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -151,6 +151,7 @@
 | [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
+| [KnowNote](https://openfree.tools/zh/knownote) | 本地优先、答案可追溯的 AI 知识库 | 1.2K | GPL-3.0 | [官网](https://knownote.pages.dev/) · [GitHub](https://github.com/mrsibe/KnowNote) |
 
 <a id="category-meeting-assistants-notes"></a>
 
@@ -329,6 +330,7 @@
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
+| [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 
 <a id="category-app-ui-generation"></a>
 
@@ -338,6 +340,7 @@
 | --- | --- | ---: | --- | --- |
 | [Hallmark](https://openfree.tools/zh/hallmark) | 面向 Claude Code、Cursor 和 Codex 的反套路设计技能。 | 30.6K | MIT | [官网](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/zh/openui) | 面向生成式 UI 的开放标准 | 11.4K | MIT | [官网](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
+| [Open CoDesign](https://openfree.tools/zh/open-codesign) | 以意图驱动设计。 | 8.1K | MIT | [官网](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
 | [Anatomy](https://openfree.tools/zh/anatomy) | 面向 Claude Code 的实时等距机械图技能 | 1.5K | MIT | [官网](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
 
 <a id="category-code-review"></a>
@@ -372,6 +375,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [ccstatusline](https://openfree.tools/zh/ccstatusline) | 可定制的 Claude Code CLI 状态行格式化工具 | 13.4K | MIT | [官网](https://github.com/sirmalloc/ccstatusline) · [GitHub](https://github.com/sirmalloc/ccstatusline) |
 | [tuios](https://openfree.tools/zh/tuios) | 面向编码代理的终端窗口管理器。 | 5.9K | MIT | [官网](https://tuios.dev/) · [GitHub](https://github.com/Gaurav-Gosain/tuios) |
 | [Pebrel](https://openfree.tools/zh/pebrel) | 面向 AI CLI 的 GPU 加速终端与 SSH 工作台 | 3.5K | GPL-3.0 | [官网](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/zh/cf) | 面向整个 Cloudflare API 的智能体 CLI | 0.6K | Apache-2.0 | [官网](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
@@ -407,6 +411,7 @@
 | [Multica](https://openfree.tools/zh/multica) | 让智能体像队友一样出现在看板上。 | 51.4K | Other | [官网](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/zh/ai-job-search) | 在你的机器上运行的求职流程。 | 48.6K | MIT | [官网](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
 | [CowAgent](https://openfree.tools/zh/cowagent) | 开源超级 AI 助手与 Agent Harness | 47.6K | MIT | [官网](https://cowagent.ai/) · [GitHub](https://github.com/zhayujie/CowAgent) |
+| [AstrBot](https://openfree.tools/zh/astrbot) | 开源智能体 AI 助手与开发框架 | 41.1K | AGPL-3.0 | [官网](https://astrbot.app/) · [GitHub](https://github.com/AstrBotDevs/AstrBot) |
 | [OpenHuman](https://openfree.tools/zh/openhuman) | 运行在笔记本电脑上的开源个人 AI | 40.1K | GPL-3.0 | [官网](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [Onyx](https://openfree.tools/zh/onyx) | 为您的员工和AI代理提供完整上下文 | 32.3K | Other | [官网](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/zh/nanoclaw) | 您的个人 AI 代理。安全。轻量。属于您。 | 30.8K | MIT | [官网](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
@@ -434,6 +439,7 @@
 | [n8n](https://openfree.tools/zh/n8n) | 可见可控的 AI 智能体与工作流 | 206.0K | Other | [官网](https://n8n.io/) · [GitHub](https://github.com/n8n-io/n8n) |
 | [TradingAgents](https://openfree.tools/zh/tradingagents) | 多智能体大语言模型金融交易框架 | 111.8K | Apache-2.0 | [官网](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/zh/lobehub) | 你的首席智能体运营官，7×24 小时管理 AI 团队 | 82.8K | Other | [官网](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
+| [Herdr](https://openfree.tools/zh/herdr) | 编码 agent 所依托的运行时 | 46.1K | Apache-2.0 | [官网](https://herdr.dev/) · [GitHub](https://github.com/herdrdev/herdr) |
 | [cmux](https://openfree.tools/zh/cmux) | 基于 Ghostty 的 macOS 终端，为编码代理打造 | 28.2K | Other | [官网](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
 | [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -516,6 +522,7 @@
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [earshot](https://openfree.tools/zh/earshot) | 为编程智能体提供听觉：听见、审查并制作声音 | 1.9K | MIT | [官网](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
+| [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/zh/octop-browser) | 直连 CDP 的轻量级浏览器自动化工具，精准可靠。 | 0.0K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -579,6 +586,7 @@
 | [CLI-Anything](https://openfree.tools/zh/cli-anything) | 生成智能体原生 CLI，让 AI 智能体操作 | 53.5K | Apache-2.0 | [官网](https://github.com/HKUDS/CLI-Anything) · [GitHub](https://github.com/HKUDS/CLI-Anything) |
 | [Guizang PPT Skill](https://openfree.tools/zh/guizang-ppt-skill) | 为 Agent 环境生成网页 PPT、配图与封面 | 27.6K | AGPL-3.0 | [官网](https://github.com/op7418/guizang-ppt-skill) · [GitHub](https://github.com/op7418/guizang-ppt-skill) |
 | [baoyu-skills](https://openfree.tools/zh/baoyu-skills) | 为 AI Agent 提升日常工作效率的 Skill 集合 | 26.4K | MIT | [官网](https://github.com/JimLiu/baoyu-skills) · [GitHub](https://github.com/JimLiu/baoyu-skills) |
+| [text-to-cad](https://openfree.tools/zh/text-to-cad) | 为你的智能体赋予 CAD 超能力 | 23.4K | MIT | [官网](https://www.texttocad.dev/) · [GitHub](https://github.com/earthtojake/text-to-cad) |
 | [img2threejs](https://openfree.tools/zh/img2threejs) | 从单张参考图重建可动画的 Three.js 程序化模型 | 18.6K | Apache-2.0 | [官网](https://img2threejs.io/) · [GitHub](https://github.com/img2threejs/img2threejs) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Android Skills](https://openfree.tools/zh/skills) | 为 Android 开发提供 AI 优化模块化指令 | 8.3K | Apache-2.0 | [官网](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
@@ -608,6 +616,8 @@
 | [Laya](https://openfree.tools/zh/laya) | 单次前向完成类型化决策并给出校准概率 | 34.0K | Apache-2.0 | [官网](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [Kev](https://openfree.tools/zh/kev) | 可自行训练和运行的小型 Jev 式决策模型。 | 9.6K | Apache-2.0 | [官网](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
+| [neuron-explorer](https://openfree.tools/zh/neuron-explorer) | 面向 Qwen3.5-4B 的 steering 优先神经元探索器 | 1.3K | — | [官网](https://github.com/lyramakesmusic/neuron-explorer) · [GitHub](https://github.com/lyramakesmusic/neuron-explorer) |
 
 <a id="category-multimodal-models"></a>
 
@@ -947,6 +957,7 @@
 | [Strix](https://openfree.tools/zh/strix) | 面向代码、API 与云端的自主 AI 渗透测试 | 70.3K | Apache-2.0 | [官网](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/zh/skillspector) | 安装前扫描 AI 智能体技能的安全风险 | 21.8K | Apache-2.0 | [官网](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
+| [ZeroLeaks](https://openfree.tools/zh/zeroleaks) | 面向 AI 智能体的持续红队测试 | 0.7K | Other | [官网](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 
 <a id="category-guardrails-content-moderation"></a>
 

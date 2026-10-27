@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**244 projects · 83 subcategories · Synced daily**
+**255 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -152,6 +152,7 @@ No sponsors yet.
 | [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [PromptHub](https://openfree.tools/prompthub) | Local-first workspace for prompts, skills, and agent assets | 1.7K | AGPL-3.0 | [Website](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/amical) | Open-source AI dictation for Mac, Windows, iOS, and Android | 1.5K | MIT | [Website](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
+| [KnowNote](https://openfree.tools/knownote) | Local-first AI knowledge base with traceable answers | 1.2K | GPL-3.0 | [Website](https://knownote.pages.dev/) · [GitHub](https://github.com/mrsibe/KnowNote) |
 
 <a id="category-meeting-assistants-notes"></a>
 
@@ -330,6 +331,7 @@ No published projects yet.
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
+| [Agent Relay](https://openfree.tools/agent-relay) | Infrastructure for coding agents | 1.0K | Apache-2.0 | [Website](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 
 <a id="category-app-ui-generation"></a>
 
@@ -339,6 +341,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Hallmark](https://openfree.tools/hallmark) | Anti-AI-slop design skill for AI coding agents. | 30.6K | MIT | [Website](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/openui) | Open Standard for Generative UI | 11.4K | MIT | [Website](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
+| [Open CoDesign](https://openfree.tools/open-codesign) | Design with intent. | 8.1K | MIT | [Website](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
 | [Anatomy](https://openfree.tools/anatomy) | A Claude Code skill for live isometric machine figures | 1.5K | MIT | [Website](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
 
 <a id="category-code-review"></a>
@@ -373,6 +376,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [ccstatusline](https://openfree.tools/ccstatusline) | Customizable status line formatter for Claude Code CLI | 13.4K | MIT | [Website](https://github.com/sirmalloc/ccstatusline) · [GitHub](https://github.com/sirmalloc/ccstatusline) |
 | [tuios](https://openfree.tools/tuios) | A terminal window manager for coding agents. | 5.9K | MIT | [Website](https://tuios.dev/) · [GitHub](https://github.com/Gaurav-Gosain/tuios) |
 | [Pebrel](https://openfree.tools/pebrel) | GPU-accelerated terminal and SSH workspace for AI CLI work | 3.5K | GPL-3.0 | [Website](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/cf) | The agentic CLI for the entire Cloudflare API | 0.6K | Apache-2.0 | [Website](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
@@ -408,6 +412,7 @@ No published projects yet.
 | [Multica](https://openfree.tools/multica) | Agents that show up on the board. | 51.4K | Other | [Website](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
 | [AI Job Search](https://openfree.tools/ai-job-search) | The job search that runs on your machine. | 48.6K | MIT | [Website](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
 | [CowAgent](https://openfree.tools/cowagent) | Open-source super AI assistant and Agent Harness | 47.6K | MIT | [Website](https://cowagent.ai/) · [GitHub](https://github.com/zhayujie/CowAgent) |
+| [AstrBot](https://openfree.tools/astrbot) | Open-source agentic AI assistant and development framework | 41.1K | AGPL-3.0 | [Website](https://astrbot.app/) · [GitHub](https://github.com/AstrBotDevs/AstrBot) |
 | [OpenHuman](https://openfree.tools/openhuman) | Open-source personal AI that runs on your laptop | 40.1K | GPL-3.0 | [Website](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
 | [Onyx](https://openfree.tools/onyx) | Complete Context for Your Humans and Agents | 32.3K | Other | [Website](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/nanoclaw) | Your personal AI agent. Secure. Lightweight. Yours. | 30.8K | MIT | [Website](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
@@ -435,6 +440,7 @@ No published projects yet.
 | [n8n](https://openfree.tools/n8n) | AI agents and workflows you can see and control | 206.0K | Other | [Website](https://n8n.io/) · [GitHub](https://github.com/n8n-io/n8n) |
 | [TradingAgents](https://openfree.tools/tradingagents) | Multi-agent LLM framework for financial trading | 111.8K | Apache-2.0 | [Website](https://github.com/TauricResearch/TradingAgents) · [GitHub](https://github.com/TauricResearch/TradingAgents) |
 | [LobeHub](https://openfree.tools/lobehub) | Your Chief Agent Operator for 7×24 AI team operations | 82.8K | Other | [Website](https://lobehub.com/) · [GitHub](https://github.com/lobehub/lobehub) |
+| [Herdr](https://openfree.tools/herdr) | The runtime your coding agents live on. | 46.1K | Apache-2.0 | [Website](https://herdr.dev/) · [GitHub](https://github.com/herdrdev/herdr) |
 | [cmux](https://openfree.tools/cmux) | Ghostty-based macOS terminal for coding agents | 28.2K | Other | [Website](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
 | [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -517,6 +523,7 @@ No published projects yet.
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
+| [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -580,6 +587,7 @@ No published projects yet.
 | [CLI-Anything](https://openfree.tools/cli-anything) | Generate agent-native CLIs and let AI agents operate them | 53.5K | Apache-2.0 | [Website](https://github.com/HKUDS/CLI-Anything) · [GitHub](https://github.com/HKUDS/CLI-Anything) |
 | [Guizang PPT Skill](https://openfree.tools/guizang-ppt-skill) | Generate web decks, images, and covers for AI agents. | 27.6K | AGPL-3.0 | [Website](https://github.com/op7418/guizang-ppt-skill) · [GitHub](https://github.com/op7418/guizang-ppt-skill) |
 | [baoyu-skills](https://openfree.tools/baoyu-skills) | AI Agent skills for daily work efficiency | 26.4K | MIT | [Website](https://github.com/JimLiu/baoyu-skills) · [GitHub](https://github.com/JimLiu/baoyu-skills) |
+| [text-to-cad](https://openfree.tools/text-to-cad) | Give your agent CAD superpowers. | 23.4K | MIT | [Website](https://www.texttocad.dev/) · [GitHub](https://github.com/earthtojake/text-to-cad) |
 | [img2threejs](https://openfree.tools/img2threejs) | Rebuild reference images as procedural Three.js models | 18.6K | Apache-2.0 | [Website](https://img2threejs.io/) · [GitHub](https://github.com/img2threejs/img2threejs) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Android Skills](https://openfree.tools/skills) | AI-optimized modular instructions for Android development | 8.3K | Apache-2.0 | [Website](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
@@ -609,6 +617,8 @@ No published projects yet.
 | [Laya](https://openfree.tools/laya) | Typed decisions with calibrated probabilities in one pass | 34.0K | Apache-2.0 | [Website](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/qwen3) | Large language model series by the Qwen team, Alibaba Cloud | 27.7K | — | [Website](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/qwen3-vl) | Multimodal large language model series by Qwen team | 20.0K | Apache-2.0 | [Website](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [Kev](https://openfree.tools/kev) | Small Jev-like decision models to train and run yourself. | 9.6K | Apache-2.0 | [Website](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
+| [neuron-explorer](https://openfree.tools/neuron-explorer) | Steering-first neuron explorer for Qwen3.5-4B | 1.3K | — | [Website](https://github.com/lyramakesmusic/neuron-explorer) · [GitHub](https://github.com/lyramakesmusic/neuron-explorer) |
 
 <a id="category-multimodal-models"></a>
 
@@ -948,6 +958,7 @@ No published projects yet.
 | [Strix](https://openfree.tools/strix) | Autonomous AI pentesting for code, APIs, and cloud | 70.3K | Apache-2.0 | [Website](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
+| [ZeroLeaks](https://openfree.tools/zeroleaks) | Continuous red teaming for AI agents | 0.7K | Other | [Website](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 
 <a id="category-guardrails-content-moderation"></a>
 
