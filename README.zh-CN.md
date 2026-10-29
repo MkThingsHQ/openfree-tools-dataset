@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**271 个项目 · 83 个二级分类 · 每日同步**
+**281 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -194,6 +194,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [OfficeCLI](https://openfree.tools/zh/officecli) | 专为 AI 智能体打造的 Office 套件 | 32.8K | Apache-2.0 | [官网](https://officecli.ai/) · [GitHub](https://github.com/iOfficeAI/OfficeCLI) |
 | [WordCraft](https://openfree.tools/zh/wordcraft) | 用纯 Rust 重构的快速开源文字处理器 | 13.8K | Apache-2.0 | [官网](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [文译（Wenyi）](https://openfree.tools/zh/wenyi) | 以整本书的上下文，把文学作品带到你的语言中。 | 2.8K | MIT | [官网](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/zh/dossier) | 求职全程，运行在你自己的服务器上 | 2.0K | AGPL-3.0 | [官网](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
@@ -222,6 +223,7 @@
 | [Toonflow](https://openfree.tools/zh/toonflow-app) | 开源 AI 短剧、漫剧与视频创作平台 | 19.0K | MIT | [官网](https://github.com/HBAI-Ltd/Toonflow-app) · [GitHub](https://github.com/HBAI-Ltd/Toonflow-app) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [无限画布](https://openfree.tools/zh/infinite-canvas) | 在画布上连续推演 AI 图片与视频创作 | 9.2K | MIT | [官网](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
+| [Mochi Diffusion](https://openfree.tools/zh/mochi-diffusion) | 在 Mac 上原生运行 Stable Diffusion 与 FLUX.2 Klein | 8.0K | GPL-3.0 | [官网](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
 
 <a id="category-image-editing-enhancement"></a>
 
@@ -303,6 +305,7 @@
 | [Claude Code Plugins](https://openfree.tools/zh/claude-plugins-official) | Anthropic 官方维护的 Claude Code 插件目录 | 41.0K | Apache-2.0 | [官网](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/zh/omp) | 内置 IDE 的编码智能体。 | 33.5K | MIT | [官网](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Kilo Code](https://openfree.tools/zh/kilo-code) | 为每个开发者工作流打造的开放智能体 | 27.6K | MIT | [官网](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [Paradev](https://openfree.tools/zh/paradev) | 用于并行编码智能体编排的 IDE | 15.7K | Other | [官网](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Kimi Code](https://openfree.tools/zh/kimi-code) | 面向开发者的智能编程服务，覆盖桌面端、CLI 与 VS Code | 8.0K | MIT | [官网](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [ATLAS](https://openfree.tools/zh/atlas) | 面向紧凑开源模型的本地编码代理 | 2.1K | AGPL-3.0 | [官网](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
@@ -335,7 +338,10 @@
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
+| [Reason Network](https://openfree.tools/zh/reason-network) | 团队编码代理的点对点通信 | 1.3K | Apache-2.0 | [官网](https://reasonmachines.com/) · [GitHub](https://github.com/reason-machines/reason-network) |
 | [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
+| [agent-purge](https://openfree.tools/zh/agent-purge) | 一份人设，驱动多个 coding agent | 0.8K | MIT | [官网](https://github.com/ZiChuanLan/agent-purge) · [GitHub](https://github.com/ZiChuanLan/agent-purge) |
+| [MCode Stack](https://openfree.tools/zh/mcode-stack) | MiniMax Code 团队开源的日常工作流与技能 | 0.2K | MIT | [官网](https://github.com/MiniMax-AI/mcode-stack) · [GitHub](https://github.com/MiniMax-AI/mcode-stack) |
 
 <a id="category-app-ui-generation"></a>
 
@@ -346,6 +352,7 @@
 | [Hallmark](https://openfree.tools/zh/hallmark) | 面向 Claude Code、Cursor 和 Codex 的反套路设计技能。 | 30.6K | MIT | [官网](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/zh/openui) | 面向生成式 UI 的开放标准 | 11.4K | MIT | [官网](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
 | [Open CoDesign](https://openfree.tools/zh/open-codesign) | 以意图驱动设计。 | 8.1K | MIT | [官网](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
+| [baoyu-design](https://openfree.tools/zh/baoyu-design) | 本地运行 Claude Design 的 Agent Skill | 4.7K | MIT | [官网](https://github.com/JimLiu/baoyu-design) · [GitHub](https://github.com/JimLiu/baoyu-design) |
 | [Anatomy](https://openfree.tools/zh/anatomy) | 面向 Claude Code 的实时等距机械图技能 | 1.5K | MIT | [官网](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
 | [MotionSites Web Builder](https://openfree.tools/zh/motionsites-web-builder) | 让 Claude 构建电影感获奖级落地页 | 0.6K | Other | [官网](https://motionsites.ai/?utm_source=github&utm_medium=claude-skill&utm_campaign=web-builder) · [GitHub](https://github.com/Motionsites-AI/claude-skill) |
 
@@ -415,6 +422,7 @@
 | [Paperclip](https://openfree.tools/zh/paperclip) | 管理AI代理团队，运营你的业务。 | 85.4K | MIT | [官网](https://paperclip.ing/) · [GitHub](https://github.com/paperclipai/paperclip) |
 | [Ruflo](https://openfree.tools/zh/ruflo) | 面向 Claude Code 和 Codex 的智能体元框架。 | 75.6K | MIT | [官网](https://github.com/ruvnet/ruflo) · [GitHub](https://github.com/ruvnet/ruflo) |
 | [Multica](https://openfree.tools/zh/multica) | 让智能体像队友一样出现在看板上。 | 51.4K | Other | [官网](https://multica.ai/) · [GitHub](https://github.com/multica-ai/multica) |
+| [nanobot](https://openfree.tools/zh/nanobot) | 你的开源智能体，伴你随处工作。 | 49.6K | MIT | [官网](https://nanobot.wiki/) · [GitHub](https://github.com/HKUDS/nanobot) |
 | [AI Job Search](https://openfree.tools/zh/ai-job-search) | 在你的机器上运行的求职流程。 | 48.6K | MIT | [官网](https://github.com/MadsLorentzen/ai-job-search) · [GitHub](https://github.com/MadsLorentzen/ai-job-search) |
 | [CowAgent](https://openfree.tools/zh/cowagent) | 开源超级 AI 助手与 Agent Harness | 47.6K | MIT | [官网](https://cowagent.ai/) · [GitHub](https://github.com/zhayujie/CowAgent) |
 | [DeepTutor](https://openfree.tools/zh/deeptutor) | 终身个性化辅导 | 45.9K | Apache-2.0 | [官网](http://arxiv.org/abs/2604.26962) · [GitHub](https://github.com/HKUDS/DeepTutor) |
@@ -535,6 +543,7 @@
 | [Open Ontologies](https://openfree.tools/zh/open-ontologies) | 规划本体变更，并为每项后果提供证明。 | 1.8K | MIT | [官网](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
+| [PaperPilot](https://openfree.tools/zh/paperpilot) | 面向 AI 代理与用户的本地 Rust PDF 工具箱 | 0.7K | Other | [官网](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
 | [mcp-ssh-manager](https://openfree.tools/zh/mcp-ssh-manager) | 面向 AI 代理的 SSH 访问，支持人工审批 | 0.5K | MIT | [官网](https://www.npmjs.com/package/mcp-ssh-manager) · [GitHub](https://github.com/bvisible/mcp-ssh-manager) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/zh/octop-browser) | 直连 CDP 的轻量级浏览器自动化工具，精准可靠。 | 0.0K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -630,6 +639,7 @@
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
 | [Kev](https://openfree.tools/zh/kev) | 可自行训练和运行的小型 Jev 式决策模型。 | 9.6K | Apache-2.0 | [官网](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
+| [Gemini-API](https://openfree.tools/zh/gemini-api) | 面向 Google Gemini 网页版的异步 Python 封装 | 3.6K | AGPL-3.0 | [官网](https://pypi.org/project/gemini-webapi/) · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) |
 | [neuron-explorer](https://openfree.tools/zh/neuron-explorer) | 面向 Qwen3.5-4B 的 steering 优先神经元探索器 | 1.3K | — | [官网](https://github.com/lyramakesmusic/neuron-explorer) · [GitHub](https://github.com/lyramakesmusic/neuron-explorer) |
 
 <a id="category-multimodal-models"></a>
