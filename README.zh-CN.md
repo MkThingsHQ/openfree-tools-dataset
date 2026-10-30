@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**281 个项目 · 83 个二级分类 · 每日同步**
+**295 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -135,8 +135,10 @@
 | [Cherry Studio](https://openfree.tools/zh/cherry-studio) | 一体化 AI 工作站 | 52.2K | AGPL-3.0 | [官网](https://cherryai.com/) · [GitHub](https://github.com/CherryHQ/cherry-studio) |
 | [Strata](https://openfree.tools/zh/strata) | 在自己的 PC 上运行 Qwen3.8-Flash-Next | 31.2K | MIT | [官网](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [Jev Chat Assistant](https://openfree.tools/zh/jev-chat-assistant) | 先读聊天，判断意图，起草回复，发送由你决定 | 8.1K | MIT | [官网](https://chatjevs.com/) · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) |
+| [MausBot](https://openfree.tools/zh/openmausbot) | 在你自己的电脑上运行你的 AI 机器人团队 | 7.1K | Apache-2.0 | [官网](https://github.com/milind-soni/OpenMausBot) · [GitHub](https://github.com/milind-soni/OpenMausBot) |
 | [OpenBot](https://openfree.tools/zh/openbot) | 企业真正能够拥有的 AI 助手。 | 5.6K | MIT | [官网](https://www.copilotkit.ai/openbot) · [GitHub](https://github.com/CopilotKit/OpenBot) |
 | [Macro](https://openfree.tools/zh/macro) | 面向公司的统一工作空间 | 5.2K | AGPL-3.0 | [官网](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
+| [Locally Uncensored](https://openfree.tools/zh/locally-uncensored) | 免费开源的桌面本地 AI 工作室 | 3.0K | AGPL-3.0 | [官网](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/zh/switch-ai) | 在共享聊天室中管理智能体员工队伍 | 1.8K | Other | [官网](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
 
 <a id="category-personal-desktop-assistants"></a>
@@ -150,6 +152,7 @@
 | [Inbox Zero](https://openfree.tools/zh/inbox-zero) | 开源 AI 邮件助手，快速实现收件箱清零 | 12.6K | Other | [官网](https://getinboxzero.com/) · [GitHub](https://github.com/elie222/inbox-zero) |
 | [OpenWhispr](https://openfree.tools/zh/openwhispr) | 隐私优先的语音转文字与会议笔记 | 9.6K | MIT | [官网](https://openwhispr.com/) · [GitHub](https://github.com/OpenWhispr/openwhispr) |
 | [Open Duet](https://openfree.tools/zh/open-duet) | 可自托管的 AI 同事，带记忆与审批 | 6.0K | Apache-2.0 | [官网](https://github.com/Anil-matcha/open-duet) · [GitHub](https://github.com/Anil-matcha/open-duet) |
+| [claude-desktop-debian](https://openfree.tools/zh/claude-desktop-debian) | 面向 Linux 的非官方 Claude Desktop 打包 | 5.5K | Apache-2.0 | [官网](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
@@ -308,6 +311,7 @@
 | [Paradev](https://openfree.tools/zh/paradev) | 用于并行编码智能体编排的 IDE | 15.7K | Other | [官网](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Kimi Code](https://openfree.tools/zh/kimi-code) | 面向开发者的智能编程服务，覆盖桌面端、CLI 与 VS Code | 8.0K | MIT | [官网](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
+| [CC Workflow Studio](https://openfree.tools/zh/cc-workflow-studio) | 面向 AI 编程代理的可视化工作流编辑器 | 5.4K | Other | [官网](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [ATLAS](https://openfree.tools/zh/atlas) | 面向紧凑开源模型的本地编码代理 | 2.1K | AGPL-3.0 | [官网](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/zh/thinkrail) | 带隔离工作树与活规格的智能体 IDE | 0.9K | Apache-2.0 | [官网](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -337,6 +341,7 @@
 | [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
+| [OpenBot](https://openfree.tools/zh/openbot-2) | 在你自己的电脑上运行常驻 AI 队友 | 3.6K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 | [Reason Network](https://openfree.tools/zh/reason-network) | 团队编码代理的点对点通信 | 1.3K | Apache-2.0 | [官网](https://reasonmachines.com/) · [GitHub](https://github.com/reason-machines/reason-network) |
 | [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
@@ -349,6 +354,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Impeccable](https://openfree.tools/zh/impeccable) | 为编码代理补上设计词汇，告别 AI 味 | 96.5K | Apache-2.0 | [官网](https://impeccable.style/) · [GitHub](https://github.com/pbakaus/impeccable) |
 | [Hallmark](https://openfree.tools/zh/hallmark) | 面向 Claude Code、Cursor 和 Codex 的反套路设计技能。 | 30.6K | MIT | [官网](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/zh/openui) | 面向生成式 UI 的开放标准 | 11.4K | MIT | [官网](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
 | [Open CoDesign](https://openfree.tools/zh/open-codesign) | 以意图驱动设计。 | 8.1K | MIT | [官网](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
@@ -434,6 +440,7 @@
 | [Mastra](https://openfree.tools/zh/mastra) | 面向 AI 智能体与应用的 TypeScript 框架 | 28.9K | Other | [官网](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
 | [Agent Development Kit (ADK)](https://openfree.tools/zh/agent-development-kit-adk) | 用于构建生产级 AI 智能体的开源框架 | 22.0K | Apache-2.0 | [官网](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/zh/swe-agent) | 自主软件工程智能体 | 20.4K | MIT | [官网](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
+| [RocketRide](https://openfree.tools/zh/rocketride) | 开源 AI 流水线引擎，面向 LLM 工作流 | 18.8K | MIT | [官网](https://github.com/rocketride-org/rocketride-server) · [GitHub](https://github.com/rocketride-org/rocketride-server) |
 | [Browser Harness](https://openfree.tools/zh/browser-harness) | 基于 CDP 的自愈式浏览器代理工具 | 18.1K | MIT | [官网](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [TrueForge](https://openfree.tools/zh/trueforge) | 将 LLM 转化为可用智能体的开源运行时 | 6.3K | MIT | [官网](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
 | [Harbor](https://openfree.tools/zh/harbor) | 评估并优化沙箱化智能体与模型。 | 5.6K | Apache-2.0 | [官网](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
@@ -442,6 +449,8 @@
 | [PilotDeck](https://openfree.tools/zh/pilotdeck) | 开源、面向任务的 AI Agent 工作台 | 4.9K | AGPL-3.0 | [官网](https://pilotdeck.openbmb.cn/) · [GitHub](https://github.com/OpenBMB/PilotDeck) |
 | [Rakazo](https://openfree.tools/zh/rakazo) | 运行持久 AI 队友的开源平台 | 3.0K | Apache-2.0 | [官网](https://rakazo.com/) · [GitHub](https://github.com/elie222/rakazo) |
 | [AutoSwarm](https://openfree.tools/zh/autoswarm) | 所有智能体，协同如一 | 2.0K | MIT | [官网](https://github.com/HKUDS/AutoSwarm) · [GitHub](https://github.com/HKUDS/AutoSwarm) |
+| [Bernstein](https://openfree.tools/zh/bernstein) | 面向 AI 智能体的开源治理层 | 1.3K | Apache-2.0 | [官网](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
+| [MetaHarness](https://openfree.tools/zh/metaharness) | 从任意仓库铸造自定义 AI 智能体框架。 | 0.7K | MIT | [官网](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/zh/octop-harness) | 生产级智能体运行时与自托管智能协作伙伴 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
 
@@ -534,7 +543,9 @@
 | [Manufact](https://openfree.tools/zh/manufact) | 用于构建、测试和发布 MCP 应用的 MCP 云平台 | 10.8K | MIT | [官网](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [universal-modder](https://openfree.tools/zh/universal-modder) | 让 AI 编码代理为你拥有的几乎任何 PC 游戏制作模组。 | 8.6K | MIT | [官网](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
+| [agentgateway](https://openfree.tools/zh/agentgateway) | 统一服务、LLM 与 MCP 流量的高性能网关 | 5.8K | Apache-2.0 | [官网](https://agentgateway.dev/) · [GitHub](https://github.com/agentgateway/agentgateway) |
 | [OpenAgent](https://openfree.tools/zh/openagent) | 单二进制、可自托管的个人 AI 助手 | 5.7K | Apache-2.0 | [官网](https://openagentai.org/) · [GitHub](https://github.com/the-open-agent/openagent) |
+| [agent-device](https://openfree.tools/zh/agent-device) | 面向 AI 编程代理的开源设备层 | 5.2K | MIT | [官网](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
@@ -581,6 +592,7 @@
 | [Jev Ultrafast](https://openfree.tools/zh/jev-ultrafast) | 最快、最便宜的网络智能体 | 23.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
 | [Moli](https://openfree.tools/zh/moli) | 面向 AI 智能体的开源无头浏览器 | 20.6K | Apache-2.0 | [官网](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/zh/openshell) | 面向自主 AI 智能体的安全、私密运行时 | 17.7K | Apache-2.0 | [官网](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
+| [AX](https://openfree.tools/zh/ax) | 面向规模化智能体工作负载的声明式编排 | 14.4K | Apache-2.0 | [官网](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [Octop Gateway](https://openfree.tools/zh/octop-gateway) | 面向 AI Agent 与机器人的多平台 IM 通道桥接 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
@@ -731,6 +743,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [Free My TV](https://openfree.tools/zh/free-my-tv) | 快速、无广告的电视首页 | 3.1K | MIT | [官网](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Solid Glass](https://openfree.tools/zh/solid-glass) | 面向 AI 应用的触感化实体设计系统。 | 2.1K | MIT | [官网](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/zh/pele) | 轻量快速渲染 Mermaid 图表为 SVG，并用 CSS 变量设置主题。 | 1.8K | Other | [官网](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
@@ -784,6 +797,7 @@
 | [PaddleOCR](https://openfree.tools/zh/paddleocr) | 全球领先的OCR工具包与文档AI引擎 | 90.2K | Apache-2.0 | [官网](https://www.paddleocr.com/) · [GitHub](https://github.com/PaddlePaddle/PaddleOCR) |
 | [Docling](https://openfree.tools/zh/docling) | 让文档为生成式 AI 做好准备 | 68.0K | MIT | [官网](https://docling-project.github.io/docling) · [GitHub](https://github.com/docling-project/docling) |
 | [PPT Master](https://openfree.tools/zh/ppt-master) | 从任意文档生成原生可编辑的 PPTX | 56.6K | MIT | [官网](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
+| [PDFMathTranslate](https://openfree.tools/zh/pdfmathtranslate) | 保留排版的科学 PDF 翻译工具 | 38.1K | AGPL-3.0 | [官网](https://pdf2zh.com/) · [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate) |
 | [anydoc](https://openfree.tools/zh/anydoc) | 将各类文档转换为 GitHub 风格 Markdown 的 Rust 库 | 22.1K | MIT | [官网](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
 | [@office-kit/xlsx](https://openfree.tools/zh/office-kit-xlsx) | 在 TypeScript 中读取、编辑和写入 Excel 文件 | 0.1K | MIT | [官网](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/zh/office-kit-pptx) | 用 TypeScript 读取、编辑和写入 .pptx 文件 | 0.0K | MIT | [官网](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
