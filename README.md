@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**308 projects · 83 subcategories · Synced daily**
+**320 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -175,9 +175,11 @@ No sponsors yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Whisper](https://openfree.tools/whisper) | General-purpose speech recognition model | 109.6K | MIT | [Website](https://github.com/openai/whisper) · [GitHub](https://github.com/openai/whisper) |
+| [whisper.cpp](https://openfree.tools/whisper-cpp) | High-performance C/C++ inference for OpenAI Whisper | 53.9K | MIT | [Website](https://github.com/ggml-org/whisper.cpp) · [GitHub](https://github.com/ggml-org/whisper.cpp) |
 | [Handy](https://openfree.tools/handy) | Free, open source, offline speech-to-text for your desktop | 34.7K | MIT | [Website](https://handy.computer/) · [GitHub](https://github.com/cjpais/Handy) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [VidBee](https://openfree.tools/vidbee) | Download videos and create searchable transcripts locally. | 10.8K | MIT | [Website](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
+| [Hex](https://openfree.tools/hex) | Speak. It appears. | 2.7K | MIT | [Website](https://github.com/anomalyco/hex) · [GitHub](https://github.com/anomalyco/hex) |
 
 <a id="category-search-answer-engines"></a>
 
@@ -237,6 +239,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [PhotoCraft](https://openfree.tools/photocraft) | The open-source image editor you already know how to use. | 62.7K | Apache-2.0 | [Website](https://github.com/storytold/photocraft) · [GitHub](https://github.com/storytold/photocraft) |
+| [Kornia](https://openfree.tools/kornia) | Differentiable computer vision for PyTorch | 11.6K | Apache-2.0 | [Website](https://github.com/kornia/kornia) · [GitHub](https://github.com/kornia/kornia) |
 
 <a id="category-video-generation"></a>
 
@@ -309,6 +312,7 @@ No published projects yet.
 | [Cline](https://openfree.tools/cline) | The open coding agent | 69.3K | Apache-2.0 | [Website](https://cline.bot/) · [GitHub](https://github.com/cline/cline) |
 | [Claude Code Plugins](https://openfree.tools/claude-plugins-official) | Official Anthropic-managed Claude Code plugin directory | 41.0K | Apache-2.0 | [Website](https://github.com/anthropics/claude-plugins-official) · [GitHub](https://github.com/anthropics/claude-plugins-official) |
 | [omp](https://openfree.tools/omp) | A coding agent with the IDE wired in. | 33.5K | MIT | [Website](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
+| [Serena](https://openfree.tools/serena) | Semantic IDE tools for coding agents via MCP | 31.0K | Other | [Website](https://oraios.github.io/serena) · [GitHub](https://github.com/oraios/serena) |
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
 | [Paradev](https://openfree.tools/paradev) | IDE for running and orchestrating parallel coding agents | 15.7K | Other | [Website](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
@@ -342,10 +346,12 @@ No published projects yet.
 | [SuperPlane](https://openfree.tools/superplane) | Open source factory for one-shot engineering | 8.3K | Other | [Website](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
 | [OpenRig](https://openfree.tools/openrig) | Persistent teams of coding agents on your own machine | 8.2K | Apache-2.0 | [Website](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
+| [Coucou](https://openfree.tools/coucou) | A tiny friend that lives in your notch | 6.8K | MIT | [Website](https://louis-cfm.github.io/coucou/) · [GitHub](https://github.com/Louis-CFM/coucou) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates on your own computer | 3.6K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
+| [dsh-superagent](https://openfree.tools/dsh-superagent) | A proactive coding agent for one GitHub repository | 2.5K | MIT | [Website](https://github.com/deepseek-ai/dsh-superagent-prototype) · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) |
 | [Reason Network](https://openfree.tools/reason-network) | Peer-to-peer messaging for your team's coding agents | 1.3K | Apache-2.0 | [Website](https://reasonmachines.com/) · [GitHub](https://github.com/reason-machines/reason-network) |
 | [Crit](https://openfree.tools/crit) | Line-precise review for AI coding agents | 1.3K | MIT | [Website](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/agent-relay) | Infrastructure for coding agents | 1.0K | Apache-2.0 | [Website](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
@@ -438,6 +444,7 @@ No published projects yet.
 | [DeepTutor](https://openfree.tools/deeptutor) | Lifelong Personalized Tutoring | 45.9K | Apache-2.0 | [Website](http://arxiv.org/abs/2604.26962) · [GitHub](https://github.com/HKUDS/DeepTutor) |
 | [AstrBot](https://openfree.tools/astrbot) | Open-source agentic AI assistant and development framework | 41.1K | AGPL-3.0 | [Website](https://astrbot.app/) · [GitHub](https://github.com/AstrBotDevs/AstrBot) |
 | [OpenHuman](https://openfree.tools/openhuman) | Open-source personal AI that runs on your laptop | 40.1K | GPL-3.0 | [Website](https://tinyhumans.ai/openhuman) · [GitHub](https://github.com/tinyhumansai/openhuman) |
+| [WeKnora](https://openfree.tools/weknora) | Find the answers, and put knowledge to work | 36.1K | Other | [Website](https://weknora.weixin.qq.com/) · [GitHub](https://github.com/Tencent/WeKnora) |
 | [Onyx](https://openfree.tools/onyx) | Complete Context for Your Humans and Agents | 32.3K | Other | [Website](https://onyx.app/) · [GitHub](https://github.com/onyx-dot-app/onyx) |
 | [NanoClaw](https://openfree.tools/nanoclaw) | Your personal AI agent. Secure. Lightweight. Yours. | 30.8K | MIT | [Website](https://nanoclaw.dev/) · [GitHub](https://github.com/nanocoai/nanoclaw) |
 | [OpenAI Agents SDK](https://openfree.tools/openai-agents-sdk) | A lightweight, powerful framework for multi-agent workflows | 29.7K | MIT | [Website](https://openai.github.io/openai-agents-python/) · [GitHub](https://github.com/openai/openai-agents-python) |
@@ -562,6 +569,7 @@ No published projects yet.
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [boss-agent-cli](https://openfree.tools/boss-agent-cli) | BOSS Zhipin CLI for humans and AI agents | 2.2K | MIT | [Website](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
+| [GitLab MCP Server](https://openfree.tools/gitlab-mcp-server) | MCP server for GitLab projects, MRs, issues, and pipelines | 2.1K | MIT | [Website](https://zereight.github.io/gitlab-mcp/) · [GitHub](https://github.com/zereight/gitlab-mcp) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [Open Ontologies](https://openfree.tools/open-ontologies) | Plan ontology changes and prove every consequence. | 1.8K | MIT | [Website](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
@@ -674,6 +682,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [SGLang](https://openfree.tools/sglang) | High-performance LLM and multimodal model serving | 37.2K | Apache-2.0 | [Website](https://sglang.io/) · [GitHub](https://github.com/sgl-project/sglang) |
+| [Surya](https://openfree.tools/surya) | OCR, layout analysis, reading order, and table recognition | 21.6K | Apache-2.0 | [Website](https://www.datalab.to/) · [GitHub](https://github.com/datalab-to/surya) |
 
 <a id="category-embedding-models"></a>
 
@@ -724,8 +733,10 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [DSPy](https://openfree.tools/dspy) | Program, don’t prompt, your LLMs. | 38.8K | MIT | [Website](https://dspy.ai/) · [GitHub](https://github.com/stanfordnlp/dspy) |
+| [FastMCP](https://openfree.tools/fastmcp) | The standard framework for building MCP applications | 28.3K | Apache-2.0 | [Website](https://gofastmcp.com/) · [GitHub](https://github.com/PrefectHQ/fastmcp) |
 | [GDevelop](https://openfree.tools/gdevelop) | Open-source no-code engine for 2D, 3D and multiplayer games | 27.6K | Other | [Website](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/emdash) | Open source Astro CMS for humans and agents | 13.8K | MIT | [Website](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
+| [Pixeltable](https://openfree.tools/pixeltable) | Multimodal AI backend in one Python file | 1.7K | Apache-2.0 | [Website](https://docs.pixeltable.com/) · [GitHub](https://github.com/pixeltable/pixeltable) |
 | [Void](https://openfree.tools/void) | Build with Vite. Deploy with Void. | 0.3K | MIT | [Website](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
 
 <a id="category-rag-frameworks"></a>
@@ -998,6 +1009,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [RuView](https://openfree.tools/ruview) | WiFi sensing for pose, vitals, and presence | 100.6K | MIT | [Website](https://github.com/ruvnet/RuView) · [GitHub](https://github.com/ruvnet/RuView) |
 | [WebLLM](https://openfree.tools/webllm) | High-performance in-browser LLM inference engine | 19.3K | Apache-2.0 | [Website](https://webllm.mlc.ai/) · [GitHub](https://github.com/mlc-ai/web-llm) |
+| [FreeToken](https://openfree.tools/freetoken) | Datacenter-scale MoE model serving on your desktop | 15.1K | Apache-2.0 | [Website](https://github.com/FlashML-org/FreeToken) · [GitHub](https://github.com/FlashML-org/FreeToken) |
 | [TensorFold](https://openfree.tools/tensorfold) | Native local LLM inference for Metal and CUDA. | 1.5K | Apache-2.0 | [Website](https://tensorfold.dev/) · [GitHub](https://github.com/ashhart/TensorFold) |
 
 <a id="category-security-privacy"></a>
