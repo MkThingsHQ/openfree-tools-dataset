@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**320 projects · 83 subcategories · Synced daily**
+**326 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -141,6 +141,7 @@ No sponsors yet.
 | [Macro](https://openfree.tools/macro) | The unified workspace for your company | 5.2K | AGPL-3.0 | [Website](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
 | [Locally Uncensored](https://openfree.tools/locally-uncensored) | Free, open-source local AI studio for desktop | 3.0K | AGPL-3.0 | [Website](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/switch-ai) | Manage your agentic workforce in shared chat rooms | 1.8K | Other | [Website](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
+| [AnyModelBot](https://openfree.tools/anymodelbot) | Open-source, local-first AI assistant on your computer | 1.0K | MIT | [Website](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -158,6 +159,7 @@ No sponsors yet.
 | [PromptHub](https://openfree.tools/prompthub) | Local-first workspace for prompts, skills, and agent assets | 1.7K | AGPL-3.0 | [Website](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/amical) | Open-source AI dictation for Mac, Windows, iOS, and Android | 1.5K | MIT | [Website](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/mika) | Your private AI assistant on your phone | 1.3K | Apache-2.0 | [Website](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
+| [Survival LLM](https://openfree.tools/survival-llm) | Offline AI assistant and emergency library with sources | 1.2K | Other | [Website](https://brangus.io/survival-llm) · [GitHub](https://github.com/anonnerdfrenzy/survival-llm) |
 | [KnowNote](https://openfree.tools/knownote) | Local-first AI knowledge base with traceable answers | 1.2K | GPL-3.0 | [Website](https://knownote.pages.dev/) · [GitHub](https://github.com/mrsibe/KnowNote) |
 
 <a id="category-meeting-assistants-notes"></a>
@@ -462,6 +464,7 @@ No published projects yet.
 | [PilotDeck](https://openfree.tools/pilotdeck) | Open-source AI Agent workspace for task-oriented work | 4.9K | AGPL-3.0 | [Website](https://pilotdeck.openbmb.cn/) · [GitHub](https://github.com/OpenBMB/PilotDeck) |
 | [Rakazo](https://openfree.tools/rakazo) | Open-source platform for persistent AI teammates | 3.0K | Apache-2.0 | [Website](https://rakazo.com/) · [GitHub](https://github.com/elie222/rakazo) |
 | [AutoSwarm](https://openfree.tools/autoswarm) | All your agents, working as one | 2.0K | MIT | [Website](https://github.com/HKUDS/AutoSwarm) · [GitHub](https://github.com/HKUDS/AutoSwarm) |
+| [OpenDuet](https://openfree.tools/openduet) | An open-source proactive AI agent template | 1.8K | MIT | [Website](https://github.com/CopilotKit/OpenDuet) · [GitHub](https://github.com/CopilotKit/OpenDuet) |
 | [Bernstein](https://openfree.tools/bernstein) | Open-source governance layer for AI agents | 1.3K | Apache-2.0 | [Website](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
 | [MetaHarness](https://openfree.tools/metaharness) | Mint a custom AI agent harness from any repo. | 0.7K | MIT | [Website](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -558,6 +561,7 @@ No published projects yet.
 | [Bytebase](https://openfree.tools/bytebase) | Unified database governance for teams and AI agents | 14.6K | Other | [Website](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [BrowserOS neo](https://openfree.tools/browseros-neo) | A local, open-source browser your AI agents drive | 13.8K | AGPL-3.0 | [Website](https://browseros.com/) · [GitHub](https://github.com/browseros-ai/BrowserOS) |
 | [ARTEMIS](https://openfree.tools/artemis) | Reliable Android automation from natural language | 13.7K | Apache-2.0 | [Website](https://github.com/google/artemis) · [GitHub](https://github.com/google/artemis) |
+| [GhidraMCP](https://openfree.tools/ghidramcp) | MCP server for Ghidra reverse engineering | 11.7K | Apache-2.0 | [Website](https://github.com/LaurieWired/GhidraMCP) · [GitHub](https://github.com/LaurieWired/GhidraMCP) |
 | [Manufact](https://openfree.tools/manufact) | The MCP cloud for building, testing, and shipping MCP apps | 10.8K | MIT | [Website](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [universal-modder](https://openfree.tools/universal-modder) | Let AI coding agents mod almost any PC game you own. | 8.6K | MIT | [Website](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
@@ -600,6 +604,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Repomix](https://openfree.tools/repomix) | Pack your codebase into AI-friendly formats | 29.0K | MIT | [Website](https://repomix.com/) · [GitHub](https://github.com/yamadashy/repomix) |
+| [LMCache](https://openfree.tools/lmcache) | KV cache management layer for scalable LLM inference | 12.3K | Apache-2.0 | [Website](https://lmcache.ai/) · [GitHub](https://github.com/LMCache/LMCache) |
 | [billion-context](https://openfree.tools/billion-context) | Context-compression plugin for long coding sessions | 1.7K | Other | [Website](https://github.com/ranxianglei/billion-context) · [GitHub](https://github.com/ranxianglei/billion-context) |
 
 <a id="category-agent-sdks-runtimes"></a>
@@ -915,6 +920,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [World Monitor](https://openfree.tools/world-monitor) | Real-time global intelligence on one live map | 90.0K | AGPL-3.0 | [Website](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [DATAGEN](https://openfree.tools/datagen) | AI-driven multi-agent research assistant | 1.8K | MIT | [Website](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |

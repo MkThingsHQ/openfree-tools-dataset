@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**320 个项目 · 83 个二级分类 · 每日同步**
+**326 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -140,6 +140,7 @@
 | [Macro](https://openfree.tools/zh/macro) | 面向公司的统一工作空间 | 5.2K | AGPL-3.0 | [官网](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
 | [Locally Uncensored](https://openfree.tools/zh/locally-uncensored) | 免费开源的桌面本地 AI 工作室 | 3.0K | AGPL-3.0 | [官网](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/zh/switch-ai) | 在共享聊天室中管理智能体员工队伍 | 1.8K | Other | [官网](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
+| [AnyModelBot](https://openfree.tools/zh/anymodelbot) | 住在你电脑里的开源 AI 搭子，一个 Key 畅用主流模型 | 1.0K | MIT | [官网](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -157,6 +158,7 @@
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/zh/mika) | 你手机上的私人 AI 助理 | 1.3K | Apache-2.0 | [官网](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
+| [Survival LLM](https://openfree.tools/zh/survival-llm) | 离线可用的 AI 助手与应急资料库，答案注明来源 | 1.2K | Other | [官网](https://brangus.io/survival-llm) · [GitHub](https://github.com/anonnerdfrenzy/survival-llm) |
 | [KnowNote](https://openfree.tools/zh/knownote) | 本地优先、答案可追溯的 AI 知识库 | 1.2K | GPL-3.0 | [官网](https://knownote.pages.dev/) · [GitHub](https://github.com/mrsibe/KnowNote) |
 
 <a id="category-meeting-assistants-notes"></a>
@@ -461,6 +463,7 @@
 | [PilotDeck](https://openfree.tools/zh/pilotdeck) | 开源、面向任务的 AI Agent 工作台 | 4.9K | AGPL-3.0 | [官网](https://pilotdeck.openbmb.cn/) · [GitHub](https://github.com/OpenBMB/PilotDeck) |
 | [Rakazo](https://openfree.tools/zh/rakazo) | 运行持久 AI 队友的开源平台 | 3.0K | Apache-2.0 | [官网](https://rakazo.com/) · [GitHub](https://github.com/elie222/rakazo) |
 | [AutoSwarm](https://openfree.tools/zh/autoswarm) | 所有智能体，协同如一 | 2.0K | MIT | [官网](https://github.com/HKUDS/AutoSwarm) · [GitHub](https://github.com/HKUDS/AutoSwarm) |
+| [OpenDuet](https://openfree.tools/zh/openduet) | 开源主动式 AI 智能体模板 | 1.8K | MIT | [官网](https://github.com/CopilotKit/OpenDuet) · [GitHub](https://github.com/CopilotKit/OpenDuet) |
 | [Bernstein](https://openfree.tools/zh/bernstein) | 面向 AI 智能体的开源治理层 | 1.3K | Apache-2.0 | [官网](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
 | [MetaHarness](https://openfree.tools/zh/metaharness) | 从任意仓库铸造自定义 AI 智能体框架。 | 0.7K | MIT | [官网](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -557,6 +560,7 @@
 | [Bytebase](https://openfree.tools/zh/bytebase) | 统一数据库治理，覆盖团队与 AI 代理 | 14.6K | Other | [官网](https://github.com/bytebase/bytebase) · [GitHub](https://github.com/bytebase/bytebase) |
 | [BrowserOS neo](https://openfree.tools/zh/browseros-neo) | 为AI智能体打造的开源本地浏览器 | 13.8K | AGPL-3.0 | [官网](https://browseros.com/) · [GitHub](https://github.com/browseros-ai/BrowserOS) |
 | [ARTEMIS](https://openfree.tools/zh/artemis) | 以自然语言驱动可靠的 Android 自动化 | 13.7K | Apache-2.0 | [官网](https://github.com/google/artemis) · [GitHub](https://github.com/google/artemis) |
+| [GhidraMCP](https://openfree.tools/zh/ghidramcp) | 面向 Ghidra 的 MCP 服务器 | 11.7K | Apache-2.0 | [官网](https://github.com/LaurieWired/GhidraMCP) · [GitHub](https://github.com/LaurieWired/GhidraMCP) |
 | [Manufact](https://openfree.tools/zh/manufact) | 用于构建、测试和发布 MCP 应用的 MCP 云平台 | 10.8K | MIT | [官网](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
 | [universal-modder](https://openfree.tools/zh/universal-modder) | 让 AI 编码代理为你拥有的几乎任何 PC 游戏制作模组。 | 8.6K | MIT | [官网](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
@@ -599,6 +603,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Repomix](https://openfree.tools/zh/repomix) | 将代码库打包为 AI 友好格式 | 29.0K | MIT | [官网](https://repomix.com/) · [GitHub](https://github.com/yamadashy/repomix) |
+| [LMCache](https://openfree.tools/zh/lmcache) | 面向可扩展 LLM 推理的 KV 缓存管理层 | 12.3K | Apache-2.0 | [官网](https://lmcache.ai/) · [GitHub](https://github.com/LMCache/LMCache) |
 | [billion-context](https://openfree.tools/zh/billion-context) | 面向长时间编码会话的上下文压缩插件 | 1.7K | Other | [官网](https://github.com/ranxianglei/billion-context) · [GitHub](https://github.com/ranxianglei/billion-context) |
 
 <a id="category-agent-sdks-runtimes"></a>
@@ -914,6 +919,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [World Monitor](https://openfree.tools/zh/world-monitor) | 实时全球情报，一图尽览 | 90.0K | AGPL-3.0 | [官网](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [DATAGEN](https://openfree.tools/zh/datagen) | AI 驱动的多智能体研究助手 | 1.8K | MIT | [官网](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
