@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**326 个项目 · 83 个二级分类 · 每日同步**
+**333 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -319,6 +319,7 @@
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Kimi Code](https://openfree.tools/zh/kimi-code) | 面向开发者的智能编程服务，覆盖桌面端、CLI 与 VS Code | 8.0K | MIT | [官网](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [CC Workflow Studio](https://openfree.tools/zh/cc-workflow-studio) | 面向 AI 编程代理的可视化工作流编辑器 | 5.4K | Other | [官网](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
+| [Spotify Portal AI Plugins](https://openfree.tools/zh/portal-ai-plugins) | 为 AI 编码代理提供 Portal 工作流 | 2.9K | Apache-2.0 | [官网](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [ATLAS](https://openfree.tools/zh/atlas) | 面向紧凑开源模型的本地编码代理 | 2.1K | AGPL-3.0 | [官网](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/zh/thinkrail) | 带隔离工作树与活规格的智能体 IDE | 0.9K | Apache-2.0 | [官网](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -503,6 +504,7 @@
 | [agent-browser](https://openfree.tools/zh/agent-browser) | 面向 AI 代理的浏览器自动化 CLI | 44.1K | Apache-2.0 | [官网](https://github.com/vercel-labs/agent-browser) · [GitHub](https://github.com/vercel-labs/agent-browser) |
 | [Lightpanda](https://openfree.tools/zh/lightpanda) | 为AI代理与自动化而生的无头浏览器 | 35.6K | AGPL-3.0 | [官网](https://lightpanda.io/) · [GitHub](https://github.com/lightpanda-io/browser) |
 | [ego lite](https://openfree.tools/zh/ego-lite) | AI 代理执行浏览器自动化的最快浏览器 | 16.5K | MIT | [官网](https://lite.ego.app/) · [GitHub](https://github.com/citrolabs/ego-lite) |
+| [ai-goofish-monitor](https://openfree.tools/zh/ai-goofish-monitor) | 基于 Playwright 与 AI 的闲鱼多任务监控与分析系统 | 16.2K | MIT | [官网](https://github.com/Usagi-org/ai-goofish-monitor) · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) |
 
 <a id="category-computer-use-gui-agents"></a>
 
@@ -648,6 +650,7 @@
 | [img2threejs](https://openfree.tools/zh/img2threejs) | 从单张参考图重建可动画的 Three.js 程序化模型 | 18.6K | Apache-2.0 | [官网](https://img2threejs.io/) · [GitHub](https://github.com/img2threejs/img2threejs) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Android Skills](https://openfree.tools/zh/skills) | 为 Android 开发提供 AI 优化模块化指令 | 8.3K | Apache-2.0 | [官网](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
+| [unslop](https://openfree.tools/zh/unslop) | 把 AI 感界面改成有设计感的界面 | 7.0K | CC-BY-4.0 | [官网](https://github.com/heydamir/unslop) · [GitHub](https://github.com/heydamir/unslop) |
 | [geo-sleuth](https://openfree.tools/zh/geo-sleuth) | 根据照片定位拍摄位置并展示证据 | 4.8K | MIT | [官网](https://github.com/Oldcircle/geo-sleuth) · [GitHub](https://github.com/Oldcircle/geo-sleuth) |
 | [ASD-STE100 Skill](https://openfree.tools/zh/asd-ste100-skill) | 用 ASD-STE100 规则改写含糊的、面向智能体的英文 | 4.2K | MIT | [官网](https://github.com/danyuchn/asd-ste100-skill) · [GitHub](https://github.com/danyuchn/asd-ste100-skill) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
@@ -672,6 +675,8 @@
 | --- | --- | ---: | --- | --- |
 | [llama.cpp](https://openfree.tools/zh/llama-cpp) | C/C++ 实现的 LLM 推理 | 129.5K | MIT | [官网](https://llama.app/) · [GitHub](https://github.com/ggml-org/llama.cpp) |
 | [DeepSeek-V3](https://openfree.tools/zh/deepseek-v3) | 671B 参数混合专家语言模型，每 token 激活 37B | 104.5K | MIT | [官网](https://github.com/deepseek-ai/DeepSeek-V3) · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3) |
+| [nanochat](https://openfree.tools/zh/nanochat) | 单张 GPU 节点上端到端训练 LLM 的极简实验框架 | 60.1K | MIT | [官网](https://github.com/karpathy/nanochat) · [GitHub](https://github.com/karpathy/nanochat) |
+| [Heretic](https://openfree.tools/zh/heretic) | 无需训练的语言模型修改工具 | 38.2K | AGPL-3.0 | [官网](https://github.com/p-e-w/heretic) · [GitHub](https://github.com/p-e-w/heretic) |
 | [Laya](https://openfree.tools/zh/laya) | 单次前向完成类型化决策并给出校准概率 | 34.0K | Apache-2.0 | [官网](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
@@ -707,6 +712,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [ollama](https://openfree.tools/zh/ollama) | 使用开放模型开始构建。 | 181.7K | MIT | [官网](https://ollama.com/) · [GitHub](https://github.com/ollama/ollama) |
+| [Colibri](https://openfree.tools/zh/colibri) | 小巧引擎，驱动巨型模型 | 46.7K | Apache-2.0 | [官网](https://justvugg.github.io/colibri) · [GitHub](https://github.com/JustVugg/colibri) |
 
 <a id="category-inference-servers-apis"></a>
 
@@ -835,7 +841,9 @@
 
 ### 网页抓取与提取
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Scrapling](https://openfree.tools/zh/scrapling) | 面向现代 Web 的轻松网页抓取 | 93.2K | BSD-3-Clause | [官网](https://github.com/D4Vinci/Scrapling) · [GitHub](https://github.com/D4Vinci/Scrapling) |
 
 <a id="category-knowledge-graphs-graphrag"></a>
 

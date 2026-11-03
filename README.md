@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**326 projects · 83 subcategories · Synced daily**
+**333 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -320,6 +320,7 @@ No published projects yet.
 | [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Kimi Code](https://openfree.tools/kimi-code) | Developer AI coding across desktop, CLI, and VS Code | 8.0K | MIT | [Website](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [CC Workflow Studio](https://openfree.tools/cc-workflow-studio) | Visual workflow editor for AI coding agents | 5.4K | Other | [Website](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
+| [Spotify Portal AI Plugins](https://openfree.tools/portal-ai-plugins) | Portal workflows for AI coding agents | 2.9K | Apache-2.0 | [Website](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [ATLAS](https://openfree.tools/atlas) | Local coding agent for compact open models | 2.1K | AGPL-3.0 | [Website](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -504,6 +505,7 @@ No published projects yet.
 | [agent-browser](https://openfree.tools/agent-browser) | Browser automation CLI for AI agents | 44.1K | Apache-2.0 | [Website](https://github.com/vercel-labs/agent-browser) · [GitHub](https://github.com/vercel-labs/agent-browser) |
 | [Lightpanda](https://openfree.tools/lightpanda) | Headless browser built for AI agents and automation. | 35.6K | AGPL-3.0 | [Website](https://lightpanda.io/) · [GitHub](https://github.com/lightpanda-io/browser) |
 | [ego lite](https://openfree.tools/ego-lite) | The fastest browser for AI agents to run browser automation | 16.5K | MIT | [Website](https://lite.ego.app/) · [GitHub](https://github.com/citrolabs/ego-lite) |
+| [ai-goofish-monitor](https://openfree.tools/ai-goofish-monitor) | Playwright and AI powered Xianyu monitoring and analysis | 16.2K | MIT | [Website](https://github.com/Usagi-org/ai-goofish-monitor) · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) |
 
 <a id="category-computer-use-gui-agents"></a>
 
@@ -649,6 +651,7 @@ No published projects yet.
 | [img2threejs](https://openfree.tools/img2threejs) | Rebuild reference images as procedural Three.js models | 18.6K | Apache-2.0 | [Website](https://img2threejs.io/) · [GitHub](https://github.com/img2threejs/img2threejs) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Android Skills](https://openfree.tools/skills) | AI-optimized modular instructions for Android development | 8.3K | Apache-2.0 | [Website](https://github.com/android/skills) · [GitHub](https://github.com/android/skills) |
+| [unslop](https://openfree.tools/unslop) | Turn AI-looking UI into a designed interface | 7.0K | CC-BY-4.0 | [Website](https://github.com/heydamir/unslop) · [GitHub](https://github.com/heydamir/unslop) |
 | [geo-sleuth](https://openfree.tools/geo-sleuth) | Locate a photo’s camera position and show the evidence | 4.8K | MIT | [Website](https://github.com/Oldcircle/geo-sleuth) · [GitHub](https://github.com/Oldcircle/geo-sleuth) |
 | [ASD-STE100 Skill](https://openfree.tools/asd-ste100-skill) | Rewrite ambiguous agent-facing English with ASD-STE100 rules | 4.2K | MIT | [Website](https://github.com/danyuchn/asd-ste100-skill) · [GitHub](https://github.com/danyuchn/asd-ste100-skill) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
@@ -673,6 +676,8 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [llama.cpp](https://openfree.tools/llama-cpp) | LLM inference in C/C++ | 129.5K | MIT | [Website](https://llama.app/) · [GitHub](https://github.com/ggml-org/llama.cpp) |
 | [DeepSeek-V3](https://openfree.tools/deepseek-v3) | Mixture-of-Experts language model with 671B parameters | 104.5K | MIT | [Website](https://github.com/deepseek-ai/DeepSeek-V3) · [GitHub](https://github.com/deepseek-ai/DeepSeek-V3) |
+| [nanochat](https://openfree.tools/nanochat) | Minimal experimental harness for training LLMs | 60.1K | MIT | [Website](https://github.com/karpathy/nanochat) · [GitHub](https://github.com/karpathy/nanochat) |
+| [Heretic](https://openfree.tools/heretic) | Training-free language model modification | 38.2K | AGPL-3.0 | [Website](https://github.com/p-e-w/heretic) · [GitHub](https://github.com/p-e-w/heretic) |
 | [Laya](https://openfree.tools/laya) | Typed decisions with calibrated probabilities in one pass | 34.0K | Apache-2.0 | [Website](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/qwen3) | Large language model series by the Qwen team, Alibaba Cloud | 27.7K | — | [Website](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/qwen3-vl) | Multimodal large language model series by Qwen team | 20.0K | Apache-2.0 | [Website](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
@@ -708,6 +713,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [ollama](https://openfree.tools/ollama) | Start building with open models. | 181.7K | MIT | [Website](https://ollama.com/) · [GitHub](https://github.com/ollama/ollama) |
+| [Colibri](https://openfree.tools/colibri) | Tiny engine, immense model. | 46.7K | Apache-2.0 | [Website](https://justvugg.github.io/colibri) · [GitHub](https://github.com/JustVugg/colibri) |
 
 <a id="category-inference-servers-apis"></a>
 
@@ -836,7 +842,9 @@ No published projects yet.
 
 ### Web Scraping &amp; Extraction
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Scrapling](https://openfree.tools/scrapling) | Effortless web scraping for the modern web | 93.2K | BSD-3-Clause | [Website](https://github.com/D4Vinci/Scrapling) · [GitHub](https://github.com/D4Vinci/Scrapling) |
 
 <a id="category-knowledge-graphs-graphrag"></a>
 
