@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**333 projects · 83 subcategories · Synced daily**
+**342 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -207,6 +207,7 @@ No published projects yet.
 | [WordCraft](https://openfree.tools/wordcraft) | Fast, open-source word processing, rebuilt in pure Rust. | 13.8K | Apache-2.0 | [Website](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [Wenyi](https://openfree.tools/wenyi) | Bring literature into your language with whole-book context. | 2.8K | MIT | [Website](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/dossier) | Your job search, on your own server. | 2.0K | AGPL-3.0 | [Website](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
+| [quiet.md](https://openfree.tools/quiet-md) | Fast, quiet local notes | 0.2K | MIT | [Website](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
 
@@ -379,7 +380,9 @@ No published projects yet.
 
 ### Code Review
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [PR-Agent](https://openfree.tools/pr-agent) | Open-source AI agent for pull request review | 14.6K | MIT | [Website](https://github.com/The-PR-Agent/pr-agent) · [GitHub](https://github.com/The-PR-Agent/pr-agent) |
 
 <a id="category-test-generation-qa"></a>
 
@@ -565,6 +568,7 @@ No published projects yet.
 | [ARTEMIS](https://openfree.tools/artemis) | Reliable Android automation from natural language | 13.7K | Apache-2.0 | [Website](https://github.com/google/artemis) · [GitHub](https://github.com/google/artemis) |
 | [GhidraMCP](https://openfree.tools/ghidramcp) | MCP server for Ghidra reverse engineering | 11.7K | Apache-2.0 | [Website](https://github.com/LaurieWired/GhidraMCP) · [GitHub](https://github.com/LaurieWired/GhidraMCP) |
 | [Manufact](https://openfree.tools/manufact) | The MCP cloud for building, testing, and shipping MCP apps | 10.8K | MIT | [Website](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
+| [Craft Anything](https://openfree.tools/craft-anything) | Study any software, then build your own with AI | 9.7K | Apache-2.0 | [Website](https://github.com/storytold/craft-anything) · [GitHub](https://github.com/storytold/craft-anything) |
 | [universal-modder](https://openfree.tools/universal-modder) | Let AI coding agents mod almost any PC game you own. | 8.6K | MIT | [Website](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [agentgateway](https://openfree.tools/agentgateway) | High-performance gateway for service, LLM, and MCP traffic. | 5.8K | Apache-2.0 | [Website](https://agentgateway.dev/) · [GitHub](https://github.com/agentgateway/agentgateway) |
@@ -581,6 +585,7 @@ No published projects yet.
 | [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [PaperPilot](https://openfree.tools/paperpilot) | Local Rust PDF toolkit for AI agents and people | 0.7K | Other | [Website](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
+| [Augur](https://openfree.tools/augur) | Local-first investment research memory system | 0.7K | MIT | [Website](https://github.com/BruceLanLan/augur) · [GitHub](https://github.com/BruceLanLan/augur) |
 | [mcp-ssh-manager](https://openfree.tools/mcp-ssh-manager) | SSH access for AI agents, with human approval | 0.5K | MIT | [Website](https://www.npmjs.com/package/mcp-ssh-manager) · [GitHub](https://github.com/bvisible/mcp-ssh-manager) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -595,6 +600,7 @@ No published projects yet.
 | [Hindsight](https://openfree.tools/hindsight) | Agent memory that learns | 53.2K | MIT | [Website](https://hindsight.vectorize.io/) · [GitHub](https://github.com/vectorize-io/hindsight) |
 | [Context Mode](https://openfree.tools/context-mode) | The control plane between coding agents and models. | 30.2K | Other | [Website](https://github.com/mksglu/context-mode) · [GitHub](https://github.com/mksglu/context-mode) |
 | [ai-memory](https://openfree.tools/ai-memory) | Long-term memory for AI coding agents | 9.7K | MIT | [Website](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
+| [Mercury Agent](https://openfree.tools/mercury-agent) | Soul-driven AI agent that asks before it acts. | 3.8K | MIT | [Website](https://mercuryagent.sh/) · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) |
 | [Beacon](https://openfree.tools/beacon) | Self-improving memory for coding agents | 2.5K | MIT | [Website](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
 | [Hy-Memory](https://openfree.tools/hy-memory) | Dual-system cognitive memory for self-evolving LLM agents. | 0.3K | Other | [Website](https://github.com/Tencent-Hunyuan/Hy-Memory) · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) |
 | [Octop Memory](https://openfree.tools/octop-2) | Your intelligent partner that understands and grows with you | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-memory) |
@@ -681,6 +687,7 @@ No published projects yet.
 | [Laya](https://openfree.tools/laya) | Typed decisions with calibrated probabilities in one pass | 34.0K | Apache-2.0 | [Website](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/qwen3) | Large language model series by the Qwen team, Alibaba Cloud | 27.7K | — | [Website](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/qwen3-vl) | Multimodal large language model series by Qwen team | 20.0K | Apache-2.0 | [Website](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [kimi-k3-in-c](https://openfree.tools/kimi-k3-in-c) | 2.78T-parameter Kimi K3 inference in portable C99 | 10.0K | Apache-2.0 | [Website](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
 | [Kev](https://openfree.tools/kev) | Small Jev-like decision models to train and run yourself. | 9.6K | Apache-2.0 | [Website](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
 | [Gemini-API](https://openfree.tools/gemini-api) | Async Python wrapper for Google Gemini web app | 3.6K | AGPL-3.0 | [Website](https://pypi.org/project/gemini-webapi/) · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) |
 | [neuron-explorer](https://openfree.tools/neuron-explorer) | Steering-first neuron explorer for Qwen3.5-4B | 1.3K | — | [Website](https://github.com/lyramakesmusic/neuron-explorer) · [GitHub](https://github.com/lyramakesmusic/neuron-explorer) |
@@ -768,6 +775,7 @@ No published projects yet.
 | [Open Notebook](https://openfree.tools/open-notebook) | Take Control of Your Research, Privately | 39.5K | MIT | [Website](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
 | [Folo](https://openfree.tools/folo) | AI RSS reader for articles, news, and podcasts | 39.2K | AGPL-3.0 | [Website](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/tolaria) | A second brain for the AI era. Free forever. | 19.9K | AGPL-3.0 | [Website](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
+| [Horizon](https://openfree.tools/horizon) | Your own AI-powered news radar | 12.3K | MIT | [Website](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
 | [OpenKnowledge](https://openfree.tools/openknowledge) | Beautiful, AI-native markdown editor | 4.3K | GPL-3.0 | [Website](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/edgeever) | AI-native, self-hosted notes and knowledge base | 2.6K | AGPL-3.0 | [Website](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/morrow) | Privacy-first, local-first workspace for notes and databases | 0.2K | Apache-2.0 | [Website](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
@@ -820,7 +828,9 @@ No published projects yet.
 
 ### Retrieval &amp; Search Engines
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [WaterCrawl](https://openfree.tools/watercrawl) | Self-hosted web crawler, scraper, and search engine | 2.2K | Other | [Website](https://osp.fyi/watercrawl) · [GitHub](https://github.com/watercrawl/WaterCrawl) |
 
 <a id="category-document-parsing-ocr"></a>
 
@@ -931,6 +941,7 @@ No published projects yet.
 | [World Monitor](https://openfree.tools/world-monitor) | Real-time global intelligence on one live map | 90.0K | AGPL-3.0 | [Website](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [Auto Ontology](https://openfree.tools/auto-ontology) | Semantic graph reasoning layer for trusted agent analytics | 3.0K | Apache-2.0 | [Website](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/datagen) | AI-driven multi-agent research assistant | 1.8K | MIT | [Website](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/minilytics) | Revenue-first web analytics for indie founders | 0.3K | MIT | [Website](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
 | [GEOInflow](https://openfree.tools/geoinflow) | Self-hosted web and AI crawler analytics | 0.2K | MIT | [Website](https://github.com/yaojingang/GEOInflow) · [GitHub](https://github.com/yaojingang/GEOInflow) |

@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**333 个项目 · 83 个二级分类 · 每日同步**
+**342 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -206,6 +206,7 @@
 | [WordCraft](https://openfree.tools/zh/wordcraft) | 用纯 Rust 重构的快速开源文字处理器 | 13.8K | Apache-2.0 | [官网](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [文译（Wenyi）](https://openfree.tools/zh/wenyi) | 以整本书的上下文，把文学作品带到你的语言中。 | 2.8K | MIT | [官网](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/zh/dossier) | 求职全程，运行在你自己的服务器上 | 2.0K | AGPL-3.0 | [官网](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
+| [quiet.md](https://openfree.tools/zh/quiet-md) | 快速、安静的本地笔记 | 0.2K | MIT | [官网](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
 
@@ -378,7 +379,9 @@
 
 ### 代码审查
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [PR-Agent](https://openfree.tools/zh/pr-agent) | 开源 AI 拉取请求审查代理 | 14.6K | MIT | [官网](https://github.com/The-PR-Agent/pr-agent) · [GitHub](https://github.com/The-PR-Agent/pr-agent) |
 
 <a id="category-test-generation-qa"></a>
 
@@ -564,6 +567,7 @@
 | [ARTEMIS](https://openfree.tools/zh/artemis) | 以自然语言驱动可靠的 Android 自动化 | 13.7K | Apache-2.0 | [官网](https://github.com/google/artemis) · [GitHub](https://github.com/google/artemis) |
 | [GhidraMCP](https://openfree.tools/zh/ghidramcp) | 面向 Ghidra 的 MCP 服务器 | 11.7K | Apache-2.0 | [官网](https://github.com/LaurieWired/GhidraMCP) · [GitHub](https://github.com/LaurieWired/GhidraMCP) |
 | [Manufact](https://openfree.tools/zh/manufact) | 用于构建、测试和发布 MCP 应用的 MCP 云平台 | 10.8K | MIT | [官网](https://manufact.com/) · [GitHub](https://github.com/mcp-use/mcp-use) |
+| [Craft Anything](https://openfree.tools/zh/craft-anything) | 观察任意软件，再用 AI 构建自己的版本 | 9.7K | Apache-2.0 | [官网](https://github.com/storytold/craft-anything) · [GitHub](https://github.com/storytold/craft-anything) |
 | [universal-modder](https://openfree.tools/zh/universal-modder) | 让 AI 编码代理为你拥有的几乎任何 PC 游戏制作模组。 | 8.6K | MIT | [官网](https://github.com/rehan-remade/universal-modder) · [GitHub](https://github.com/rehan-remade/universal-modder) |
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [agentgateway](https://openfree.tools/zh/agentgateway) | 统一服务、LLM 与 MCP 流量的高性能网关 | 5.8K | Apache-2.0 | [官网](https://agentgateway.dev/) · [GitHub](https://github.com/agentgateway/agentgateway) |
@@ -580,6 +584,7 @@
 | [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [PaperPilot](https://openfree.tools/zh/paperpilot) | 面向 AI 代理与用户的本地 Rust PDF 工具箱 | 0.7K | Other | [官网](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
+| [Augur](https://openfree.tools/zh/augur) | 本地优先的投资研究记忆系统 | 0.7K | MIT | [官网](https://github.com/BruceLanLan/augur) · [GitHub](https://github.com/BruceLanLan/augur) |
 | [mcp-ssh-manager](https://openfree.tools/zh/mcp-ssh-manager) | 面向 AI 代理的 SSH 访问，支持人工审批 | 0.5K | MIT | [官网](https://www.npmjs.com/package/mcp-ssh-manager) · [GitHub](https://github.com/bvisible/mcp-ssh-manager) |
 | [HQBase](https://openfree.tools/zh/hqbase) | 在您 Cloudflare 账户中运行的 AI 原生团队共享邮箱 | 0.3K | AGPL-3.0 | [官网](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/zh/octop-browser) | 直连 CDP 的轻量级浏览器自动化工具，精准可靠。 | 0.0K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -594,6 +599,7 @@
 | [Hindsight](https://openfree.tools/zh/hindsight) | 会学习的智能体记忆系统 | 53.2K | MIT | [官网](https://hindsight.vectorize.io/) · [GitHub](https://github.com/vectorize-io/hindsight) |
 | [Context Mode](https://openfree.tools/zh/context-mode) | 连接编码智能体与模型的控制平面 | 30.2K | Other | [官网](https://github.com/mksglu/context-mode) · [GitHub](https://github.com/mksglu/context-mode) |
 | [ai-memory](https://openfree.tools/zh/ai-memory) | 面向 AI 编码代理的长期记忆 | 9.7K | MIT | [官网](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
+| [Mercury Agent](https://openfree.tools/zh/mercury-agent) | 先询问再行动的 soul 驱动 AI 智能体 | 3.8K | MIT | [官网](https://mercuryagent.sh/) · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) |
 | [Beacon](https://openfree.tools/zh/beacon) | 面向编程代理的自我改进记忆层 | 2.5K | MIT | [官网](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
 | [Hy-Memory](https://openfree.tools/zh/hy-memory) | 面向自演化 LLM 智能体的双系统认知记忆引擎。 | 0.3K | Other | [官网](https://github.com/Tencent-Hunyuan/Hy-Memory) · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) |
 | [Octop Memory](https://openfree.tools/zh/octop-2) | 懂你、帮你、陪你成长的智能伙伴 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-memory) |
@@ -680,6 +686,7 @@
 | [Laya](https://openfree.tools/zh/laya) | 单次前向完成类型化决策并给出校准概率 | 34.0K | Apache-2.0 | [官网](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [kimi-k3-in-c](https://openfree.tools/zh/kimi-k3-in-c) | 用 C99 在单 CPU、8 GB 内存上运行 2.78 万亿参数 Kimi K3 | 10.0K | Apache-2.0 | [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
 | [Kev](https://openfree.tools/zh/kev) | 可自行训练和运行的小型 Jev 式决策模型。 | 9.6K | Apache-2.0 | [官网](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
 | [Gemini-API](https://openfree.tools/zh/gemini-api) | 面向 Google Gemini 网页版的异步 Python 封装 | 3.6K | AGPL-3.0 | [官网](https://pypi.org/project/gemini-webapi/) · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) |
 | [neuron-explorer](https://openfree.tools/zh/neuron-explorer) | 面向 Qwen3.5-4B 的 steering 优先神经元探索器 | 1.3K | — | [官网](https://github.com/lyramakesmusic/neuron-explorer) · [GitHub](https://github.com/lyramakesmusic/neuron-explorer) |
@@ -767,6 +774,7 @@
 | [Open Notebook](https://openfree.tools/zh/open-notebook) | 私密掌控你的研究 | 39.5K | MIT | [官网](https://www.open-notebook.ai/) · [GitHub](https://github.com/lfnovo/open-notebook) |
 | [Folo](https://openfree.tools/zh/folo) | AI RSS 阅读器，汇集文章、新闻与播客 | 39.2K | AGPL-3.0 | [官网](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/zh/tolaria) | AI 时代的第二大脑。永久免费。 | 19.9K | AGPL-3.0 | [官网](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
+| [Horizon](https://openfree.tools/zh/horizon) | 你的 AI 新闻雷达 | 12.3K | MIT | [官网](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
 | [OpenKnowledge](https://openfree.tools/zh/openknowledge) | 漂亮的 AI 原生 Markdown 编辑器与知识库 | 4.3K | GPL-3.0 | [官网](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/zh/edgeever) | AI 原生、可自托管的笔记与知识库 | 2.6K | AGPL-3.0 | [官网](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/zh/morrow) | 隐私优先、本地优先的笔记与数据库工作区 | 0.2K | Apache-2.0 | [官网](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
@@ -819,7 +827,9 @@
 
 ### 检索与搜索引擎
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [WaterCrawl](https://openfree.tools/zh/watercrawl) | 开源自托管网页抓取与搜索引擎 | 2.2K | Other | [官网](https://osp.fyi/watercrawl) · [GitHub](https://github.com/watercrawl/WaterCrawl) |
 
 <a id="category-document-parsing-ocr"></a>
 
@@ -930,6 +940,7 @@
 | [World Monitor](https://openfree.tools/zh/world-monitor) | 实时全球情报，一图尽览 | 90.0K | AGPL-3.0 | [官网](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [Auto Ontology](https://openfree.tools/zh/auto-ontology) | 面向可信智能体分析的语义图推理层 | 3.0K | Apache-2.0 | [官网](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/zh/datagen) | AI 驱动的多智能体研究助手 | 1.8K | MIT | [官网](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/zh/minilytics) | 面向独立开发者的收入优先网站分析 | 0.3K | MIT | [官网](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
 | [GEOInflow](https://openfree.tools/zh/geoinflow) | 面向GEO的自托管网站与AI爬虫分析系统 | 0.2K | MIT | [官网](https://github.com/yaojingang/GEOInflow) · [GitHub](https://github.com/yaojingang/GEOInflow) |
