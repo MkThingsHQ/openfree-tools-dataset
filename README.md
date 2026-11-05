@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**342 projects · 83 subcategories · Synced daily**
+**349 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -273,6 +273,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [VibeVoice](https://openfree.tools/vibevoice) | Expressive long-form multi-speaker TTS | 55.5K | MIT | [Website](https://github.com/microsoft/VibeVoice) · [GitHub](https://github.com/microsoft/VibeVoice) |
 | [VoxCPM](https://openfree.tools/voxcpm) | Creative and expressive multilingual text-to-speech | 39.9K | Apache-2.0 | [Website](https://voxcpm.com/) · [GitHub](https://github.com/OpenBMB/VoxCPM) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 
@@ -322,6 +323,7 @@ No published projects yet.
 | [Kimi Code](https://openfree.tools/kimi-code) | Developer AI coding across desktop, CLI, and VS Code | 8.0K | MIT | [Website](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [CC Workflow Studio](https://openfree.tools/cc-workflow-studio) | Visual workflow editor for AI coding agents | 5.4K | Other | [Website](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/portal-ai-plugins) | Portal workflows for AI coding agents | 2.9K | Apache-2.0 | [Website](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
+| [Floorplan](https://openfree.tools/floorplan) | See how your app actually fits together. | 2.9K | MIT | [Website](https://github.com/haydenschmitty/floorplan) · [GitHub](https://github.com/haydenschmitty/floorplan) |
 | [ATLAS](https://openfree.tools/atlas) | Local coding agent for compact open models | 2.1K | AGPL-3.0 | [Website](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -460,6 +462,7 @@ No published projects yet.
 | [RocketRide](https://openfree.tools/rocketride) | Open-source AI pipeline engine for LLM workflows | 18.8K | MIT | [Website](https://github.com/rocketride-org/rocketride-server) · [GitHub](https://github.com/rocketride-org/rocketride-server) |
 | [Browser Harness](https://openfree.tools/browser-harness) | Self-healing browser agents built directly on CDP | 18.1K | MIT | [Website](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [InkOS](https://openfree.tools/inkos) | AI agent for novels, scripts, and interactive games | 10.9K | AGPL-3.0 | [Website](https://github.com/Narcooo/inkos) · [GitHub](https://github.com/Narcooo/inkos) |
+| [Omnigent](https://openfree.tools/omnigent) | The open-source meta-harness for all your AI agents. | 10.2K | Apache-2.0 | [Website](https://omnigent.ai/) · [GitHub](https://github.com/omnigent-ai/omnigent) |
 | [TrueForge](https://openfree.tools/trueforge) | Open-source runtime for turning LLMs into agents | 6.3K | MIT | [Website](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
 | [Raven](https://openfree.tools/raven) | A self-evolving multi-agent orchestration ecosystem | 5.9K | Apache-2.0 | [Website](https://raven.evermind.ai/) · [GitHub](https://github.com/EverMind-AI/Raven) |
 | [Harbor](https://openfree.tools/harbor) | Evaluate and optimize sandboxed agents and models. | 5.6K | Apache-2.0 | [Website](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
@@ -470,6 +473,7 @@ No published projects yet.
 | [AutoSwarm](https://openfree.tools/autoswarm) | All your agents, working as one | 2.0K | MIT | [Website](https://github.com/HKUDS/AutoSwarm) · [GitHub](https://github.com/HKUDS/AutoSwarm) |
 | [OpenDuet](https://openfree.tools/openduet) | An open-source proactive AI agent template | 1.8K | MIT | [Website](https://github.com/CopilotKit/OpenDuet) · [GitHub](https://github.com/CopilotKit/OpenDuet) |
 | [Bernstein](https://openfree.tools/bernstein) | Open-source governance layer for AI agents | 1.3K | Apache-2.0 | [Website](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
+| [sapper-v2](https://openfree.tools/sapper-v2) | AI commander and worker swarm for autonomous pentests | 0.9K | MIT | [Website](https://github.com/N1nEmAn/sapper-v2) · [GitHub](https://github.com/N1nEmAn/sapper-v2) |
 | [MetaHarness](https://openfree.tools/metaharness) | Mint a custom AI agent harness from any repo. | 0.7K | MIT | [Website](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/octop-harness) | Production-grade agent runtime and self-hosted collaboration | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
@@ -527,6 +531,7 @@ No published projects yet.
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Worktrunk](https://openfree.tools/worktrunk) | Git worktrees as easy as branches for parallel AI agents | 9.3K | Other | [Website](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
 | [Filee](https://openfree.tools/filee) | Drag. Drop. Converted. | 8.6K | MIT | [Website](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
+| [Agent Autoloop](https://openfree.tools/agent-autoloop) | Background loop for CLI agents, asking only when needed | 3.0K | MIT | [Website](https://github.com/KKKKhazix/agent-autoloop) · [GitHub](https://github.com/KKKKhazix/agent-autoloop) |
 
 <a id="category-voice-agents"></a>
 
@@ -586,6 +591,7 @@ No published projects yet.
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [PaperPilot](https://openfree.tools/paperpilot) | Local Rust PDF toolkit for AI agents and people | 0.7K | Other | [Website](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
 | [Augur](https://openfree.tools/augur) | Local-first investment research memory system | 0.7K | MIT | [Website](https://github.com/BruceLanLan/augur) · [GitHub](https://github.com/BruceLanLan/augur) |
+| [TemPad Dev](https://openfree.tools/tempad-dev) | Design &amp; dev. Connected. | 0.6K | MIT | [Website](https://tempad.dev/) · [GitHub](https://github.com/ecomfe/tempad-dev) |
 | [mcp-ssh-manager](https://openfree.tools/mcp-ssh-manager) | SSH access for AI agents, with human approval | 0.5K | MIT | [Website](https://www.npmjs.com/package/mcp-ssh-manager) · [GitHub](https://github.com/bvisible/mcp-ssh-manager) |
 | [HQBase](https://openfree.tools/hqbase) | AI-native shared email workspace on your Cloudflare account | 0.3K | AGPL-3.0 | [Website](https://hqbase.io/) · [GitHub](https://github.com/HQBase/hqbase) |
 | [Octop Browser](https://openfree.tools/octop-browser) | Agent-first browser automation via direct CDP. | 0.0K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-browser) |
@@ -1050,6 +1056,7 @@ No published projects yet.
 | [Strix](https://openfree.tools/strix) | Autonomous AI pentesting for code, APIs, and cloud | 70.3K | Apache-2.0 | [Website](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
+| [ADR](https://openfree.tools/adr) | Enterprise security for AI agents | 2.1K | Apache-2.0 | [Website](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
 | [ZeroLeaks](https://openfree.tools/zeroleaks) | Continuous red teaming for AI agents | 0.7K | Other | [Website](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 
 <a id="category-guardrails-content-moderation"></a>
