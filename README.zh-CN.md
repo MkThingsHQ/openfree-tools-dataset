@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**349 个项目 · 83 个二级分类 · 每日同步**
+**356 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -463,6 +463,7 @@
 | [InkOS](https://openfree.tools/zh/inkos) | 面向小说、剧本与互动影游的故事创作智能体 | 10.9K | AGPL-3.0 | [官网](https://github.com/Narcooo/inkos) · [GitHub](https://github.com/Narcooo/inkos) |
 | [Omnigent](https://openfree.tools/zh/omnigent) | 面向所有 AI 代理的开源元框架 | 10.2K | Apache-2.0 | [官网](https://omnigent.ai/) · [GitHub](https://github.com/omnigent-ai/omnigent) |
 | [TrueForge](https://openfree.tools/zh/trueforge) | 将 LLM 转化为可用智能体的开源运行时 | 6.3K | MIT | [官网](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
+| [Rivet](https://openfree.tools/zh/rivet) | 面向智能体工作负载的编排器 | 6.2K | Apache-2.0 | [官网](https://www.rivet.dev/) · [GitHub](https://github.com/rivet-dev/rivet) |
 | [Raven](https://openfree.tools/zh/raven) | 面向递归自我改进的自进化多智能体编排生态 | 5.9K | Apache-2.0 | [官网](https://raven.evermind.ai/) · [GitHub](https://github.com/EverMind-AI/Raven) |
 | [Harbor](https://openfree.tools/zh/harbor) | 评估并优化沙箱化智能体与模型。 | 5.6K | Apache-2.0 | [官网](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
 | [AI-DLC Workflows](https://openfree.tools/zh/aidlc-workflows) | 结构化、带审批关卡的 AI 驱动软件开发流程 | 5.4K | MIT-0 | [官网](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
@@ -579,6 +580,7 @@
 | [OpenAgent](https://openfree.tools/zh/openagent) | 单二进制、可自托管的个人 AI 助手 | 5.7K | Apache-2.0 | [官网](https://openagentai.org/) · [GitHub](https://github.com/the-open-agent/openagent) |
 | [agent-device](https://openfree.tools/zh/agent-device) | 面向 AI 编程代理的开源设备层 | 5.2K | MIT | [官网](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
+| [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
@@ -628,6 +630,7 @@
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/zh/browser-use) | 使用浏览器的智能体。 | 116.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/zh/jev-ultrafast) | 最快、最便宜的网络智能体 | 23.3K | MIT | [官网](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [NVIDIA NemoClaw](https://openfree.tools/zh/nvidia-nemoclaw) | 在 NVIDIA OpenShell 沙箱中更安全地运行 AI 代理 | 23.0K | Apache-2.0 | [官网](https://docs.nvidia.com/nemoclaw/latest/) · [GitHub](https://github.com/NVIDIA/NemoClaw) |
 | [Moli](https://openfree.tools/zh/moli) | 面向 AI 智能体的开源无头浏览器 | 20.6K | Apache-2.0 | [官网](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/zh/openshell) | 面向自主 AI 智能体的安全、私密运行时 | 17.7K | Apache-2.0 | [官网](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [AX](https://openfree.tools/zh/ax) | 面向规模化智能体工作负载的声明式编排 | 14.4K | Apache-2.0 | [官网](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
@@ -792,6 +795,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Free My TV](https://openfree.tools/zh/free-my-tv) | 快速、无广告的电视首页 | 3.1K | MIT | [官网](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Solid Glass](https://openfree.tools/zh/solid-glass) | 面向 AI 应用的触感化实体设计系统。 | 2.1K | MIT | [官网](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/zh/pele) | 轻量快速渲染 Mermaid 图表为 SVG，并用 CSS 变量设置主题。 | 1.8K | Other | [官网](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
@@ -805,6 +809,7 @@
 | [OmniRoute](https://openfree.tools/zh/omniroute) | 一个端点接入众多提供商，支持自动回退。 | 80.6K | MIT | [官网](https://omniroute.online/) · [GitHub](https://github.com/cheaper-inference/OmniRoute) |
 | [Free Claude Code](https://openfree.tools/zh/free-claude-code) | 聚合 61 家供应商与 12 个编程助手 | 63.6K | Other | [官网](https://github.com/Alishahryar1/free-claude-code) · [GitHub](https://github.com/Alishahryar1/free-claude-code) |
 | [New API](https://openfree.tools/zh/new-api) | 面向模型、应用与智能体的统一 AI 网关 | 50.6K | AGPL-3.0 | [官网](https://www.newapi.ai/) · [GitHub](https://github.com/QuantumNous/new-api) |
+| [FreeLLMAPI](https://openfree.tools/zh/freellmapi) | 通过一个 OpenAI 兼容 API 聚合免费 LLM 提供商额度 | 48.0K | MIT | [官网](https://freellmapi.co/) · [GitHub](https://github.com/tashfeenahmed/freellmapi) |
 | [Helicone](https://openfree.tools/zh/helicone) | AI 网关与 LLM 可观测性平台 | 6.2K | Apache-2.0 | [官网](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
 | [llm-d](https://openfree.tools/zh/llm-d) | Kubernetes 原生分布式 LLM 推理栈 | 4.9K | Apache-2.0 | [官网](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
@@ -974,6 +979,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [OpenStock](https://openfree.tools/zh/openstock) | 行情数据，无需付费墙。 | 20.6K | AGPL-3.0 | [官网](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
+| [NOFX](https://openfree.tools/zh/nofx) | AI 提议交易，你批准或启用 Autopilot | 13.2K | AGPL-3.0 | [官网](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 
 <a id="category-legal-compliance"></a>
 
@@ -1053,6 +1059,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Strix](https://openfree.tools/zh/strix) | 面向代码、API 与云端的自主 AI 渗透测试 | 70.3K | Apache-2.0 | [官网](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
+| [Shannon](https://openfree.tools/zh/shannon) | 持续智能体渗透测试，验证真实漏洞利用 | 51.3K | AGPL-3.0 | [官网](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/zh/skillspector) | 安装前扫描 AI 智能体技能的安全风险 | 21.8K | Apache-2.0 | [官网](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [ADR](https://openfree.tools/zh/adr) | 企业 AI 代理安全防护 | 2.1K | Apache-2.0 | [官网](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |

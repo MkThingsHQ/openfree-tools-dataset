@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**349 projects · 83 subcategories · Synced daily**
+**356 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -464,6 +464,7 @@ No published projects yet.
 | [InkOS](https://openfree.tools/inkos) | AI agent for novels, scripts, and interactive games | 10.9K | AGPL-3.0 | [Website](https://github.com/Narcooo/inkos) · [GitHub](https://github.com/Narcooo/inkos) |
 | [Omnigent](https://openfree.tools/omnigent) | The open-source meta-harness for all your AI agents. | 10.2K | Apache-2.0 | [Website](https://omnigent.ai/) · [GitHub](https://github.com/omnigent-ai/omnigent) |
 | [TrueForge](https://openfree.tools/trueforge) | Open-source runtime for turning LLMs into agents | 6.3K | MIT | [Website](https://trueforge.dev/) · [GitHub](https://github.com/truefoundry/trueforge) |
+| [Rivet](https://openfree.tools/rivet) | The orchestrator for agentic workloads. | 6.2K | Apache-2.0 | [Website](https://www.rivet.dev/) · [GitHub](https://github.com/rivet-dev/rivet) |
 | [Raven](https://openfree.tools/raven) | A self-evolving multi-agent orchestration ecosystem | 5.9K | Apache-2.0 | [Website](https://raven.evermind.ai/) · [GitHub](https://github.com/EverMind-AI/Raven) |
 | [Harbor](https://openfree.tools/harbor) | Evaluate and optimize sandboxed agents and models. | 5.6K | Apache-2.0 | [Website](https://harborframework.com/) · [GitHub](https://github.com/harbor-framework/harbor) |
 | [AI-DLC Workflows](https://openfree.tools/aidlc-workflows) | Structured, gated AI-driven software development workflows | 5.4K | MIT-0 | [Website](https://github.com/awslabs/aidlc-workflows) · [GitHub](https://github.com/awslabs/aidlc-workflows) |
@@ -580,6 +581,7 @@ No published projects yet.
 | [OpenAgent](https://openfree.tools/openagent) | Single-binary, self-hosted personal AI assistant | 5.7K | Apache-2.0 | [Website](https://openagentai.org/) · [GitHub](https://github.com/the-open-agent/openagent) |
 | [agent-device](https://openfree.tools/agent-device) | Open source device layer for AI coding agents | 5.2K | MIT | [Website](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
+| [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/aisoc) | Open-source, self-hostable AI security operations center | 4.4K | MIT | [Website](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
@@ -629,6 +631,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Browser Use](https://openfree.tools/browser-use) | Agents that use the browser. | 116.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/browser-use) |
 | [Jev Ultrafast](https://openfree.tools/jev-ultrafast) | Fastest and cheapest web agent | 23.3K | MIT | [Website](https://browser-use.com/) · [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| [NVIDIA NemoClaw](https://openfree.tools/nvidia-nemoclaw) | Run AI agents safely in NVIDIA OpenShell sandboxes | 23.0K | Apache-2.0 | [Website](https://docs.nvidia.com/nemoclaw/latest/) · [GitHub](https://github.com/NVIDIA/NemoClaw) |
 | [Moli](https://openfree.tools/moli) | Open-source headless browser for AI agents | 20.6K | Apache-2.0 | [Website](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/openshell) | Safe, private runtime for autonomous AI agents. | 17.7K | Apache-2.0 | [Website](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [AX](https://openfree.tools/ax) | Declarative orchestration for agentic workloads at scale | 14.4K | Apache-2.0 | [Website](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
@@ -793,6 +796,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Free My TV](https://openfree.tools/free-my-tv) | A fast, ad-free TV home screen | 3.1K | MIT | [Website](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Solid Glass](https://openfree.tools/solid-glass) | A tactile, physical design system for AI applications. | 2.1K | MIT | [Website](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/pele) | Render Mermaid diagrams to SVG with CSS-variable theming. | 1.8K | Other | [Website](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
@@ -806,6 +810,7 @@ No published projects yet.
 | [OmniRoute](https://openfree.tools/omniroute) | One endpoint, many providers, automatic fallback. | 80.6K | MIT | [Website](https://omniroute.online/) · [GitHub](https://github.com/cheaper-inference/OmniRoute) |
 | [Free Claude Code](https://openfree.tools/free-claude-code) | Free tokens across 61 providers and 12 coding agents | 63.6K | Other | [Website](https://github.com/Alishahryar1/free-claude-code) · [GitHub](https://github.com/Alishahryar1/free-claude-code) |
 | [New API](https://openfree.tools/new-api) | Unified AI gateway for models, apps, and agents | 50.6K | AGPL-3.0 | [Website](https://www.newapi.ai/) · [GitHub](https://github.com/QuantumNous/new-api) |
+| [FreeLLMAPI](https://openfree.tools/freellmapi) | One OpenAI-compatible API for free LLM provider tiers | 48.0K | MIT | [Website](https://freellmapi.co/) · [GitHub](https://github.com/tashfeenahmed/freellmapi) |
 | [Helicone](https://openfree.tools/helicone) | AI Gateway and LLM observability platform | 6.2K | Apache-2.0 | [Website](https://www.helicone.ai/) · [GitHub](https://github.com/Helicone/helicone) |
 | [llm-d](https://openfree.tools/llm-d) | Kubernetes-native distributed LLM inference | 4.9K | Apache-2.0 | [Website](https://www.llm-d.ai/) · [GitHub](https://github.com/llm-d/llm-d) |
 
@@ -975,6 +980,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [OpenStock](https://openfree.tools/openstock) | Markets, minus the paywall. | 20.6K | AGPL-3.0 | [Website](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
+| [NOFX](https://openfree.tools/nofx) | AI proposes trades; you approve or run Autopilot | 13.2K | AGPL-3.0 | [Website](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 
 <a id="category-legal-compliance"></a>
 
@@ -1054,6 +1060,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Strix](https://openfree.tools/strix) | Autonomous AI pentesting for code, APIs, and cloud | 70.3K | Apache-2.0 | [Website](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
+| [Shannon](https://openfree.tools/shannon) | Continuous agentic pentesting with proven exploits | 51.3K | AGPL-3.0 | [Website](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [ADR](https://openfree.tools/adr) | Enterprise security for AI agents | 2.1K | Apache-2.0 | [Website](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
