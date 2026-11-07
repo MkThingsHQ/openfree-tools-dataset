@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**356 个项目 · 83 个二级分类 · 每日同步**
+**360 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -490,6 +490,7 @@
 | [Herdr](https://openfree.tools/zh/herdr) | 编码 agent 所依托的运行时 | 46.1K | Apache-2.0 | [官网](https://herdr.dev/) · [GitHub](https://github.com/herdrdev/herdr) |
 | [OpenMAIC](https://openfree.tools/zh/openmaic) | 一键开启沉浸式多智能体学习 | 42.0K | MIT | [官网](https://github.com/THU-MAIC/OpenMAIC) · [GitHub](https://github.com/THU-MAIC/OpenMAIC) |
 | [cmux](https://openfree.tools/zh/cmux) | 基于 Ghostty 的 macOS 终端，为编码代理打造 | 28.2K | Other | [官网](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
+| [Nasiko](https://openfree.tools/zh/nasiko) | AI 代理的开放运行时 | 11.9K | Other | [官网](https://www.nasiko.com/) · [GitHub](https://github.com/Nasiko-Labs/nasiko) |
 | [Orkas](https://openfree.tools/zh/orkas) | 开源、本地优先的桌面 AI 团队 | 5.9K | MIT | [官网](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -582,6 +583,7 @@
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
+| [PipesHub](https://openfree.tools/zh/pipeshub) | 面向 AI 智能体的开源、权限感知上下文层 | 4.0K | Apache-2.0 | [官网](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [boss-agent-cli](https://openfree.tools/zh/boss-agent-cli) | 面向真人与 AI Agent 的 BOSS 直聘 CLI | 2.2K | MIT | [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
@@ -590,6 +592,7 @@
 | [Open Ontologies](https://openfree.tools/zh/open-ontologies) | 规划本体变更，并为每项后果提供证明。 | 1.8K | MIT | [官网](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
+| [RustXNG](https://openfree.tools/zh/rustxng) | 面向 AI 代理的自托管元搜索与页面文本引擎 | 0.9K | AGPL-3.0 | [官网](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |
 | [PaperPilot](https://openfree.tools/zh/paperpilot) | 面向 AI 代理与用户的本地 Rust PDF 工具箱 | 0.7K | Other | [官网](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
 | [Augur](https://openfree.tools/zh/augur) | 本地优先的投资研究记忆系统 | 0.7K | MIT | [官网](https://github.com/BruceLanLan/augur) · [GitHub](https://github.com/BruceLanLan/augur) |
 | [TemPad Dev](https://openfree.tools/zh/tempad-dev) | 设计与开发，无缝连接。 | 0.6K | MIT | [官网](https://tempad.dev/) · [GitHub](https://github.com/ecomfe/tempad-dev) |
@@ -645,6 +648,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Keploy](https://openfree.tools/zh/keploy) | 随处录制，随处回放。 | 18.8K | Apache-2.0 | [官网](https://keploy.io/) · [GitHub](https://github.com/keploy/keploy) |
+| [Monty](https://openfree.tools/zh/monty) | 面向 AI 代码的 Rust 安全 Python 沙箱 | 8.9K | MIT | [官网](https://pydantic.dev/docs/monty/) · [GitHub](https://github.com/pydantic/monty) |
 | [SPACE](https://openfree.tools/zh/space) | 面向智能体代码执行的隔离沙箱平台 | 0.9K | Apache-2.0 | [官网](https://github.com/perplexityai/SPACE) · [GitHub](https://github.com/perplexityai/SPACE) |
 
 <a id="category-agent-skills-tool-libraries"></a>

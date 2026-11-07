@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**356 projects · 83 subcategories · Synced daily**
+**360 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -491,6 +491,7 @@ No published projects yet.
 | [Herdr](https://openfree.tools/herdr) | The runtime your coding agents live on. | 46.1K | Apache-2.0 | [Website](https://herdr.dev/) · [GitHub](https://github.com/herdrdev/herdr) |
 | [OpenMAIC](https://openfree.tools/openmaic) | One-click immersive multi-agent learning | 42.0K | MIT | [Website](https://github.com/THU-MAIC/OpenMAIC) · [GitHub](https://github.com/THU-MAIC/OpenMAIC) |
 | [cmux](https://openfree.tools/cmux) | Ghostty-based macOS terminal for coding agents | 28.2K | Other | [Website](https://github.com/manaflow-ai/cmux) · [GitHub](https://github.com/manaflow-ai/cmux) |
+| [Nasiko](https://openfree.tools/nasiko) | The OpenRuntime for AI agents | 11.9K | Other | [Website](https://www.nasiko.com/) · [GitHub](https://github.com/Nasiko-Labs/nasiko) |
 | [Orkas](https://openfree.tools/orkas) | Open-source local-first AI team for your desktop | 5.9K | MIT | [Website](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
@@ -583,6 +584,7 @@ No published projects yet.
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/aisoc) | Open-source, self-hostable AI security operations center | 4.4K | MIT | [Website](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
+| [PipesHub](https://openfree.tools/pipeshub) | Open-source, permission-aware context for AI agents | 4.0K | Apache-2.0 | [Website](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [boss-agent-cli](https://openfree.tools/boss-agent-cli) | BOSS Zhipin CLI for humans and AI agents | 2.2K | MIT | [Website](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
@@ -591,6 +593,7 @@ No published projects yet.
 | [Open Ontologies](https://openfree.tools/open-ontologies) | Plan ontology changes and prove every consequence. | 1.8K | MIT | [Website](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
+| [RustXNG](https://openfree.tools/rustxng) | Self-hosted metasearch and grounding engine for AI agents | 0.9K | AGPL-3.0 | [Website](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |
 | [PaperPilot](https://openfree.tools/paperpilot) | Local Rust PDF toolkit for AI agents and people | 0.7K | Other | [Website](https://github.com/KrushnaVardhanReddy/PaperPilot) · [GitHub](https://github.com/KrushnaVardhanReddy/PaperPilot) |
 | [Augur](https://openfree.tools/augur) | Local-first investment research memory system | 0.7K | MIT | [Website](https://github.com/BruceLanLan/augur) · [GitHub](https://github.com/BruceLanLan/augur) |
 | [TemPad Dev](https://openfree.tools/tempad-dev) | Design &amp; dev. Connected. | 0.6K | MIT | [Website](https://tempad.dev/) · [GitHub](https://github.com/ecomfe/tempad-dev) |
@@ -646,6 +649,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Keploy](https://openfree.tools/keploy) | Record anything. Replay anywhere. | 18.8K | Apache-2.0 | [Website](https://keploy.io/) · [GitHub](https://github.com/keploy/keploy) |
+| [Monty](https://openfree.tools/monty) | Secure Python sandbox in Rust for AI-generated code | 8.9K | MIT | [Website](https://pydantic.dev/docs/monty/) · [GitHub](https://github.com/pydantic/monty) |
 | [SPACE](https://openfree.tools/space) | Sandboxed platform for agentic code execution | 0.9K | Apache-2.0 | [Website](https://github.com/perplexityai/SPACE) · [GitHub](https://github.com/perplexityai/SPACE) |
 
 <a id="category-agent-skills-tool-libraries"></a>
