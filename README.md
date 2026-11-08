@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**360 projects · 83 subcategories · Synced daily**
+**367 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -169,6 +169,7 @@ No sponsors yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/meetily) | Privacy-first AI meeting assistant | 31.1K | MIT | [Website](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
+| [Cicada](https://openfree.tools/cicada) | Live subtitles, interpreting and AI notes anywhere | 1.6K | Apache-2.0 | [Website](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -362,6 +363,7 @@ No published projects yet.
 | [Crit](https://openfree.tools/crit) | Line-precise review for AI coding agents | 1.3K | MIT | [Website](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/agent-relay) | Infrastructure for coding agents | 1.0K | Apache-2.0 | [Website](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 | [agent-purge](https://openfree.tools/agent-purge) | One persona, many coding agents | 0.8K | MIT | [Website](https://github.com/ZiChuanLan/agent-purge) · [GitHub](https://github.com/ZiChuanLan/agent-purge) |
+| [Octomind](https://openfree.tools/octomind) | Portable open-source agents that finish the job. | 0.6K | Apache-2.0 | [Website](https://octomind.run/) · [GitHub](https://github.com/Muvon/octomind) |
 | [MCode Stack](https://openfree.tools/mcode-stack) | Open-source workflows and skills from the MiniMax Code team | 0.2K | MIT | [Website](https://github.com/MiniMax-AI/mcode-stack) · [GitHub](https://github.com/MiniMax-AI/mcode-stack) |
 
 <a id="category-app-ui-generation"></a>
@@ -476,6 +478,7 @@ No published projects yet.
 | [Bernstein](https://openfree.tools/bernstein) | Open-source governance layer for AI agents | 1.3K | Apache-2.0 | [Website](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
 | [sapper-v2](https://openfree.tools/sapper-v2) | AI commander and worker swarm for autonomous pentests | 0.9K | MIT | [Website](https://github.com/N1nEmAn/sapper-v2) · [GitHub](https://github.com/N1nEmAn/sapper-v2) |
 | [MetaHarness](https://openfree.tools/metaharness) | Mint a custom AI agent harness from any repo. | 0.7K | MIT | [Website](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
+| [Poki](https://openfree.tools/poki) | Let AI agents operate a real iPhone | 0.5K | AGPL-3.0 | [Website](https://poki.bot/) · [GitHub](https://github.com/JosssphZhou/poki) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/octop-harness) | Production-grade agent runtime and self-hosted collaboration | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
 
@@ -534,6 +537,7 @@ No published projects yet.
 | [Worktrunk](https://openfree.tools/worktrunk) | Git worktrees as easy as branches for parallel AI agents | 9.3K | Other | [Website](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
 | [Filee](https://openfree.tools/filee) | Drag. Drop. Converted. | 8.6K | MIT | [Website](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 | [Agent Autoloop](https://openfree.tools/agent-autoloop) | Background loop for CLI agents, asking only when needed | 3.0K | MIT | [Website](https://github.com/KKKKhazix/agent-autoloop) · [GitHub](https://github.com/KKKKhazix/agent-autoloop) |
+| [OpenCode Manager](https://openfree.tools/opencode-manager) | Self-hosted command center for OpenCode | 0.9K | MIT | [Website](https://osp.fyi/opencode-manager) · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) |
 
 <a id="category-voice-agents"></a>
 
@@ -640,6 +644,7 @@ No published projects yet.
 | [AX](https://openfree.tools/ax) | Declarative orchestration for agentic workloads at scale | 14.4K | Apache-2.0 | [Website](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
+| [vork](https://openfree.tools/vork) | Headless 3D and VFX engine built for agents | 1.0K | Other | [Website](https://voyager.so/vork) · [GitHub](https://github.com/voyager-so/vork) |
 | [Octop Gateway](https://openfree.tools/octop-gateway) | Multi-platform IM channel bridge for AI agents and bots | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
 
 <a id="category-sandboxes-code-execution"></a>
@@ -884,7 +889,9 @@ No published projects yet.
 
 ### Datasets, Labeling &amp; Data Quality
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Sand3D](https://openfree.tools/sand3d) | 3D modeling in Python, built for LLMs. | 1.2K | Apache-2.0 | [Website](https://sandflow.ai/sand3d/) · [GitHub](https://github.com/Sandflow-ai/sand3d) |
 
 <a id="category-training-mlops"></a>
 
@@ -942,6 +949,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [FlashMLA](https://openfree.tools/flashmla) | Optimized attention kernels for DeepSeek inference | 13.1K | MIT | [Website](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 | [CUDA Rust](https://openfree.tools/cuda-rust) | NVIDIA's CUDA platform for Rust | 3.9K | Apache-2.0 | [Website](https://nvidia.github.io/cuda-rust/) · [GitHub](https://github.com/NVIDIA/cuda-rust) |
+| [NVIDIA Kubernetes Engine](https://openfree.tools/nvke) | Managed Kubernetes for NVIDIA GPU infrastructure | 0.6K | Apache-2.0 | [Website](https://github.com/dsx-ai-factory/nvke) · [GitHub](https://github.com/dsx-ai-factory/nvke) |
 
 <a id="category-business-industry"></a>
 

@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**360 个项目 · 83 个二级分类 · 每日同步**
+**367 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -168,6 +168,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/zh/meetily) | 隐私优先的AI会议助手 | 31.1K | MIT | [官网](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
+| [知了 Cicada](https://openfree.tools/zh/cicada) | 任何会议和直播的实时字幕、同声传译与 AI 会议纪要 | 1.6K | Apache-2.0 | [官网](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -361,6 +362,7 @@
 | [Crit](https://openfree.tools/zh/crit) | 本地优先的 AI 编程代理逐行审阅界面 | 1.3K | MIT | [官网](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 | [agent-purge](https://openfree.tools/zh/agent-purge) | 一份人设，驱动多个 coding agent | 0.8K | MIT | [官网](https://github.com/ZiChuanLan/agent-purge) · [GitHub](https://github.com/ZiChuanLan/agent-purge) |
+| [Octomind](https://openfree.tools/zh/octomind) | 可移植的开源智能体，真正完成任务。 | 0.6K | Apache-2.0 | [官网](https://octomind.run/) · [GitHub](https://github.com/Muvon/octomind) |
 | [MCode Stack](https://openfree.tools/zh/mcode-stack) | MiniMax Code 团队开源的日常工作流与技能 | 0.2K | MIT | [官网](https://github.com/MiniMax-AI/mcode-stack) · [GitHub](https://github.com/MiniMax-AI/mcode-stack) |
 
 <a id="category-app-ui-generation"></a>
@@ -475,6 +477,7 @@
 | [Bernstein](https://openfree.tools/zh/bernstein) | 面向 AI 智能体的开源治理层 | 1.3K | Apache-2.0 | [官网](https://bernstein.run/) · [GitHub](https://github.com/sipyourdrink-ltd/bernstein) |
 | [sapper-v2](https://openfree.tools/zh/sapper-v2) | 面向自主渗透测试的 AI 指挥官与执行集群 | 0.9K | MIT | [官网](https://github.com/N1nEmAn/sapper-v2) · [GitHub](https://github.com/N1nEmAn/sapper-v2) |
 | [MetaHarness](https://openfree.tools/zh/metaharness) | 从任意仓库铸造自定义 AI 智能体框架。 | 0.7K | MIT | [官网](https://cognitum.one/) · [GitHub](https://github.com/ruvnet/metaharness) |
+| [Poki](https://openfree.tools/zh/poki) | 让 AI 代理像你一样操作真实 iPhone | 0.5K | AGPL-3.0 | [官网](https://poki.bot/) · [GitHub](https://github.com/JosssphZhou/poki) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 | [Octop Harness](https://openfree.tools/zh/octop-harness) | 生产级智能体运行时与自托管智能协作伙伴 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-harness) |
 
@@ -533,6 +536,7 @@
 | [Worktrunk](https://openfree.tools/zh/worktrunk) | 让 Git worktree 像分支一样简单，服务并行 AI 代理 | 9.3K | Other | [官网](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
 | [Filee](https://openfree.tools/zh/filee) | 拖拽，放下，转换完成。 | 8.6K | MIT | [官网](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 | [Agent Autoloop](https://openfree.tools/zh/agent-autoloop) | 让命令行 Agent 在后台自己接活、跟进到底 | 3.0K | MIT | [官网](https://github.com/KKKKhazix/agent-autoloop) · [GitHub](https://github.com/KKKKhazix/agent-autoloop) |
+| [OpenCode Manager](https://openfree.tools/zh/opencode-manager) | 面向 OpenCode 的自托管命令中心 | 0.9K | MIT | [官网](https://osp.fyi/opencode-manager) · [GitHub](https://github.com/chriswritescode-dev/opencode-manager) |
 
 <a id="category-voice-agents"></a>
 
@@ -639,6 +643,7 @@
 | [AX](https://openfree.tools/zh/ax) | 面向规模化智能体工作负载的声明式编排 | 14.4K | Apache-2.0 | [官网](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
+| [vork](https://openfree.tools/zh/vork) | 为智能体打造的无头 3D 与 VFX 引擎 | 1.0K | Other | [官网](https://voyager.so/vork) · [GitHub](https://github.com/voyager-so/vork) |
 | [Octop Gateway](https://openfree.tools/zh/octop-gateway) | 面向 AI Agent 与机器人的多平台 IM 通道桥接 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-gateway) |
 
 <a id="category-sandboxes-code-execution"></a>
@@ -883,7 +888,9 @@
 
 ### 数据集、标注与数据质量
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Sand3D](https://openfree.tools/zh/sand3d) | 面向 LLM 的 Python 3D 建模 | 1.2K | Apache-2.0 | [官网](https://sandflow.ai/sand3d/) · [GitHub](https://github.com/Sandflow-ai/sand3d) |
 
 <a id="category-training-mlops"></a>
 
@@ -941,6 +948,7 @@
 | --- | --- | ---: | --- | --- |
 | [FlashMLA](https://openfree.tools/zh/flashmla) | 面向 DeepSeek 推理的优化注意力算子 | 13.1K | MIT | [官网](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 | [CUDA Rust](https://openfree.tools/zh/cuda-rust) | NVIDIA 面向 Rust 的 CUDA 平台 | 3.9K | Apache-2.0 | [官网](https://nvidia.github.io/cuda-rust/) · [GitHub](https://github.com/NVIDIA/cuda-rust) |
+| [NVIDIA Kubernetes Engine](https://openfree.tools/zh/nvke) | 面向 NVIDIA GPU 基础设施的托管 Kubernetes | 0.6K | Apache-2.0 | [官网](https://github.com/dsx-ai-factory/nvke) · [GitHub](https://github.com/dsx-ai-factory/nvke) |
 
 <a id="category-business-industry"></a>
 
