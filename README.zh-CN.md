@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**367 个项目 · 83 个二级分类 · 每日同步**
+**372 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -155,6 +155,7 @@
 | [Open Duet](https://openfree.tools/zh/open-duet) | 可自托管的 AI 同事，带记忆与审批 | 6.0K | Apache-2.0 | [官网](https://github.com/Anil-matcha/open-duet) · [GitHub](https://github.com/Anil-matcha/open-duet) |
 | [claude-desktop-debian](https://openfree.tools/zh/claude-desktop-debian) | 面向 Linux 的非官方 Claude Desktop 打包 | 5.5K | Apache-2.0 | [官网](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
+| [EAC-Desktop](https://openfree.tools/zh/eac-desktop) | 基于 DeepSeek Harness 的开源桌面工作台 | 3.1K | MIT | [官网](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/zh/mika) | 你手机上的私人 AI 助理 | 1.3K | Apache-2.0 | [官网](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
@@ -524,6 +525,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [terminal-mac](https://openfree.tools/zh/terminal-mac) | 面向计算机操作代理的独立 macOS 桌面 | 2.5K | MIT | [官网](https://github.com/govijr/terminal-mac) · [GitHub](https://github.com/govijr/terminal-mac) |
 | [agent-desktop](https://openfree.tools/zh/agent-desktop) | 通过辅助功能树读取并操作桌面应用 | 2.2K | Apache-2.0 | [官网](https://agent-browser.dev/desktop) · [GitHub](https://github.com/vercel-labs/agent-desktop) |
 
 <a id="category-workflow-automation"></a>
@@ -566,6 +568,7 @@
 | [goose](https://openfree.tools/zh/goose) | 你的原生开源 AI 智能体 | 56.0K | Apache-2.0 | [官网](https://goose-docs.ai/) · [GitHub](https://github.com/aaif-goose/goose) |
 | [Chrome DevTools for agents](https://openfree.tools/zh/chrome-devtools-mcp) | 让 AI 编码代理控制并检查实时 Chrome 浏览器 | 53.7K | Apache-2.0 | [官网](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | [Codebase Memory](https://openfree.tools/zh/codebase-memory) | 面向 AI 编程助手的持久代码知识图谱 | 47.5K | MIT | [官网](https://deusdata.github.io/codebase-memory-mcp/) · [GitHub](https://github.com/DeusData/codebase-memory-mcp) |
+| [GBrain](https://openfree.tools/zh/gbrain) | 为 AI 代理提供可控的共享记忆层 | 31.9K | MIT | [官网](https://github.com/garrytan/gbrain) · [GitHub](https://github.com/garrytan/gbrain) |
 | [MCP for Blender](https://openfree.tools/zh/mcp-for-blender) | 用任意 LLM 控制 Blender 3D | 31.6K | MIT | [官网](https://www.mcp-for-blender.com/) · [GitHub](https://github.com/ahujasid/mcp-for-blender) |
 | [Cognee](https://openfree.tools/zh/cognee) | 面向 AI 智能体的开源记忆平台 | 31.0K | Apache-2.0 | [官网](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/zh/qmd) | 面向文档、笔记与知识库的设备端混合搜索 | 30.1K | MIT | [官网](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
@@ -583,6 +586,7 @@
 | [GenOffice](https://openfree.tools/zh/genoffice) | 免费开源的桌面 AI 办公套件 | 7.9K | Apache-2.0 | [官网](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [agentgateway](https://openfree.tools/zh/agentgateway) | 统一服务、LLM 与 MCP 流量的高性能网关 | 5.8K | Apache-2.0 | [官网](https://agentgateway.dev/) · [GitHub](https://github.com/agentgateway/agentgateway) |
 | [OpenAgent](https://openfree.tools/zh/openagent) | 单二进制、可自托管的个人 AI 助手 | 5.7K | Apache-2.0 | [官网](https://openagentai.org/) · [GitHub](https://github.com/the-open-agent/openagent) |
+| [HA-MCP](https://openfree.tools/zh/ha-mcp) | 用 Claude、ChatGPT 等 AI 助手配置和自动化 Home Assistant | 5.6K | MIT | [官网](https://github.com/homeassistant-ai/ha-mcp) · [GitHub](https://github.com/homeassistant-ai/ha-mcp) |
 | [agent-device](https://openfree.tools/zh/agent-device) | 面向 AI 编程代理的开源设备层 | 5.2K | MIT | [官网](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
@@ -990,6 +994,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [DSA](https://openfree.tools/zh/daily-stock-analysis) | LLM 驱动的多市场股票分析与决策报告系统 | 68.5K | MIT | [官网](https://dsa.zhulinsen.tech/) · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) |
 | [OpenStock](https://openfree.tools/zh/openstock) | 行情数据，无需付费墙。 | 20.6K | AGPL-3.0 | [官网](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 | [NOFX](https://openfree.tools/zh/nofx) | AI 提议交易，你批准或启用 Autopilot | 13.2K | AGPL-3.0 | [官网](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 

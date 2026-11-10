@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**367 projects · 83 subcategories · Synced daily**
+**372 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -156,6 +156,7 @@ No sponsors yet.
 | [Open Duet](https://openfree.tools/open-duet) | Self-hosted AI coworkers with memory and approvals | 6.0K | Apache-2.0 | [Website](https://github.com/Anil-matcha/open-duet) · [GitHub](https://github.com/Anil-matcha/open-duet) |
 | [claude-desktop-debian](https://openfree.tools/claude-desktop-debian) | Unofficial Claude Desktop packaging for Linux | 5.5K | Apache-2.0 | [Website](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
+| [EAC-Desktop](https://openfree.tools/eac-desktop) | Open-source desktop workbench built on DeepSeek Harness | 3.1K | MIT | [Website](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
 | [PromptHub](https://openfree.tools/prompthub) | Local-first workspace for prompts, skills, and agent assets | 1.7K | AGPL-3.0 | [Website](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/amical) | Open-source AI dictation for Mac, Windows, iOS, and Android | 1.5K | MIT | [Website](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/mika) | Your private AI assistant on your phone | 1.3K | Apache-2.0 | [Website](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
@@ -525,6 +526,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [terminal-mac](https://openfree.tools/terminal-mac) | A separate macOS desktop for computer-use agents. | 2.5K | MIT | [Website](https://github.com/govijr/terminal-mac) · [GitHub](https://github.com/govijr/terminal-mac) |
 | [agent-desktop](https://openfree.tools/agent-desktop) | Read and operate desktop apps through accessibility trees | 2.2K | Apache-2.0 | [Website](https://agent-browser.dev/desktop) · [GitHub](https://github.com/vercel-labs/agent-desktop) |
 
 <a id="category-workflow-automation"></a>
@@ -567,6 +569,7 @@ No published projects yet.
 | [goose](https://openfree.tools/goose) | Your native open source AI agent | 56.0K | Apache-2.0 | [Website](https://goose-docs.ai/) · [GitHub](https://github.com/aaif-goose/goose) |
 | [Chrome DevTools for agents](https://openfree.tools/chrome-devtools-mcp) | Live Chrome browser control for AI coding agents | 53.7K | Apache-2.0 | [Website](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | [Codebase Memory](https://openfree.tools/codebase-memory) | Persistent code knowledge graph for AI coding agents | 47.5K | MIT | [Website](https://deusdata.github.io/codebase-memory-mcp/) · [GitHub](https://github.com/DeusData/codebase-memory-mcp) |
+| [GBrain](https://openfree.tools/gbrain) | A controllable shared memory layer for AI agents | 31.9K | MIT | [Website](https://github.com/garrytan/gbrain) · [GitHub](https://github.com/garrytan/gbrain) |
 | [MCP for Blender](https://openfree.tools/mcp-for-blender) | Control Blender 3D with any LLM | 31.6K | MIT | [Website](https://www.mcp-for-blender.com/) · [GitHub](https://github.com/ahujasid/mcp-for-blender) |
 | [Cognee](https://openfree.tools/cognee) | Open-source memory platform for AI agents | 31.0K | Apache-2.0 | [Website](https://www.cognee.ai/) · [GitHub](https://github.com/topoteretes/cognee) |
 | [QMD](https://openfree.tools/qmd) | On-device hybrid search for docs, notes, and knowledge bases | 30.1K | MIT | [Website](https://github.com/tobi/qmd) · [GitHub](https://github.com/tobi/qmd) |
@@ -584,6 +587,7 @@ No published projects yet.
 | [GenOffice](https://openfree.tools/genoffice) | Free, open-source AI office suite for desktop | 7.9K | Apache-2.0 | [Website](https://genoffice.ai/) · [GitHub](https://github.com/genspark-ai/genoffice) |
 | [agentgateway](https://openfree.tools/agentgateway) | High-performance gateway for service, LLM, and MCP traffic. | 5.8K | Apache-2.0 | [Website](https://agentgateway.dev/) · [GitHub](https://github.com/agentgateway/agentgateway) |
 | [OpenAgent](https://openfree.tools/openagent) | Single-binary, self-hosted personal AI assistant | 5.7K | Apache-2.0 | [Website](https://openagentai.org/) · [GitHub](https://github.com/the-open-agent/openagent) |
+| [HA-MCP](https://openfree.tools/ha-mcp) | Configure and automate Home Assistant with AI | 5.6K | MIT | [Website](https://github.com/homeassistant-ai/ha-mcp) · [GitHub](https://github.com/homeassistant-ai/ha-mcp) |
 | [agent-device](https://openfree.tools/agent-device) | Open source device layer for AI coding agents | 5.2K | MIT | [Website](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
@@ -991,6 +995,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [DSA](https://openfree.tools/daily-stock-analysis) | LLM-driven multi-market stock analysis and decision reports | 68.5K | MIT | [Website](https://dsa.zhulinsen.tech/) · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) |
 | [OpenStock](https://openfree.tools/openstock) | Markets, minus the paywall. | 20.6K | AGPL-3.0 | [Website](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 | [NOFX](https://openfree.tools/nofx) | AI proposes trades; you approve or run Autopilot | 13.2K | AGPL-3.0 | [Website](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 
