@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**372 个项目 · 83 个二级分类 · 每日同步**
+**375 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -235,6 +235,7 @@
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [无限画布](https://openfree.tools/zh/infinite-canvas) | 在画布上连续推演 AI 图片与视频创作 | 9.2K | MIT | [官网](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/zh/mochi-diffusion) | 在 Mac 上原生运行 Stable Diffusion 与 FLUX.2 Klein | 8.0K | GPL-3.0 | [官网](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
+| [anidoodle](https://openfree.tools/zh/anidoodle) | 以代码创作手绘插画与动画。 | 1.5K | Apache-2.0 | [官网](https://alexgreenshpun.com/) · [GitHub](https://github.com/alexgreensh/anidoodle) |
 
 <a id="category-image-editing-enhancement"></a>
 
@@ -461,6 +462,7 @@
 | [Mastra](https://openfree.tools/zh/mastra) | 面向 AI 智能体与应用的 TypeScript 框架 | 28.9K | Other | [官网](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
 | [Agent Development Kit (ADK)](https://openfree.tools/zh/agent-development-kit-adk) | 用于构建生产级 AI 智能体的开源框架 | 22.0K | Apache-2.0 | [官网](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/zh/swe-agent) | 自主软件工程智能体 | 20.4K | MIT | [官网](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
+| [elizaOS](https://openfree.tools/zh/elizaos) | 开源智能体操作系统与 TypeScript 框架 | 19.8K | MIT | [官网](https://osp.fyi/eliza) · [GitHub](https://github.com/elizaOS/eliza) |
 | [RocketRide](https://openfree.tools/zh/rocketride) | 开源 AI 流水线引擎，面向 LLM 工作流 | 18.8K | MIT | [官网](https://github.com/rocketride-org/rocketride-server) · [GitHub](https://github.com/rocketride-org/rocketride-server) |
 | [Browser Harness](https://openfree.tools/zh/browser-harness) | 基于 CDP 的自愈式浏览器代理工具 | 18.1K | MIT | [官网](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [InkOS](https://openfree.tools/zh/inkos) | 面向小说、剧本与互动影游的故事创作智能体 | 10.9K | AGPL-3.0 | [官网](https://github.com/Narcooo/inkos) · [GitHub](https://github.com/Narcooo/inkos) |
@@ -598,6 +600,7 @@
 | [GitLab MCP Server](https://openfree.tools/zh/gitlab-mcp-server) | 连接 AI 客户端与 GitLab 的 MCP 服务器 | 2.1K | MIT | [官网](https://zereight.github.io/gitlab-mcp/) · [GitHub](https://github.com/zereight/gitlab-mcp) |
 | [earshot](https://openfree.tools/zh/earshot) | 为编程智能体提供听觉：听见、审查并制作声音 | 1.9K | MIT | [官网](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [Open Ontologies](https://openfree.tools/zh/open-ontologies) | 规划本体变更，并为每项后果提供证明。 | 1.8K | MIT | [官网](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
+| [Pinky](https://openfree.tools/zh/pinky) | 让 AI 智能体使用你的手机，你全程掌控 | 1.6K | Apache-2.0 | [官网](https://github.com/DIYgod/pinky) · [GitHub](https://github.com/DIYgod/pinky) |
 | [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [RustXNG](https://openfree.tools/zh/rustxng) | 面向 AI 代理的自托管元搜索与页面文本引擎 | 0.9K | AGPL-3.0 | [官网](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |

@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**372 projects · 83 subcategories · Synced daily**
+**375 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -236,6 +236,7 @@ No published projects yet.
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Infinite Canvas](https://openfree.tools/infinite-canvas) | One canvas for AI images, video, and visual iteration | 9.2K | MIT | [Website](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/mochi-diffusion) | Run Stable Diffusion and FLUX.2 Klein natively on Mac | 8.0K | GPL-3.0 | [Website](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
+| [anidoodle](https://openfree.tools/anidoodle) | Hand-drawn art and animation, written as code. | 1.5K | Apache-2.0 | [Website](https://alexgreenshpun.com/) · [GitHub](https://github.com/alexgreensh/anidoodle) |
 
 <a id="category-image-editing-enhancement"></a>
 
@@ -462,6 +463,7 @@ No published projects yet.
 | [Mastra](https://openfree.tools/mastra) | TypeScript framework for AI agents and applications | 28.9K | Other | [Website](https://mastra.ai/) · [GitHub](https://github.com/mastra-ai/mastra) |
 | [Agent Development Kit (ADK)](https://openfree.tools/agent-development-kit-adk) | Open-source framework for building production AI agents | 22.0K | Apache-2.0 | [Website](https://google.github.io/adk-docs/) · [GitHub](https://github.com/google/adk-python) |
 | [SWE-agent](https://openfree.tools/swe-agent) | Autonomous software engineering agent | 20.4K | MIT | [Website](https://swe-agent.com/) · [GitHub](https://github.com/SWE-agent/SWE-agent) |
+| [elizaOS](https://openfree.tools/elizaos) | Open-source TypeScript framework for autonomous AI agents | 19.8K | MIT | [Website](https://osp.fyi/eliza) · [GitHub](https://github.com/elizaOS/eliza) |
 | [RocketRide](https://openfree.tools/rocketride) | Open-source AI pipeline engine for LLM workflows | 18.8K | MIT | [Website](https://github.com/rocketride-org/rocketride-server) · [GitHub](https://github.com/rocketride-org/rocketride-server) |
 | [Browser Harness](https://openfree.tools/browser-harness) | Self-healing browser agents built directly on CDP | 18.1K | MIT | [Website](https://browser-harness.com/) · [GitHub](https://github.com/browser-use/browser-harness) |
 | [InkOS](https://openfree.tools/inkos) | AI agent for novels, scripts, and interactive games | 10.9K | AGPL-3.0 | [Website](https://github.com/Narcooo/inkos) · [GitHub](https://github.com/Narcooo/inkos) |
@@ -599,6 +601,7 @@ No published projects yet.
 | [GitLab MCP Server](https://openfree.tools/gitlab-mcp-server) | MCP server for GitLab projects, MRs, issues, and pipelines | 2.1K | MIT | [Website](https://zereight.github.io/gitlab-mcp/) · [GitHub](https://github.com/zereight/gitlab-mcp) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [Open Ontologies](https://openfree.tools/open-ontologies) | Plan ontology changes and prove every consequence. | 1.8K | MIT | [Website](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
+| [Pinky](https://openfree.tools/pinky) | Let AI agents use your phone, with you in the loop. | 1.6K | Apache-2.0 | [Website](https://github.com/DIYgod/pinky) · [GitHub](https://github.com/DIYgod/pinky) |
 | [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [RustXNG](https://openfree.tools/rustxng) | Self-hosted metasearch and grounding engine for AI agents | 0.9K | AGPL-3.0 | [Website](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |
