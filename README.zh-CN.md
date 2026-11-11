@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**375 个项目 · 83 个二级分类 · 每日同步**
+**379 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -141,6 +141,7 @@
 | [Locally Uncensored](https://openfree.tools/zh/locally-uncensored) | 免费开源的桌面本地 AI 工作室 | 3.0K | AGPL-3.0 | [官网](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/zh/switch-ai) | 在共享聊天室中管理智能体员工队伍 | 1.8K | Other | [官网](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
 | [AnyModelBot](https://openfree.tools/zh/anymodelbot) | 住在你电脑里的开源 AI 搭子，一个 Key 畅用主流模型 | 1.0K | MIT | [官网](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
+| [Ember](https://openfree.tools/zh/ember) | 开源团队聊天，部署在自己的 Cloudflare 账户 | 0.6K | MIT | [官网](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -360,6 +361,7 @@
 | [OpenBot](https://openfree.tools/zh/openbot-2) | 在你自己的电脑上运行常驻 AI 队友 | 3.6K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 | [dsh-superagent](https://openfree.tools/zh/dsh-superagent) | 面向单个 GitHub 仓库的主动式编程代理 | 2.5K | MIT | [官网](https://github.com/deepseek-ai/dsh-superagent-prototype) · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| [cinecode](https://openfree.tools/zh/cinecode) | AI 编程代理以代码制作影片 | 2.1K | MIT | [官网](https://github.com/sarpstar/cinecode) · [GitHub](https://github.com/sarpstar/cinecode) |
 | [Reason Network](https://openfree.tools/zh/reason-network) | 团队编码代理的点对点通信 | 1.3K | Apache-2.0 | [官网](https://reasonmachines.com/) · [GitHub](https://github.com/reason-machines/reason-network) |
 | [Crit](https://openfree.tools/zh/crit) | 本地优先的 AI 编程代理逐行审阅界面 | 1.3K | MIT | [官网](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
@@ -812,6 +814,7 @@
 | --- | --- | ---: | --- | --- |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
+| [Ollama JavaScript Library](https://openfree.tools/zh/ollama-javascript-library) | Ollama 的官方 JavaScript 客户端 | 4.4K | MIT | [官网](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
 | [Free My TV](https://openfree.tools/zh/free-my-tv) | 快速、无广告的电视首页 | 3.1K | MIT | [官网](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Solid Glass](https://openfree.tools/zh/solid-glass) | 面向 AI 应用的触感化实体设计系统。 | 2.1K | MIT | [官网](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/zh/pele) | 轻量快速渲染 Mermaid 图表为 SVG，并用 CSS 变量设置主题。 | 1.8K | Other | [官网](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
@@ -1082,6 +1085,7 @@
 | [Shannon](https://openfree.tools/zh/shannon) | 持续智能体渗透测试，验证真实漏洞利用 | 51.3K | AGPL-3.0 | [官网](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/zh/skillspector) | 安装前扫描 AI 智能体技能的安全风险 | 21.8K | Apache-2.0 | [官网](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
+| [Codex Security](https://openfree.tools/zh/codex-security) | 发现、验证并修复代码中的安全漏洞 | 11.4K | Apache-2.0 | [官网](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |
 | [ADR](https://openfree.tools/zh/adr) | 企业 AI 代理安全防护 | 2.1K | Apache-2.0 | [官网](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
 | [ZeroLeaks](https://openfree.tools/zh/zeroleaks) | 面向 AI 智能体的持续红队测试 | 0.7K | Other | [官网](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 

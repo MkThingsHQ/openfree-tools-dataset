@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**375 projects · 83 subcategories · Synced daily**
+**379 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -142,6 +142,7 @@ No sponsors yet.
 | [Locally Uncensored](https://openfree.tools/locally-uncensored) | Free, open-source local AI studio for desktop | 3.0K | AGPL-3.0 | [Website](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/switch-ai) | Manage your agentic workforce in shared chat rooms | 1.8K | Other | [Website](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
 | [AnyModelBot](https://openfree.tools/anymodelbot) | Open-source, local-first AI assistant on your computer | 1.0K | MIT | [Website](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
+| [Ember](https://openfree.tools/ember) | Open source team chat on your own Cloudflare account | 0.6K | MIT | [Website](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -361,6 +362,7 @@ No published projects yet.
 | [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates on your own computer | 3.6K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 | [dsh-superagent](https://openfree.tools/dsh-superagent) | A proactive coding agent for one GitHub repository | 2.5K | MIT | [Website](https://github.com/deepseek-ai/dsh-superagent-prototype) · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| [cinecode](https://openfree.tools/cinecode) | Films made with code by an AI coding agent | 2.1K | MIT | [Website](https://github.com/sarpstar/cinecode) · [GitHub](https://github.com/sarpstar/cinecode) |
 | [Reason Network](https://openfree.tools/reason-network) | Peer-to-peer messaging for your team's coding agents | 1.3K | Apache-2.0 | [Website](https://reasonmachines.com/) · [GitHub](https://github.com/reason-machines/reason-network) |
 | [Crit](https://openfree.tools/crit) | Line-precise review for AI coding agents | 1.3K | MIT | [Website](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/agent-relay) | Infrastructure for coding agents | 1.0K | Apache-2.0 | [Website](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
@@ -813,6 +815,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
+| [Ollama JavaScript Library](https://openfree.tools/ollama-javascript-library) | Official JavaScript client for Ollama | 4.4K | MIT | [Website](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
 | [Free My TV](https://openfree.tools/free-my-tv) | A fast, ad-free TV home screen | 3.1K | MIT | [Website](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |
 | [Solid Glass](https://openfree.tools/solid-glass) | A tactile, physical design system for AI applications. | 2.1K | MIT | [Website](https://deeplethe.github.io/solid-glass) · [GitHub](https://github.com/deeplethe/solid-glass) |
 | [Pele](https://openfree.tools/pele) | Render Mermaid diagrams to SVG with CSS-variable theming. | 1.8K | Other | [Website](https://github.com/obsidianmd/pele) · [GitHub](https://github.com/obsidianmd/pele) |
@@ -1083,6 +1086,7 @@ No published projects yet.
 | [Shannon](https://openfree.tools/shannon) | Continuous agentic pentesting with proven exploits | 51.3K | AGPL-3.0 | [Website](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
+| [Codex Security](https://openfree.tools/codex-security) | Find, validate, and fix security vulnerabilities in code | 11.4K | Apache-2.0 | [Website](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |
 | [ADR](https://openfree.tools/adr) | Enterprise security for AI agents | 2.1K | Apache-2.0 | [Website](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
 | [ZeroLeaks](https://openfree.tools/zeroleaks) | Continuous red teaming for AI agents | 0.7K | Other | [Website](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 
