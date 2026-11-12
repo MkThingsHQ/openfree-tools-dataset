@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**379 projects · 83 subcategories · Synced daily**
+**382 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -328,6 +328,7 @@ No published projects yet.
 | [CC Workflow Studio](https://openfree.tools/cc-workflow-studio) | Visual workflow editor for AI coding agents | 5.4K | Other | [Website](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/portal-ai-plugins) | Portal workflows for AI coding agents | 2.9K | Apache-2.0 | [Website](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [Floorplan](https://openfree.tools/floorplan) | See how your app actually fits together. | 2.9K | MIT | [Website](https://github.com/haydenschmitty/floorplan) · [GitHub](https://github.com/haydenschmitty/floorplan) |
+| [Deep Code](https://openfree.tools/deep-code) | Terminal AI coding assistant optimized for DeepSeek | 2.2K | MIT | [Website](https://deepcode.vegamo.cn/) · [GitHub](https://github.com/lessweb/deepcode-cli) |
 | [ATLAS](https://openfree.tools/atlas) | Local coding agent for compact open models | 2.1K | AGPL-3.0 | [Website](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -348,6 +349,7 @@ No published projects yet.
 | [Open Code Review](https://openfree.tools/open-code-review) | AI code review agent with line-level precision | 47.5K | Apache-2.0 | [Website](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/codewhale) | Open-source coding agent that works with any model. | 41.1K | MIT | [Website](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
 | [AI Website Cloner Template](https://openfree.tools/ai-website-cloner-template) | Clone any website with one command using AI coding agents | 37.3K | MIT | [Website](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
+| [Qwen Code](https://openfree.tools/qwen-code) | Open-source AI coding agent in your terminal | 29.6K | Apache-2.0 | [Website](https://github.com/QwenLM/qwen-code) · [GitHub](https://github.com/QwenLM/qwen-code) |
 | [Grok Build](https://openfree.tools/grok-build) | SpaceXAI's coding agent harness and TUI | 27.1K | Apache-2.0 | [Website](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
@@ -356,6 +358,7 @@ No published projects yet.
 | [SuperPlane](https://openfree.tools/superplane) | Open source factory for one-shot engineering | 8.3K | Other | [Website](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
 | [OpenRig](https://openfree.tools/openrig) | Persistent teams of coding agents on your own machine | 8.2K | Apache-2.0 | [Website](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
+| [PI-Desktop](https://openfree.tools/pi-desktop) | A modular desktop workspace for AI agents | 7.9K | LGPL-3.0 | [Website](https://pi-docs.aiuo.net/) · [GitHub](https://github.com/vastsa/PI-Desktop) |
 | [Coucou](https://openfree.tools/coucou) | A tiny friend that lives in your notch | 6.8K | MIT | [Website](https://louis-cfm.github.io/coucou/) · [GitHub](https://github.com/Louis-CFM/coucou) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |

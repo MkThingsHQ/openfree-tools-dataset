@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**379 个项目 · 83 个二级分类 · 每日同步**
+**382 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -327,6 +327,7 @@
 | [CC Workflow Studio](https://openfree.tools/zh/cc-workflow-studio) | 面向 AI 编程代理的可视化工作流编辑器 | 5.4K | Other | [官网](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/zh/portal-ai-plugins) | 为 AI 编码代理提供 Portal 工作流 | 2.9K | Apache-2.0 | [官网](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [Floorplan](https://openfree.tools/zh/floorplan) | 看清你的应用究竟如何组合在一起。 | 2.9K | MIT | [官网](https://github.com/haydenschmitty/floorplan) · [GitHub](https://github.com/haydenschmitty/floorplan) |
+| [Deep Code](https://openfree.tools/zh/deep-code) | 面向 DeepSeek 优化的终端 AI 编码助手 | 2.2K | MIT | [官网](https://deepcode.vegamo.cn/) · [GitHub](https://github.com/lessweb/deepcode-cli) |
 | [ATLAS](https://openfree.tools/zh/atlas) | 面向紧凑开源模型的本地编码代理 | 2.1K | AGPL-3.0 | [官网](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/zh/thinkrail) | 带隔离工作树与活规格的智能体 IDE | 0.9K | Apache-2.0 | [官网](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
@@ -347,6 +348,7 @@
 | [Open Code Review](https://openfree.tools/zh/open-code-review) | 行级精准的 AI 代码审查命令行工具 | 47.5K | Apache-2.0 | [官网](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/zh/codewhale) | 支持任意模型的开源编码智能体 | 41.1K | MIT | [官网](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
 | [AI Website Cloner Template](https://openfree.tools/zh/ai-website-cloner-template) | 用一条命令让 AI 编码代理克隆任意网站 | 37.3K | MIT | [官网](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
+| [Qwen Code](https://openfree.tools/zh/qwen-code) | 终端中的开源 AI 编码智能体 | 29.6K | Apache-2.0 | [官网](https://github.com/QwenLM/qwen-code) · [GitHub](https://github.com/QwenLM/qwen-code) |
 | [Grok Build](https://openfree.tools/zh/grok-build) | SpaceXAI 的编码代理框架与 TUI | 27.1K | Apache-2.0 | [官网](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/zh/happy) | Claude Code 与 Codex 的远程控制 | 23.9K | MIT | [官网](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/zh/t3-code) | 面向编码代理的开源控制平面 | 23.6K | MIT | [官网](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
@@ -355,6 +357,7 @@
 | [SuperPlane](https://openfree.tools/zh/superplane) | 面向一次性工程的开源软件工厂 | 8.3K | Other | [官网](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
 | [OpenRig](https://openfree.tools/zh/openrig) | 在你自己的机器上运行持久的编程智能体团队 | 8.2K | Apache-2.0 | [官网](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
+| [PI-Desktop](https://openfree.tools/zh/pi-desktop) | 面向 AI 智能体的模块化桌面工作区 | 7.9K | LGPL-3.0 | [官网](https://pi-docs.aiuo.net/) · [GitHub](https://github.com/vastsa/PI-Desktop) |
 | [Coucou](https://openfree.tools/zh/coucou) | 住在刘海或屏幕顶部的迷你伙伴 | 6.8K | MIT | [官网](https://louis-cfm.github.io/coucou/) · [GitHub](https://github.com/Louis-CFM/coucou) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
