@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**382 projects · 83 subcategories · Synced daily**
+**390 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -134,6 +134,7 @@ No sponsors yet.
 | --- | --- | ---: | --- | --- |
 | [Open WebUI](https://openfree.tools/open-webui) | User-friendly AI interface for Ollama and OpenAI | 153.2K | Other | [Website](https://openwebui.com/) · [GitHub](https://github.com/open-webui/open-webui) |
 | [Cherry Studio](https://openfree.tools/cherry-studio) | The All-in-One AI Workstation | 52.2K | AGPL-3.0 | [Website](https://cherryai.com/) · [GitHub](https://github.com/CherryHQ/cherry-studio) |
+| [Buzz](https://openfree.tools/buzz) | A self-hostable workspace for humans and AI agents | 37.2K | Apache-2.0 | [Website](https://github.com/block/buzz) · [GitHub](https://github.com/block/buzz) |
 | [Strata](https://openfree.tools/strata) | Run Qwen3.8-Flash-Next on your own PC | 31.2K | MIT | [Website](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [Jev Chat Assistant](https://openfree.tools/jev-chat-assistant) | Reads chats, judges intent, drafts replies you send | 8.1K | MIT | [Website](https://chatjevs.com/) · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) |
 | [MausBot](https://openfree.tools/openmausbot) | Your own team of AI bots, on your machine | 7.1K | Apache-2.0 | [Website](https://github.com/milind-soni/OpenMausBot) · [GitHub](https://github.com/milind-soni/OpenMausBot) |
@@ -172,6 +173,7 @@ No sponsors yet.
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/meetily) | Privacy-first AI meeting assistant | 31.1K | MIT | [Website](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
 | [Cicada](https://openfree.tools/cicada) | Live subtitles, interpreting and AI notes anywhere | 1.6K | Apache-2.0 | [Website](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
+| [Yogurt](https://openfree.tools/yogurt) | Private AI meeting notes, free and open source | 1.1K | MIT | [Website](https://yogurt.so/) · [GitHub](https://github.com/FrigadeHQ/yogurt) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -256,6 +258,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [HyperFrames](https://openfree.tools/hyperframes) | Write HTML. Render video. Built for agents. | 59.2K | Apache-2.0 | [Website](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [brag](https://openfree.tools/brag) | Turn your project into a 20-second launch video | 18.5K | MIT | [Website](https://latent-spaces.github.io/brag/) · [GitHub](https://github.com/latent-spaces/brag) |
+| [OpenFilm](https://openfree.tools/openfilm) | The open source AI video agent. | 6.1K | MIT | [Website](https://openfilm.dev/) · [GitHub](https://github.com/openfilm/openfilm) |
 | [AI Short Video Factory](https://openfree.tools/ai-short-video-factory) | Create more. Edit less. | 5.8K | AGPL-3.0 | [Website](https://short-video-factory.yils.blog/) · [GitHub](https://github.com/YILS-LIN/short-video-factory) |
 | [LemoOpuscar](https://openfree.tools/lemo-opuscar) | Reusable style prompts and code-made short films | 5.0K | MIT | [Website](https://github.com/lemomo-ai/lemo-opuscar) · [GitHub](https://github.com/lemomo-ai/lemo-opuscar) |
 
@@ -324,6 +327,7 @@ No published projects yet.
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
 | [Paradev](https://openfree.tools/paradev) | IDE for running and orchestrating parallel coding agents | 15.7K | Other | [Website](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
+| [Plannotator](https://openfree.tools/plannotator) | Plan and code review for your agents. | 10.3K | Apache-2.0 | [Website](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
 | [Kimi Code](https://openfree.tools/kimi-code) | Developer AI coding across desktop, CLI, and VS Code | 8.0K | MIT | [Website](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [CC Workflow Studio](https://openfree.tools/cc-workflow-studio) | Visual workflow editor for AI coding agents | 5.4K | Other | [Website](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/portal-ai-plugins) | Portal workflows for AI coding agents | 2.9K | Apache-2.0 | [Website](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
@@ -360,6 +364,7 @@ No published projects yet.
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [PI-Desktop](https://openfree.tools/pi-desktop) | A modular desktop workspace for AI agents | 7.9K | LGPL-3.0 | [Website](https://pi-docs.aiuo.net/) · [GitHub](https://github.com/vastsa/PI-Desktop) |
 | [Coucou](https://openfree.tools/coucou) | A tiny friend that lives in your notch | 6.8K | MIT | [Website](https://louis-cfm.github.io/coucou/) · [GitHub](https://github.com/Louis-CFM/coucou) |
+| [TokenEconomizer](https://openfree.tools/tokeneconomizer) | Experience-driven cost control for coding agents | 5.9K | Apache-2.0 | [Website](https://github.com/microsoft/TokenEconomizer) · [GitHub](https://github.com/microsoft/TokenEconomizer) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates on your own computer | 3.6K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
@@ -806,6 +811,7 @@ No published projects yet.
 | [Folo](https://openfree.tools/folo) | AI RSS reader for articles, news, and podcasts | 39.2K | AGPL-3.0 | [Website](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/tolaria) | A second brain for the AI era. Free forever. | 19.9K | AGPL-3.0 | [Website](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [Horizon](https://openfree.tools/horizon) | Your own AI-powered news radar | 12.3K | MIT | [Website](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
+| [LearnHarness](https://openfree.tools/learnharness) | An AI agent harness for learning difficult things. | 9.0K | AGPL-3.0 | [Website](https://github.com/amosblomqvist/learnharness) · [GitHub](https://github.com/amosblomqvist/learnharness) |
 | [OpenKnowledge](https://openfree.tools/openknowledge) | Beautiful, AI-native markdown editor | 4.3K | GPL-3.0 | [Website](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/edgeever) | AI-native, self-hosted notes and knowledge base | 2.6K | AGPL-3.0 | [Website](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/morrow) | Privacy-first, local-first workspace for notes and databases | 0.2K | Apache-2.0 | [Website](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
@@ -963,6 +969,7 @@ No published projects yet.
 | [FlashMLA](https://openfree.tools/flashmla) | Optimized attention kernels for DeepSeek inference | 13.1K | MIT | [Website](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 | [CUDA Rust](https://openfree.tools/cuda-rust) | NVIDIA's CUDA platform for Rust | 3.9K | Apache-2.0 | [Website](https://nvidia.github.io/cuda-rust/) · [GitHub](https://github.com/NVIDIA/cuda-rust) |
 | [NVIDIA Kubernetes Engine](https://openfree.tools/nvke) | Managed Kubernetes for NVIDIA GPU infrastructure | 0.6K | Apache-2.0 | [Website](https://github.com/dsx-ai-factory/nvke) · [GitHub](https://github.com/dsx-ai-factory/nvke) |
+| [OpenOrange](https://openfree.tools/open-orange) | Run Cloudflare Workers anywhere. | 0.3K | Apache-2.0 | [Website](https://github.com/rivet-dev/open-orange) · [GitHub](https://github.com/rivet-dev/open-orange) |
 
 <a id="category-business-industry"></a>
 
@@ -975,6 +982,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [World Monitor](https://openfree.tools/world-monitor) | Real-time global intelligence on one live map | 90.0K | AGPL-3.0 | [Website](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
+| [God's Eye View](https://openfree.tools/god-s-eye-view) | A spy-satellite simulator with real data | 64.6K | Other | [Website](https://godseyeview.ai/) · [GitHub](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [Auto Ontology](https://openfree.tools/auto-ontology) | Semantic graph reasoning layer for trusted agent analytics | 3.0K | Apache-2.0 | [Website](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |

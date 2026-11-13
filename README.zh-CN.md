@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**382 个项目 · 83 个二级分类 · 每日同步**
+**390 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -133,6 +133,7 @@
 | --- | --- | ---: | --- | --- |
 | [Open WebUI](https://openfree.tools/zh/open-webui) | 用户友好的 AI 界面，支持 Ollama 和 OpenAI API | 153.2K | Other | [官网](https://openwebui.com/) · [GitHub](https://github.com/open-webui/open-webui) |
 | [Cherry Studio](https://openfree.tools/zh/cherry-studio) | 一体化 AI 工作站 | 52.2K | AGPL-3.0 | [官网](https://cherryai.com/) · [GitHub](https://github.com/CherryHQ/cherry-studio) |
+| [Buzz](https://openfree.tools/zh/buzz) | 人类与 AI 代理可共同使用的自托管工作区 | 37.2K | Apache-2.0 | [官网](https://github.com/block/buzz) · [GitHub](https://github.com/block/buzz) |
 | [Strata](https://openfree.tools/zh/strata) | 在自己的 PC 上运行 Qwen3.8-Flash-Next | 31.2K | MIT | [官网](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [Jev Chat Assistant](https://openfree.tools/zh/jev-chat-assistant) | 先读聊天，判断意图，起草回复，发送由你决定 | 8.1K | MIT | [官网](https://chatjevs.com/) · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) |
 | [MausBot](https://openfree.tools/zh/openmausbot) | 在你自己的电脑上运行你的 AI 机器人团队 | 7.1K | Apache-2.0 | [官网](https://github.com/milind-soni/OpenMausBot) · [GitHub](https://github.com/milind-soni/OpenMausBot) |
@@ -171,6 +172,7 @@
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/zh/meetily) | 隐私优先的AI会议助手 | 31.1K | MIT | [官网](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
 | [知了 Cicada](https://openfree.tools/zh/cicada) | 任何会议和直播的实时字幕、同声传译与 AI 会议纪要 | 1.6K | Apache-2.0 | [官网](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
+| [Yogurt](https://openfree.tools/zh/yogurt) | 私有 AI 会议笔记，免费开源 | 1.1K | MIT | [官网](https://yogurt.so/) · [GitHub](https://github.com/FrigadeHQ/yogurt) |
 
 <a id="category-transcription-dictation"></a>
 
@@ -255,6 +257,7 @@
 | --- | --- | ---: | --- | --- |
 | [HyperFrames](https://openfree.tools/zh/hyperframes) | 为智能体打造的视频编辑器：编写 HTML、渲染视频 | 59.2K | Apache-2.0 | [官网](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [brag](https://openfree.tools/zh/brag) | 一条命令把项目变成 20 秒发布短片 | 18.5K | MIT | [官网](https://latent-spaces.github.io/brag/) · [GitHub](https://github.com/latent-spaces/brag) |
+| [OpenFilm](https://openfree.tools/zh/openfilm) | 开源的 AI 视频代理 | 6.1K | MIT | [官网](https://openfilm.dev/) · [GitHub](https://github.com/openfilm/openfilm) |
 | [短视频工厂](https://openfree.tools/zh/ai-short-video-factory) | 多创作，少剪辑。 | 5.8K | AGPL-3.0 | [官网](https://short-video-factory.yils.blog/) · [GitHub](https://github.com/YILS-LIN/short-video-factory) |
 | [LemoOpuscar](https://openfree.tools/zh/lemo-opuscar) | 可复用风格提示词与纯代码短片 | 5.0K | MIT | [官网](https://github.com/lemomo-ai/lemo-opuscar) · [GitHub](https://github.com/lemomo-ai/lemo-opuscar) |
 
@@ -323,6 +326,7 @@
 | [Kilo Code](https://openfree.tools/zh/kilo-code) | 为每个开发者工作流打造的开放智能体 | 27.6K | MIT | [官网](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
 | [Paradev](https://openfree.tools/zh/paradev) | 用于并行编码智能体编排的 IDE | 15.7K | Other | [官网](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
+| [Plannotator](https://openfree.tools/zh/plannotator) | 为智能体提供计划与代码评审 | 10.3K | Apache-2.0 | [官网](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
 | [Kimi Code](https://openfree.tools/zh/kimi-code) | 面向开发者的智能编程服务，覆盖桌面端、CLI 与 VS Code | 8.0K | MIT | [官网](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
 | [CC Workflow Studio](https://openfree.tools/zh/cc-workflow-studio) | 面向 AI 编程代理的可视化工作流编辑器 | 5.4K | Other | [官网](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/zh/portal-ai-plugins) | 为 AI 编码代理提供 Portal 工作流 | 2.9K | Apache-2.0 | [官网](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
@@ -359,6 +363,7 @@
 | [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
 | [PI-Desktop](https://openfree.tools/zh/pi-desktop) | 面向 AI 智能体的模块化桌面工作区 | 7.9K | LGPL-3.0 | [官网](https://pi-docs.aiuo.net/) · [GitHub](https://github.com/vastsa/PI-Desktop) |
 | [Coucou](https://openfree.tools/zh/coucou) | 住在刘海或屏幕顶部的迷你伙伴 | 6.8K | MIT | [官网](https://louis-cfm.github.io/coucou/) · [GitHub](https://github.com/Louis-CFM/coucou) |
+| [TokenEconomizer](https://openfree.tools/zh/tokeneconomizer) | 面向编码代理的经验驱动黑盒成本控制 | 5.9K | Apache-2.0 | [官网](https://github.com/microsoft/TokenEconomizer) · [GitHub](https://github.com/microsoft/TokenEconomizer) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
 | [OpenBot](https://openfree.tools/zh/openbot-2) | 在你自己的电脑上运行常驻 AI 队友 | 3.6K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
@@ -805,6 +810,7 @@
 | [Folo](https://openfree.tools/zh/folo) | AI RSS 阅读器，汇集文章、新闻与播客 | 39.2K | AGPL-3.0 | [官网](https://app.folo.is/) · [GitHub](https://github.com/RSSNext/Folo) |
 | [Tolaria](https://openfree.tools/zh/tolaria) | AI 时代的第二大脑。永久免费。 | 19.9K | AGPL-3.0 | [官网](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [Horizon](https://openfree.tools/zh/horizon) | 你的 AI 新闻雷达 | 12.3K | MIT | [官网](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
+| [LearnHarness](https://openfree.tools/zh/learnharness) | 用于学习困难内容的 AI 智能体框架 | 9.0K | AGPL-3.0 | [官网](https://github.com/amosblomqvist/learnharness) · [GitHub](https://github.com/amosblomqvist/learnharness) |
 | [OpenKnowledge](https://openfree.tools/zh/openknowledge) | 漂亮的 AI 原生 Markdown 编辑器与知识库 | 4.3K | GPL-3.0 | [官网](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/zh/edgeever) | AI 原生、可自托管的笔记与知识库 | 2.6K | AGPL-3.0 | [官网](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/zh/morrow) | 隐私优先、本地优先的笔记与数据库工作区 | 0.2K | Apache-2.0 | [官网](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
@@ -962,6 +968,7 @@
 | [FlashMLA](https://openfree.tools/zh/flashmla) | 面向 DeepSeek 推理的优化注意力算子 | 13.1K | MIT | [官网](https://github.com/deepseek-ai/FlashMLA) · [GitHub](https://github.com/deepseek-ai/FlashMLA) |
 | [CUDA Rust](https://openfree.tools/zh/cuda-rust) | NVIDIA 面向 Rust 的 CUDA 平台 | 3.9K | Apache-2.0 | [官网](https://nvidia.github.io/cuda-rust/) · [GitHub](https://github.com/NVIDIA/cuda-rust) |
 | [NVIDIA Kubernetes Engine](https://openfree.tools/zh/nvke) | 面向 NVIDIA GPU 基础设施的托管 Kubernetes | 0.6K | Apache-2.0 | [官网](https://github.com/dsx-ai-factory/nvke) · [GitHub](https://github.com/dsx-ai-factory/nvke) |
+| [OpenOrange](https://openfree.tools/zh/open-orange) | 随处运行 Cloudflare Workers。 | 0.3K | Apache-2.0 | [官网](https://github.com/rivet-dev/open-orange) · [GitHub](https://github.com/rivet-dev/open-orange) |
 
 <a id="category-business-industry"></a>
 
@@ -974,6 +981,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [World Monitor](https://openfree.tools/zh/world-monitor) | 实时全球情报，一图尽览 | 90.0K | AGPL-3.0 | [官网](https://worldmonitor.app/) · [GitHub](https://github.com/koala73/worldmonitor) |
+| [God's Eye View](https://openfree.tools/zh/god-s-eye-view) | 真实数据的间谍卫星模拟器 | 64.6K | Other | [官网](https://godseyeview.ai/) · [GitHub](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [Auto Ontology](https://openfree.tools/zh/auto-ontology) | 面向可信智能体分析的语义图推理层 | 3.0K | Apache-2.0 | [官网](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
