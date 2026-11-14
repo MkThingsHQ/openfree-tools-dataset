@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**390 projects · 83 subcategories · Synced daily**
+**399 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -137,6 +137,7 @@ No sponsors yet.
 | [Buzz](https://openfree.tools/buzz) | A self-hostable workspace for humans and AI agents | 37.2K | Apache-2.0 | [Website](https://github.com/block/buzz) · [GitHub](https://github.com/block/buzz) |
 | [Strata](https://openfree.tools/strata) | Run Qwen3.8-Flash-Next on your own PC | 31.2K | MIT | [Website](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [Jev Chat Assistant](https://openfree.tools/jev-chat-assistant) | Reads chats, judges intent, drafts replies you send | 8.1K | MIT | [Website](https://chatjevs.com/) · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) |
+| [TurboFieldfare](https://openfree.tools/turbofieldfare) | Gemma 4 26B-A4B inference in about 2 GB of RAM | 7.4K | Apache-2.0 | [Website](https://github.com/drumih/turbo-fieldfare) · [GitHub](https://github.com/drumih/turbo-fieldfare) |
 | [MausBot](https://openfree.tools/openmausbot) | Your own team of AI bots, on your machine | 7.1K | Apache-2.0 | [Website](https://github.com/milind-soni/OpenMausBot) · [GitHub](https://github.com/milind-soni/OpenMausBot) |
 | [OpenBot](https://openfree.tools/openbot) | The AI assistant your company can actually own. | 5.6K | MIT | [Website](https://www.copilotkit.ai/openbot) · [GitHub](https://github.com/CopilotKit/OpenBot) |
 | [Macro](https://openfree.tools/macro) | The unified workspace for your company | 5.2K | AGPL-3.0 | [Website](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
@@ -336,6 +337,7 @@ No published projects yet.
 | [ATLAS](https://openfree.tools/atlas) | Local coding agent for compact open models | 2.1K | AGPL-3.0 | [Website](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/thinkrail) | Agentic IDE with isolated worktrees and living specs | 0.9K | Apache-2.0 | [Website](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/seecode) | Animated, explorable diagrams from a short JSON spec. | 0.6K | MIT | [Website](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
+| [Pi GPUI](https://openfree.tools/pi-gpui) | Native desktop GUI for the pi coding agent | 0.1K | MIT | [Website](https://pi-gpui.dev/) · [GitHub](https://github.com/bytesbay/pi-gpui) |
 
 <a id="category-coding-agents"></a>
 
@@ -357,6 +359,7 @@ No published projects yet.
 | [Grok Build](https://openfree.tools/grok-build) | SpaceXAI's coding agent harness and TUI | 27.1K | Apache-2.0 | [Website](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
+| [Elephant-Goldfish Model](https://openfree.tools/elephant-goldfish-model) | Design with context, review with fresh eyes | 18.6K | Apache-2.0 | [Website](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
 | [Claude Code Action](https://openfree.tools/claude-code-action) | Claude Code for GitHub pull requests and issues | 9.7K | MIT | [Website](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
 | [SuperPlane](https://openfree.tools/superplane) | Open source factory for one-shot engineering | 8.3K | Other | [Website](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
@@ -375,6 +378,7 @@ No published projects yet.
 | [Crit](https://openfree.tools/crit) | Line-precise review for AI coding agents | 1.3K | MIT | [Website](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/agent-relay) | Infrastructure for coding agents | 1.0K | Apache-2.0 | [Website](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 | [agent-purge](https://openfree.tools/agent-purge) | One persona, many coding agents | 0.8K | MIT | [Website](https://github.com/ZiChuanLan/agent-purge) · [GitHub](https://github.com/ZiChuanLan/agent-purge) |
+| [LoopForge](https://openfree.tools/loopforge) | Self-hosted workflows for coding-agent delivery | 0.7K | Other | [Website](https://github.com/Tencent/LoopForge) · [GitHub](https://github.com/Tencent/LoopForge) |
 | [Octomind](https://openfree.tools/octomind) | Portable open-source agents that finish the job. | 0.6K | Apache-2.0 | [Website](https://octomind.run/) · [GitHub](https://github.com/Muvon/octomind) |
 | [MCode Stack](https://openfree.tools/mcode-stack) | Open-source workflows and skills from the MiniMax Code team | 0.2K | MIT | [Website](https://github.com/MiniMax-AI/mcode-stack) · [GitHub](https://github.com/MiniMax-AI/mcode-stack) |
 
@@ -531,6 +535,7 @@ No published projects yet.
 | [Lightpanda](https://openfree.tools/lightpanda) | Headless browser built for AI agents and automation. | 35.6K | AGPL-3.0 | [Website](https://lightpanda.io/) · [GitHub](https://github.com/lightpanda-io/browser) |
 | [ego lite](https://openfree.tools/ego-lite) | The fastest browser for AI agents to run browser automation | 16.5K | MIT | [Website](https://lite.ego.app/) · [GitHub](https://github.com/citrolabs/ego-lite) |
 | [ai-goofish-monitor](https://openfree.tools/ai-goofish-monitor) | Playwright and AI powered Xianyu monitoring and analysis | 16.2K | MIT | [Website](https://github.com/Usagi-org/ai-goofish-monitor) · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) |
+| [Kitesurf](https://openfree.tools/kitesurf) | Stateless browser engine for agents on Cloudflare Workers | 0.8K | Apache-2.0 | [Website](https://kitesurf.dev/) · [GitHub](https://github.com/cloudflare/kitesurf) |
 
 <a id="category-computer-use-gui-agents"></a>
 
@@ -722,6 +727,7 @@ No published projects yet.
 | [Laya](https://openfree.tools/laya) | Typed decisions with calibrated probabilities in one pass | 34.0K | Apache-2.0 | [Website](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/qwen3) | Large language model series by the Qwen team, Alibaba Cloud | 27.7K | — | [Website](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/qwen3-vl) | Multimodal large language model series by Qwen team | 20.0K | Apache-2.0 | [Website](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [Edge0](https://openfree.tools/edge0) | Device-native foundation models for on-device AI | 11.0K | Apache-2.0 | [Website](https://edge0.ai/) · [GitHub](https://github.com/Edge0-AI/Edge0) |
 | [kimi-k3-in-c](https://openfree.tools/kimi-k3-in-c) | 2.78T-parameter Kimi K3 inference in portable C99 | 10.0K | Apache-2.0 | [Website](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
 | [Kev](https://openfree.tools/kev) | Small Jev-like decision models to train and run yourself. | 9.6K | Apache-2.0 | [Website](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
 | [Gemini-API](https://openfree.tools/gemini-api) | Async Python wrapper for Google Gemini web app | 3.6K | AGPL-3.0 | [Website](https://pypi.org/project/gemini-webapi/) · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) |
@@ -822,6 +828,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [AG-UI](https://openfree.tools/ag-ui) | Open event-based protocol for agent-user interaction | 17.2K | MIT | [Website](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/ollama-javascript-library) | Official JavaScript client for Ollama | 4.4K | MIT | [Website](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
@@ -883,6 +890,7 @@ No published projects yet.
 | [PPT Master](https://openfree.tools/ppt-master) | AI generates natively editable PPTX from any document | 56.6K | MIT | [Website](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
 | [PDFMathTranslate](https://openfree.tools/pdfmathtranslate) | Scientific PDF translation with preserved layouts | 38.1K | AGPL-3.0 | [Website](https://pdf2zh.com/) · [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate) |
 | [anydoc](https://openfree.tools/anydoc) | Convert documents to GitHub-Flavored Markdown in Rust. | 22.1K | MIT | [Website](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
+| [PDF Craft](https://openfree.tools/pdf-craft) | Turn scanned books into ebooks you can read comfortably | 6.6K | MIT | [Website](https://github.com/oomol-lab/pdf-craft) · [GitHub](https://github.com/oomol-lab/pdf-craft) |
 | [@office-kit/xlsx](https://openfree.tools/office-kit-xlsx) | Read, edit, and write Excel files in TypeScript | 0.1K | MIT | [Website](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/office-kit-pptx) | Read, edit, and write .pptx files in TypeScript | 0.0K | MIT | [Website](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
 | [@office-kit/docx](https://openfree.tools/office-kit-docx) | Read, edit, and write Word documents in TypeScript | 0.0K | MIT | [Website](https://office-kit.github.io/docx/) · [GitHub](https://github.com/office-kit/docx) |
@@ -1065,6 +1073,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [VidBee](https://openfree.tools/vidbee) | Download videos and create searchable transcripts locally. | 10.8K | MIT | [Website](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
+| [Lapian Notes](https://openfree.tools/lapian-notes) | Turn a film into an editable breakdown notebook | 0.8K | MIT | [Website](https://discord.gg/uT6xryBX9w) · [GitHub](https://github.com/bkingfilm/lapian-notes) |
 
 <a id="category-robotics-embodied-intelligence"></a>
 

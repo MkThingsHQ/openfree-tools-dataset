@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**390 个项目 · 83 个二级分类 · 每日同步**
+**399 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -136,6 +136,7 @@
 | [Buzz](https://openfree.tools/zh/buzz) | 人类与 AI 代理可共同使用的自托管工作区 | 37.2K | Apache-2.0 | [官网](https://github.com/block/buzz) · [GitHub](https://github.com/block/buzz) |
 | [Strata](https://openfree.tools/zh/strata) | 在自己的 PC 上运行 Qwen3.8-Flash-Next | 31.2K | MIT | [官网](https://github.com/Niko1221/Strata) · [GitHub](https://github.com/Niko1221/Strata) |
 | [Jev Chat Assistant](https://openfree.tools/zh/jev-chat-assistant) | 先读聊天，判断意图，起草回复，发送由你决定 | 8.1K | MIT | [官网](https://chatjevs.com/) · [GitHub](https://github.com/jev-chat/jev-chat-jarvis) |
+| [TurboFieldfare](https://openfree.tools/zh/turbofieldfare) | 在约 2 GB 内存中运行 Gemma 4 26B-A4B | 7.4K | Apache-2.0 | [官网](https://github.com/drumih/turbo-fieldfare) · [GitHub](https://github.com/drumih/turbo-fieldfare) |
 | [MausBot](https://openfree.tools/zh/openmausbot) | 在你自己的电脑上运行你的 AI 机器人团队 | 7.1K | Apache-2.0 | [官网](https://github.com/milind-soni/OpenMausBot) · [GitHub](https://github.com/milind-soni/OpenMausBot) |
 | [OpenBot](https://openfree.tools/zh/openbot) | 企业真正能够拥有的 AI 助手。 | 5.6K | MIT | [官网](https://www.copilotkit.ai/openbot) · [GitHub](https://github.com/CopilotKit/OpenBot) |
 | [Macro](https://openfree.tools/zh/macro) | 面向公司的统一工作空间 | 5.2K | AGPL-3.0 | [官网](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
@@ -335,6 +336,7 @@
 | [ATLAS](https://openfree.tools/zh/atlas) | 面向紧凑开源模型的本地编码代理 | 2.1K | AGPL-3.0 | [官网](https://inferstep.com/) · [GitHub](https://github.com/inferstep/ATLAS) |
 | [ThinkRail](https://openfree.tools/zh/thinkrail) | 带隔离工作树与活规格的智能体 IDE | 0.9K | Apache-2.0 | [官网](https://thinkrail.ai/) · [GitHub](https://github.com/JetBrains/thinkrail) |
 | [SeeCode](https://openfree.tools/zh/seecode) | 由简短 JSON 规格生成带动画、可探索的图表。 | 0.6K | MIT | [官网](https://github.com/Aryanutkarsh/SeeCode) · [GitHub](https://github.com/Aryanutkarsh/SeeCode) |
+| [Pi GPUI](https://openfree.tools/zh/pi-gpui) | pi 编程 agent 的原生桌面图形界面 | 0.1K | MIT | [官网](https://pi-gpui.dev/) · [GitHub](https://github.com/bytesbay/pi-gpui) |
 
 <a id="category-coding-agents"></a>
 
@@ -356,6 +358,7 @@
 | [Grok Build](https://openfree.tools/zh/grok-build) | SpaceXAI 的编码代理框架与 TUI | 27.1K | Apache-2.0 | [官网](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/zh/happy) | Claude Code 与 Codex 的远程控制 | 23.9K | MIT | [官网](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
 | [T3 Code](https://openfree.tools/zh/t3-code) | 面向编码代理的开源控制平面 | 23.6K | MIT | [官网](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
+| [Elephant-Goldfish Model](https://openfree.tools/zh/elephant-goldfish-model) | 用上下文设计，用全新视角评审 | 18.6K | Apache-2.0 | [官网](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/zh/paseo) | 编码代理的控制平面 | 18.6K | Other | [官网](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
 | [Claude Code Action](https://openfree.tools/zh/claude-code-action) | Claude Code 的 GitHub PR 与 issue 通用 Action | 9.7K | MIT | [官网](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
 | [SuperPlane](https://openfree.tools/zh/superplane) | 面向一次性工程的开源软件工厂 | 8.3K | Other | [官网](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
@@ -374,6 +377,7 @@
 | [Crit](https://openfree.tools/zh/crit) | 本地优先的 AI 编程代理逐行审阅界面 | 1.3K | MIT | [官网](https://crit.md/) · [GitHub](https://github.com/tomasz-tomczyk/crit) |
 | [Agent Relay](https://openfree.tools/zh/agent-relay) | 面向编码代理的协作基础设施 | 1.0K | Apache-2.0 | [官网](https://agentrelay.com/) · [GitHub](https://github.com/AgentWorkforce/relay) |
 | [agent-purge](https://openfree.tools/zh/agent-purge) | 一份人设，驱动多个 coding agent | 0.8K | MIT | [官网](https://github.com/ZiChuanLan/agent-purge) · [GitHub](https://github.com/ZiChuanLan/agent-purge) |
+| [LoopForge](https://openfree.tools/zh/loopforge) | 自托管编码智能体交付工作流 | 0.7K | Other | [官网](https://github.com/Tencent/LoopForge) · [GitHub](https://github.com/Tencent/LoopForge) |
 | [Octomind](https://openfree.tools/zh/octomind) | 可移植的开源智能体，真正完成任务。 | 0.6K | Apache-2.0 | [官网](https://octomind.run/) · [GitHub](https://github.com/Muvon/octomind) |
 | [MCode Stack](https://openfree.tools/zh/mcode-stack) | MiniMax Code 团队开源的日常工作流与技能 | 0.2K | MIT | [官网](https://github.com/MiniMax-AI/mcode-stack) · [GitHub](https://github.com/MiniMax-AI/mcode-stack) |
 
@@ -530,6 +534,7 @@
 | [Lightpanda](https://openfree.tools/zh/lightpanda) | 为AI代理与自动化而生的无头浏览器 | 35.6K | AGPL-3.0 | [官网](https://lightpanda.io/) · [GitHub](https://github.com/lightpanda-io/browser) |
 | [ego lite](https://openfree.tools/zh/ego-lite) | AI 代理执行浏览器自动化的最快浏览器 | 16.5K | MIT | [官网](https://lite.ego.app/) · [GitHub](https://github.com/citrolabs/ego-lite) |
 | [ai-goofish-monitor](https://openfree.tools/zh/ai-goofish-monitor) | 基于 Playwright 与 AI 的闲鱼多任务监控与分析系统 | 16.2K | MIT | [官网](https://github.com/Usagi-org/ai-goofish-monitor) · [GitHub](https://github.com/Usagi-org/ai-goofish-monitor) |
+| [Kitesurf](https://openfree.tools/zh/kitesurf) | 面向 Agent 的无状态 Cloudflare Workers 浏览器引擎 | 0.8K | Apache-2.0 | [官网](https://kitesurf.dev/) · [GitHub](https://github.com/cloudflare/kitesurf) |
 
 <a id="category-computer-use-gui-agents"></a>
 
@@ -721,6 +726,7 @@
 | [Laya](https://openfree.tools/zh/laya) | 单次前向完成类型化决策并给出校准概率 | 34.0K | Apache-2.0 | [官网](https://huggingface.co/convaiinnovations/laya) · [GitHub](https://github.com/NandhaKishorM/laya) |
 | [Qwen3](https://openfree.tools/zh/qwen3) | 阿里云 Qwen 团队开发的大型语言模型系列 | 27.7K | — | [官网](https://github.com/QwenLM/Qwen3) · [GitHub](https://github.com/QwenLM/Qwen3) |
 | [Qwen3-VL](https://openfree.tools/zh/qwen3-vl) | Qwen 团队开发的多模态大语言模型系列 | 20.0K | Apache-2.0 | [官网](https://github.com/QwenLM/Qwen3-VL) · [GitHub](https://github.com/QwenLM/Qwen3-VL) |
+| [Edge0](https://openfree.tools/zh/edge0) | 面向端侧 AI 的设备原生基础模型 | 11.0K | Apache-2.0 | [官网](https://edge0.ai/) · [GitHub](https://github.com/Edge0-AI/Edge0) |
 | [kimi-k3-in-c](https://openfree.tools/zh/kimi-k3-in-c) | 用 C99 在单 CPU、8 GB 内存上运行 2.78 万亿参数 Kimi K3 | 10.0K | Apache-2.0 | [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) |
 | [Kev](https://openfree.tools/zh/kev) | 可自行训练和运行的小型 Jev 式决策模型。 | 9.6K | Apache-2.0 | [官网](https://github.com/jaredpalmer/kev) · [GitHub](https://github.com/jaredpalmer/kev) |
 | [Gemini-API](https://openfree.tools/zh/gemini-api) | 面向 Google Gemini 网页版的异步 Python 封装 | 3.6K | AGPL-3.0 | [官网](https://pypi.org/project/gemini-webapi/) · [GitHub](https://github.com/HanaokaYuzu/Gemini-API) |
@@ -821,6 +827,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [AG-UI](https://openfree.tools/zh/ag-ui) | 开放、轻量、事件驱动的智能体与用户交互协议 | 17.2K | MIT | [官网](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/zh/ollama-javascript-library) | Ollama 的官方 JavaScript 客户端 | 4.4K | MIT | [官网](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
@@ -882,6 +889,7 @@
 | [PPT Master](https://openfree.tools/zh/ppt-master) | 从任意文档生成原生可编辑的 PPTX | 56.6K | MIT | [官网](https://hugohe3.github.io/ppt-master-examples/) · [GitHub](https://github.com/hugohe3/ppt-master) |
 | [PDFMathTranslate](https://openfree.tools/zh/pdfmathtranslate) | 保留排版的科学 PDF 翻译工具 | 38.1K | AGPL-3.0 | [官网](https://pdf2zh.com/) · [GitHub](https://github.com/PDFMathTranslate/PDFMathTranslate) |
 | [anydoc](https://openfree.tools/zh/anydoc) | 将各类文档转换为 GitHub 风格 Markdown 的 Rust 库 | 22.1K | MIT | [官网](https://firecrawl.github.io/anydoc/) · [GitHub](https://github.com/firecrawl/anydoc) |
+| [PDF Craft](https://openfree.tools/zh/pdf-craft) | 扫描书转可读电子书，PDF 转 EPUB/Markdown 并支持翻译 | 6.6K | MIT | [官网](https://github.com/oomol-lab/pdf-craft) · [GitHub](https://github.com/oomol-lab/pdf-craft) |
 | [@office-kit/xlsx](https://openfree.tools/zh/office-kit-xlsx) | 在 TypeScript 中读取、编辑和写入 Excel 文件 | 0.1K | MIT | [官网](https://office-kit.github.io/xlsx/) · [GitHub](https://github.com/office-kit/xlsx) |
 | [@office-kit/pptx](https://openfree.tools/zh/office-kit-pptx) | 用 TypeScript 读取、编辑和写入 .pptx 文件 | 0.0K | MIT | [官网](https://office-kit.github.io/pptx/) · [GitHub](https://github.com/office-kit/pptx) |
 | [@office-kit/docx](https://openfree.tools/zh/office-kit-docx) | 在 TypeScript 中读取、编辑和写入 Word 文档。 | 0.0K | MIT | [官网](https://office-kit.github.io/docx/) · [GitHub](https://github.com/office-kit/docx) |
@@ -1064,6 +1072,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [VidBee](https://openfree.tools/zh/vidbee) | 下载视频并在本机生成可搜索的转录文本。 | 10.8K | MIT | [官网](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
+| [拉片笔记](https://openfree.tools/zh/lapian-notes) | 把电影变成可编辑的拉片笔记 | 0.8K | MIT | [官网](https://discord.gg/uT6xryBX9w) · [GitHub](https://github.com/bkingfilm/lapian-notes) |
 
 <a id="category-robotics-embodied-intelligence"></a>
 
