@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**399 个项目 · 83 个二级分类 · 每日同步**
+**406 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -142,6 +142,7 @@
 | [Macro](https://openfree.tools/zh/macro) | 面向公司的统一工作空间 | 5.2K | AGPL-3.0 | [官网](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
 | [Locally Uncensored](https://openfree.tools/zh/locally-uncensored) | 免费开源的桌面本地 AI 工作室 | 3.0K | AGPL-3.0 | [官网](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/zh/switch-ai) | 在共享聊天室中管理智能体员工队伍 | 1.8K | Other | [官网](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
+| [agentes.chat](https://openfree.tools/zh/agentes-chat) | 把 AI Agent 放进团队聊天 | 1.4K | AGPL-3.0 | [官网](https://agentes.chat/) · [GitHub](https://github.com/agentes-chat/agentes-chat) |
 | [AnyModelBot](https://openfree.tools/zh/anymodelbot) | 住在你电脑里的开源 AI 搭子，一个 Key 畅用主流模型 | 1.0K | MIT | [官网](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 | [Ember](https://openfree.tools/zh/ember) | 开源团队聊天，部署在自己的 Cloudflare 账户 | 0.6K | MIT | [官网](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
 
@@ -239,6 +240,7 @@
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [无限画布](https://openfree.tools/zh/infinite-canvas) | 在画布上连续推演 AI 图片与视频创作 | 9.2K | MIT | [官网](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/zh/mochi-diffusion) | 在 Mac 上原生运行 Stable Diffusion 与 FLUX.2 Klein | 8.0K | GPL-3.0 | [官网](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
+| [Top-Conf Figure Gallery](https://openfree.tools/zh/top-conf-figure-gallery) | 精选 Figure 1 画廊与 FigureForge 制图 | 1.6K | Other | [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) |
 | [anidoodle](https://openfree.tools/zh/anidoodle) | 以代码创作手绘插画与动画。 | 1.5K | Apache-2.0 | [官网](https://alexgreenshpun.com/) · [GitHub](https://github.com/alexgreensh/anidoodle) |
 
 <a id="category-image-editing-enhancement"></a>
@@ -513,6 +515,7 @@
 | [Nasiko](https://openfree.tools/zh/nasiko) | AI 代理的开放运行时 | 11.9K | Other | [官网](https://www.nasiko.com/) · [GitHub](https://github.com/Nasiko-Labs/nasiko) |
 | [Orkas](https://openfree.tools/zh/orkas) | 开源、本地优先的桌面 AI 团队 | 5.9K | MIT | [官网](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
+| [SoduWork](https://openfree.tools/zh/soduwork) | 面向团队及其智能体的 AI 原生引擎，多执行框架、多智能体、可自托管 | 0.8K | MIT | [官网](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -616,6 +619,7 @@
 | [earshot](https://openfree.tools/zh/earshot) | 为编程智能体提供听觉：听见、审查并制作声音 | 1.9K | MIT | [官网](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [Open Ontologies](https://openfree.tools/zh/open-ontologies) | 规划本体变更，并为每项后果提供证明。 | 1.8K | MIT | [官网](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pinky](https://openfree.tools/zh/pinky) | 让 AI 智能体使用你的手机，你全程掌控 | 1.6K | Apache-2.0 | [官网](https://github.com/DIYgod/pinky) · [GitHub](https://github.com/DIYgod/pinky) |
+| [矩媒 MatrixMedia](https://openfree.tools/zh/matrixmedia) | 多平台视频矩阵发布与批量分发工具 | 1.3K | GPL-2.0 | [官网](https://hanliang97.github.io/MatrixMedia/) · [GitHub](https://github.com/hanliang97/MatrixMedia) |
 | [Pomerado](https://openfree.tools/zh/pomerado) | 几分钟把网站变成 API 或 MCP | 1.1K | MIT | [官网](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [RustXNG](https://openfree.tools/zh/rustxng) | 面向 AI 代理的自托管元搜索与页面文本引擎 | 0.9K | AGPL-3.0 | [官网](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |
@@ -794,6 +798,7 @@
 | [FastMCP](https://openfree.tools/zh/fastmcp) | 构建 MCP 服务器、客户端与交互式应用的标准框架 | 28.3K | Apache-2.0 | [官网](https://gofastmcp.com/) · [GitHub](https://github.com/PrefectHQ/fastmcp) |
 | [GDevelop](https://openfree.tools/zh/gdevelop) | 开源无代码游戏引擎，支持2D、3D和多人游戏 | 27.6K | Other | [官网](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/zh/emdash) | 面向人类与智能体的开源 Astro CMS | 13.8K | MIT | [官网](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
+| [Exact](https://openfree.tools/zh/exact) | 一次编写，跨平台原生运行，可由 AI 智能体测试 | 4.2K | MIT | [官网](https://github.com/expo/exact) · [GitHub](https://github.com/expo/exact) |
 | [Pixeltable](https://openfree.tools/zh/pixeltable) | 多模态 AI 后端集中在一个 Python 文件 | 1.7K | Apache-2.0 | [官网](https://docs.pixeltable.com/) · [GitHub](https://github.com/pixeltable/pixeltable) |
 | [Void](https://openfree.tools/zh/void) | 用 Vite 构建，用 Void 部署。 | 0.3K | MIT | [官网](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
 
@@ -827,6 +832,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Univer](https://openfree.tools/zh/univer) | 面向应用与 AI 代理的开源 Office SDK | 25.0K | Apache-2.0 | [官网](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/zh/ag-ui) | 开放、轻量、事件驱动的智能体与用户交互协议 | 17.2K | MIT | [官网](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
@@ -1021,6 +1027,7 @@
 | --- | --- | ---: | --- | --- |
 | [DSA](https://openfree.tools/zh/daily-stock-analysis) | LLM 驱动的多市场股票分析与决策报告系统 | 68.5K | MIT | [官网](https://dsa.zhulinsen.tech/) · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) |
 | [OpenStock](https://openfree.tools/zh/openstock) | 行情数据，无需付费墙。 | 20.6K | AGPL-3.0 | [官网](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
+| [Sure](https://openfree.tools/zh/sure) | 面向所有人、由社区共同打造的个人财务应用 | 15.5K | AGPL-3.0 | [官网](https://sure.am/) · [GitHub](https://github.com/we-promise/sure) |
 | [NOFX](https://openfree.tools/zh/nofx) | AI 提议交易，你批准或启用 Autopilot | 13.2K | AGPL-3.0 | [官网](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 
 <a id="category-legal-compliance"></a>

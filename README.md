@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**399 projects · 83 subcategories · Synced daily**
+**406 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -143,6 +143,7 @@ No sponsors yet.
 | [Macro](https://openfree.tools/macro) | The unified workspace for your company | 5.2K | AGPL-3.0 | [Website](https://macro.com/) · [GitHub](https://github.com/macro-inc/macro) |
 | [Locally Uncensored](https://openfree.tools/locally-uncensored) | Free, open-source local AI studio for desktop | 3.0K | AGPL-3.0 | [Website](https://locallyuncensored.com/) · [GitHub](https://github.com/PurpleDoubleD/locally-uncensored) |
 | [Switch AI](https://openfree.tools/switch-ai) | Manage your agentic workforce in shared chat rooms | 1.8K | Other | [Website](https://www.switchagents.ai/) · [GitHub](https://github.com/sandbox-quantum/switch) |
+| [agentes.chat](https://openfree.tools/agentes-chat) | AI agents in your team's chat | 1.4K | AGPL-3.0 | [Website](https://agentes.chat/) · [GitHub](https://github.com/agentes-chat/agentes-chat) |
 | [AnyModelBot](https://openfree.tools/anymodelbot) | Open-source, local-first AI assistant on your computer | 1.0K | MIT | [Website](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 | [Ember](https://openfree.tools/ember) | Open source team chat on your own Cloudflare account | 0.6K | MIT | [Website](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
 
@@ -240,6 +241,7 @@ No published projects yet.
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Infinite Canvas](https://openfree.tools/infinite-canvas) | One canvas for AI images, video, and visual iteration | 9.2K | MIT | [Website](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/mochi-diffusion) | Run Stable Diffusion and FLUX.2 Klein natively on Mac | 8.0K | GPL-3.0 | [Website](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
+| [Top-Conf Figure Gallery](https://openfree.tools/top-conf-figure-gallery) | Curated Figure 1 gallery with FigureForge drafting | 1.6K | Other | [Website](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) |
 | [anidoodle](https://openfree.tools/anidoodle) | Hand-drawn art and animation, written as code. | 1.5K | Apache-2.0 | [Website](https://alexgreenshpun.com/) · [GitHub](https://github.com/alexgreensh/anidoodle) |
 
 <a id="category-image-editing-enhancement"></a>
@@ -514,6 +516,7 @@ No published projects yet.
 | [Nasiko](https://openfree.tools/nasiko) | The OpenRuntime for AI agents | 11.9K | Other | [Website](https://www.nasiko.com/) · [GitHub](https://github.com/Nasiko-Labs/nasiko) |
 | [Orkas](https://openfree.tools/orkas) | Open-source local-first AI team for your desktop | 5.9K | MIT | [Website](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
+| [SoduWork](https://openfree.tools/soduwork) | The AI-native engine for teams and their agents | 0.8K | MIT | [Website](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -617,6 +620,7 @@ No published projects yet.
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
 | [Open Ontologies](https://openfree.tools/open-ontologies) | Plan ontology changes and prove every consequence. | 1.8K | MIT | [Website](https://tesseractsemantics.com/) · [GitHub](https://github.com/fabio-rovai/open-ontologies) |
 | [Pinky](https://openfree.tools/pinky) | Let AI agents use your phone, with you in the loop. | 1.6K | Apache-2.0 | [Website](https://github.com/DIYgod/pinky) · [GitHub](https://github.com/DIYgod/pinky) |
+| [矩媒 MatrixMedia](https://openfree.tools/matrixmedia) | Multi-platform video publishing for account matrices | 1.3K | GPL-2.0 | [Website](https://hanliang97.github.io/MatrixMedia/) · [GitHub](https://github.com/hanliang97/MatrixMedia) |
 | [Pomerado](https://openfree.tools/pomerado) | Turn any website into an API or MCP in minutes | 1.1K | MIT | [Website](https://github.com/Pomerado/pomerado) · [GitHub](https://github.com/Pomerado/pomerado) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 | [RustXNG](https://openfree.tools/rustxng) | Self-hosted metasearch and grounding engine for AI agents | 0.9K | AGPL-3.0 | [Website](https://github.com/sahenjp/RustXNG) · [GitHub](https://github.com/sahenjp/RustXNG) |
@@ -795,6 +799,7 @@ No published projects yet.
 | [FastMCP](https://openfree.tools/fastmcp) | The standard framework for building MCP applications | 28.3K | Apache-2.0 | [Website](https://gofastmcp.com/) · [GitHub](https://github.com/PrefectHQ/fastmcp) |
 | [GDevelop](https://openfree.tools/gdevelop) | Open-source no-code engine for 2D, 3D and multiplayer games | 27.6K | Other | [Website](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/emdash) | Open source Astro CMS for humans and agents | 13.8K | MIT | [Website](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
+| [Exact](https://openfree.tools/exact) | Write once, run natively, test with AI agents | 4.2K | MIT | [Website](https://github.com/expo/exact) · [GitHub](https://github.com/expo/exact) |
 | [Pixeltable](https://openfree.tools/pixeltable) | Multimodal AI backend in one Python file | 1.7K | Apache-2.0 | [Website](https://docs.pixeltable.com/) · [GitHub](https://github.com/pixeltable/pixeltable) |
 | [Void](https://openfree.tools/void) | Build with Vite. Deploy with Void. | 0.3K | MIT | [Website](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
 
@@ -828,6 +833,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Univer](https://openfree.tools/univer) | Open-source Office SDK for apps and AI agents | 25.0K | Apache-2.0 | [Website](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/ag-ui) | Open event-based protocol for agent-user interaction | 17.2K | MIT | [Website](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
 | [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
@@ -1022,6 +1028,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [DSA](https://openfree.tools/daily-stock-analysis) | LLM-driven multi-market stock analysis and decision reports | 68.5K | MIT | [Website](https://dsa.zhulinsen.tech/) · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) |
 | [OpenStock](https://openfree.tools/openstock) | Markets, minus the paywall. | 20.6K | AGPL-3.0 | [Website](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
+| [Sure](https://openfree.tools/sure) | The personal finance app for everyone | 15.5K | AGPL-3.0 | [Website](https://sure.am/) · [GitHub](https://github.com/we-promise/sure) |
 | [NOFX](https://openfree.tools/nofx) | AI proposes trades; you approve or run Autopilot | 13.2K | AGPL-3.0 | [Website](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
 
 <a id="category-legal-compliance"></a>
