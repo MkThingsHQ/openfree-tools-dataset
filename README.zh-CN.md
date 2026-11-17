@@ -363,6 +363,7 @@
 | [Elephant-Goldfish Model](https://openfree.tools/zh/elephant-goldfish-model) | 用上下文设计，用全新视角评审 | 18.6K | Apache-2.0 | [官网](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/zh/paseo) | 编码代理的控制平面 | 18.6K | Other | [官网](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
 | [Claude Code Action](https://openfree.tools/zh/claude-code-action) | Claude Code 的 GitHub PR 与 issue 通用 Action | 9.7K | MIT | [官网](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
+| [OpenBot](https://openfree.tools/zh/openbot-2) | 本地优先的持久 AI 队友工作区 | 8.4K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [SuperPlane](https://openfree.tools/zh/superplane) | 面向一次性工程的开源软件工厂 | 8.3K | Other | [官网](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
 | [OpenRig](https://openfree.tools/zh/openrig) | 在你自己的机器上运行持久的编程智能体团队 | 8.2K | Apache-2.0 | [官网](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zh/zcode) | 面向复杂目标的多智能体 AI 编程工作台 | 8.1K | Apache-2.0 | [官网](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
@@ -371,7 +372,6 @@
 | [TokenEconomizer](https://openfree.tools/zh/tokeneconomizer) | 面向编码代理的经验驱动黑盒成本控制 | 5.9K | Apache-2.0 | [官网](https://github.com/microsoft/TokenEconomizer) · [GitHub](https://github.com/microsoft/TokenEconomizer) |
 | [magpie](https://openfree.tools/zh/magpie) | 所有 agent 的模型，集中一处 | 3.9K | MIT | [官网](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/zh/cindy) | 开源、开箱即用的 AI Agent，想到就能做到 | 3.7K | Apache-2.0 | [官网](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
-| [OpenBot](https://openfree.tools/zh/openbot-2) | 在你自己的电脑上运行常驻 AI 队友 | 3.6K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/zh/plannotator-2) | 为你的智能体提供计划与代码审查。 | 3.6K | MIT | [官网](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 | [dsh-superagent](https://openfree.tools/zh/dsh-superagent) | 面向单个 GitHub 仓库的主动式编程代理 | 2.5K | MIT | [官网](https://github.com/deepseek-ai/dsh-superagent-prototype) · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) |
 | [cinecode](https://openfree.tools/zh/cinecode) | AI 编程代理以代码制作影片 | 2.1K | MIT | [官网](https://github.com/sarpstar/cinecode) · [GitHub](https://github.com/sarpstar/cinecode) |

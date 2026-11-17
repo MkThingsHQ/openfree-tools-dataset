@@ -364,6 +364,7 @@ No published projects yet.
 | [Elephant-Goldfish Model](https://openfree.tools/elephant-goldfish-model) | Design with context, review with fresh eyes | 18.6K | Apache-2.0 | [Website](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
 | [Claude Code Action](https://openfree.tools/claude-code-action) | Claude Code for GitHub pull requests and issues | 9.7K | MIT | [Website](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
+| [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates in one local-first workspace | 8.4K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [SuperPlane](https://openfree.tools/superplane) | Open source factory for one-shot engineering | 8.3K | Other | [Website](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
 | [OpenRig](https://openfree.tools/openrig) | Persistent teams of coding agents on your own machine | 8.2K | Apache-2.0 | [Website](https://openrig.dev/) · [GitHub](https://github.com/mvschwarz/openrig) |
 | [ZCode](https://openfree.tools/zcode) | AI coding harness for complex goals with multiple agents | 8.1K | Apache-2.0 | [Website](https://zcode.z.ai/) · [GitHub](https://github.com/zai-org/ZCode) |
@@ -372,7 +373,6 @@ No published projects yet.
 | [TokenEconomizer](https://openfree.tools/tokeneconomizer) | Experience-driven cost control for coding agents | 5.9K | Apache-2.0 | [Website](https://github.com/microsoft/TokenEconomizer) · [GitHub](https://github.com/microsoft/TokenEconomizer) |
 | [magpie](https://openfree.tools/magpie) | Every agent's model. One place. | 3.9K | MIT | [Website](https://usemagpie.ai/) · [GitHub](https://github.com/yetone/magpie) |
 | [Cindy](https://openfree.tools/cindy) | The open-source AI agent that works out of the box | 3.7K | Apache-2.0 | [Website](https://github.com/makecindy/cindy) · [GitHub](https://github.com/makecindy/cindy) |
-| [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates on your own computer | 3.6K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [Plannotator](https://openfree.tools/plannotator-2) | Plan and code review for your agents. | 3.6K | MIT | [Website](https://plannotator.ai/) · [GitHub](https://github.com/plannotator/effective-html) |
 | [dsh-superagent](https://openfree.tools/dsh-superagent) | A proactive coding agent for one GitHub repository | 2.5K | MIT | [Website](https://github.com/deepseek-ai/dsh-superagent-prototype) · [GitHub](https://github.com/deepseek-ai/dsh-superagent-prototype) |
 | [cinecode](https://openfree.tools/cinecode) | Films made with code by an AI coding agent | 2.1K | MIT | [Website](https://github.com/sarpstar/cinecode) · [GitHub](https://github.com/sarpstar/cinecode) |
