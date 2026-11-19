@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**406 个项目 · 83 个二级分类 · 每日同步**
+**415 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -222,6 +222,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 
 <a id="category-generative-media-design"></a>
 
@@ -237,6 +238,7 @@
 | [OpenDesign](https://openfree.tools/zh/opendesign) | 开源、本地优先的 Claude Design 替代方案 | 98.3K | Apache-2.0 | [官网](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/zh/artcraft) | 可控 AI 图像与视频的开源工作室 | 28.9K | Apache-2.0 | [官网](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
 | [Toonflow](https://openfree.tools/zh/toonflow-app) | 开源 AI 短剧、漫剧与视频创作平台 | 19.0K | MIT | [官网](https://github.com/HBAI-Ltd/Toonflow-app) · [GitHub](https://github.com/HBAI-Ltd/Toonflow-app) |
+| [DiffSynth-Studio](https://openfree.tools/zh/diffsynth-studio) | 面向低显存推理与训练的 Diffusion 模型引擎 | 13.4K | Apache-2.0 | [官网](https://osp.fyi/diffsynth-studio) · [GitHub](https://github.com/modelscope/DiffSynth-Studio) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/zh/ian-xiaohei-illustrations) | 为中文文章生成 16:9 小黑怪诞正文配图 | 12.4K | MIT | [官网](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [无限画布](https://openfree.tools/zh/infinite-canvas) | 在画布上连续推演 AI 图片与视频创作 | 9.2K | MIT | [官网](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/zh/mochi-diffusion) | 在 Mac 上原生运行 Stable Diffusion 与 FLUX.2 Klein | 8.0K | GPL-3.0 | [官网](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
@@ -362,6 +364,7 @@
 | [T3 Code](https://openfree.tools/zh/t3-code) | 面向编码代理的开源控制平面 | 23.6K | MIT | [官网](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Elephant-Goldfish Model](https://openfree.tools/zh/elephant-goldfish-model) | 用上下文设计，用全新视角评审 | 18.6K | Apache-2.0 | [官网](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/zh/paseo) | 编码代理的控制平面 | 18.6K | Other | [官网](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [OpenSRE](https://openfree.tools/zh/opensre) | 面向 CI/CD 可靠性的开源智能体 | 12.9K | Apache-2.0 | [官网](https://github.com/Tracer-Cloud/opensre) · [GitHub](https://github.com/Tracer-Cloud/opensre) |
 | [Claude Code Action](https://openfree.tools/zh/claude-code-action) | Claude Code 的 GitHub PR 与 issue 通用 Action | 9.7K | MIT | [官网](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
 | [OpenBot](https://openfree.tools/zh/openbot-2) | 本地优先的持久 AI 队友工作区 | 8.4K | Other | [官网](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [SuperPlane](https://openfree.tools/zh/superplane) | 面向一次性工程的开源软件工厂 | 8.3K | Other | [官网](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
@@ -433,6 +436,7 @@
 | --- | --- | ---: | --- | --- |
 | [ccstatusline](https://openfree.tools/zh/ccstatusline) | 可定制的 Claude Code CLI 状态行格式化工具 | 13.4K | MIT | [官网](https://github.com/sirmalloc/ccstatusline) · [GitHub](https://github.com/sirmalloc/ccstatusline) |
 | [tuios](https://openfree.tools/zh/tuios) | 面向编码代理的终端窗口管理器。 | 5.9K | MIT | [官网](https://tuios.dev/) · [GitHub](https://github.com/Gaurav-Gosain/tuios) |
+| [rust-anything](https://openfree.tools/zh/rust-anything) | 用 Rust 逐步重写应用，每一块都经过验证。 | 4.1K | MIT | [官网](https://www.npmjs.com/package/rust-anything) · [GitHub](https://github.com/erkamyaman/rust-anything) |
 | [Pebrel](https://openfree.tools/zh/pebrel) | 面向 AI CLI 的 GPU 加速终端与 SSH 工作台 | 3.5K | GPL-3.0 | [官网](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/zh/cf) | 面向整个 Cloudflare API 的智能体 CLI | 0.6K | Apache-2.0 | [官网](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
 
@@ -612,6 +616,7 @@
 | [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/zh/pipeshub) | 面向 AI 智能体的开源、权限感知上下文层 | 4.0K | Apache-2.0 | [官网](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
+| [Mailflare](https://openfree.tools/zh/mailflare) | 面向个人与团队的专业邮箱 | 3.6K | AGPL-3.0 | [官网](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [boss-agent-cli](https://openfree.tools/zh/boss-agent-cli) | 面向真人与 AI Agent 的 BOSS 直聘 CLI | 2.2K | MIT | [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
@@ -642,6 +647,7 @@
 | [ai-memory](https://openfree.tools/zh/ai-memory) | 面向 AI 编码代理的长期记忆 | 9.7K | MIT | [官网](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
 | [Mercury Agent](https://openfree.tools/zh/mercury-agent) | 先询问再行动的 soul 驱动 AI 智能体 | 3.8K | MIT | [官网](https://mercuryagent.sh/) · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) |
 | [Beacon](https://openfree.tools/zh/beacon) | 面向编程代理的自我改进记忆层 | 2.5K | MIT | [官网](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
+| [Linger](https://openfree.tools/zh/linger) | 完全运行在个人电脑上的开源个人智能体 | 0.7K | Other | [官网](https://github.com/simplexai-labs/linger) · [GitHub](https://github.com/simplexai-labs/linger) |
 | [Hy-Memory](https://openfree.tools/zh/hy-memory) | 面向自演化 LLM 智能体的双系统认知记忆引擎。 | 0.3K | Other | [官网](https://github.com/Tencent-Hunyuan/Hy-Memory) · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) |
 | [Octop Memory](https://openfree.tools/zh/octop-2) | 懂你、帮你、陪你成长的智能伙伴 | 0.1K | MIT | [官网](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-memory) |
 
@@ -965,7 +971,9 @@
 
 ### 可观测性与追踪
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [Checkmate](https://openfree.tools/zh/checkmate) | 开源自托管可用性与基础设施监控 | 11.1K | AGPL-3.0 | [官网](https://osp.fyi/checkmate) · [GitHub](https://github.com/bluewave-labs/Checkmate) |
 
 <a id="category-experiment-tracking-model-registry"></a>
 
@@ -1078,6 +1086,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [AutoClip](https://openfree.tools/zh/autoclip) | 一个链接，一键出片。 | 11.0K | MIT | [官网](https://github.com/zhouxiaoka/autoclip) · [GitHub](https://github.com/zhouxiaoka/autoclip) |
 | [VidBee](https://openfree.tools/zh/vidbee) | 下载视频并在本机生成可搜索的转录文本。 | 10.8K | MIT | [官网](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [拉片笔记](https://openfree.tools/zh/lapian-notes) | 把电影变成可编辑的拉片笔记 | 0.8K | MIT | [官网](https://discord.gg/uT6xryBX9w) · [GitHub](https://github.com/bkingfilm/lapian-notes) |
 
@@ -1113,6 +1122,7 @@
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/zh/skillspector) | 安装前扫描 AI 智能体技能的安全风险 | 21.8K | Apache-2.0 | [官网](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [Codex Security](https://openfree.tools/zh/codex-security) | 发现、验证并修复代码中的安全漏洞 | 11.4K | Apache-2.0 | [官网](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |
+| [ARTEX](https://openfree.tools/zh/artex) | 自主渗透测试，每项发现都有据可查 | 10.3K | AGPL-3.0 | [官网](https://osp.fyi/artex) · [GitHub](https://github.com/BaaRai/ARTEX) |
 | [ADR](https://openfree.tools/zh/adr) | 企业 AI 代理安全防护 | 2.1K | Apache-2.0 | [官网](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
 | [ZeroLeaks](https://openfree.tools/zh/zeroleaks) | 面向 AI 智能体的持续红队测试 | 0.7K | Other | [官网](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 

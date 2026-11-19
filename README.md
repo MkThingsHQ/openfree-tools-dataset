@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**406 projects · 83 subcategories · Synced daily**
+**415 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -223,6 +223,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 
 <a id="category-generative-media-design"></a>
 
@@ -238,6 +239,7 @@ No published projects yet.
 | [OpenDesign](https://openfree.tools/opendesign) | The open-source, local-first Claude Design alternative | 98.3K | Apache-2.0 | [Website](https://open-design.ai/) · [GitHub](https://github.com/nexu-io/open-design) |
 | [ArtCraft](https://openfree.tools/artcraft) | Open-source studio for controllable AI image and video. | 28.9K | Apache-2.0 | [Website](https://github.com/storytold/artcraft) · [GitHub](https://github.com/storytold/artcraft) |
 | [Toonflow](https://openfree.tools/toonflow-app) | Open-source AI short drama, motion comic, and video platform | 19.0K | MIT | [Website](https://github.com/HBAI-Ltd/Toonflow-app) · [GitHub](https://github.com/HBAI-Ltd/Toonflow-app) |
+| [DiffSynth-Studio](https://openfree.tools/diffsynth-studio) | Diffusion model engine for low-VRAM inference and training | 13.4K | Apache-2.0 | [Website](https://osp.fyi/diffsynth-studio) · [GitHub](https://github.com/modelscope/DiffSynth-Studio) |
 | [Ian Xiaohei Illustrations](https://openfree.tools/ian-xiaohei-illustrations) | Generate 16:9 Xiaohei illustrations for Chinese articles | 12.4K | MIT | [Website](https://www.ianneo.xyz/) · [GitHub](https://github.com/helloianneo/ian-xiaohei-illustrations) |
 | [Infinite Canvas](https://openfree.tools/infinite-canvas) | One canvas for AI images, video, and visual iteration | 9.2K | MIT | [Website](https://canvas.best/) · [GitHub](https://github.com/basketikun/infinite-canvas) |
 | [Mochi Diffusion](https://openfree.tools/mochi-diffusion) | Run Stable Diffusion and FLUX.2 Klein natively on Mac | 8.0K | GPL-3.0 | [Website](https://github.com/MochiDiffusion/MochiDiffusion) · [GitHub](https://github.com/MochiDiffusion/MochiDiffusion) |
@@ -363,6 +365,7 @@ No published projects yet.
 | [T3 Code](https://openfree.tools/t3-code) | The open-source control plane for coding agents. | 23.6K | MIT | [Website](https://t3.codes/) · [GitHub](https://github.com/pingdotgg/t3code) |
 | [Elephant-Goldfish Model](https://openfree.tools/elephant-goldfish-model) | Design with context, review with fresh eyes | 18.6K | Apache-2.0 | [Website](https://egm.dev/) · [GitHub](https://github.com/google/elephant-goldfish-model) |
 | [Paseo](https://openfree.tools/paseo) | The control plane for coding agents | 18.6K | Other | [Website](https://paseo.sh/) · [GitHub](https://github.com/getpaseo/paseo) |
+| [OpenSRE](https://openfree.tools/opensre) | The open-source agent for CI/CD reliability. | 12.9K | Apache-2.0 | [Website](https://github.com/Tracer-Cloud/opensre) · [GitHub](https://github.com/Tracer-Cloud/opensre) |
 | [Claude Code Action](https://openfree.tools/claude-code-action) | Claude Code for GitHub pull requests and issues | 9.7K | MIT | [Website](https://github.com/anthropics/claude-code-action) · [GitHub](https://github.com/anthropics/claude-code-action) |
 | [OpenBot](https://openfree.tools/openbot-2) | Persistent AI teammates in one local-first workspace | 8.4K | Other | [Website](https://github.com/nightly-labs/openbot) · [GitHub](https://github.com/nightly-labs/openbot) |
 | [SuperPlane](https://openfree.tools/superplane) | Open source factory for one-shot engineering | 8.3K | Other | [Website](https://superplane.com/) · [GitHub](https://github.com/superplanehq/superplane) |
@@ -434,6 +437,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [ccstatusline](https://openfree.tools/ccstatusline) | Customizable status line formatter for Claude Code CLI | 13.4K | MIT | [Website](https://github.com/sirmalloc/ccstatusline) · [GitHub](https://github.com/sirmalloc/ccstatusline) |
 | [tuios](https://openfree.tools/tuios) | A terminal window manager for coding agents. | 5.9K | MIT | [Website](https://tuios.dev/) · [GitHub](https://github.com/Gaurav-Gosain/tuios) |
+| [rust-anything](https://openfree.tools/rust-anything) | Rewrite your app in Rust, one verified piece at a time. | 4.1K | MIT | [Website](https://www.npmjs.com/package/rust-anything) · [GitHub](https://github.com/erkamyaman/rust-anything) |
 | [Pebrel](https://openfree.tools/pebrel) | GPU-accelerated terminal and SSH workspace for AI CLI work | 3.5K | GPL-3.0 | [Website](https://github.com/Kuddev/pebrel) · [GitHub](https://github.com/Kuddev/pebrel) |
 | [cf](https://openfree.tools/cf) | The agentic CLI for the entire Cloudflare API | 0.6K | Apache-2.0 | [Website](https://github.com/cloudflare/cf) · [GitHub](https://github.com/cloudflare/cf) |
 
@@ -613,6 +617,7 @@ No published projects yet.
 | [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/aisoc) | Open-source, self-hostable AI security operations center | 4.4K | MIT | [Website](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/pipeshub) | Open-source, permission-aware context for AI agents | 4.0K | Apache-2.0 | [Website](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
+| [Mailflare](https://openfree.tools/mailflare) | Professional email for individuals and teams | 3.6K | AGPL-3.0 | [Website](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
 | [boss-agent-cli](https://openfree.tools/boss-agent-cli) | BOSS Zhipin CLI for humans and AI agents | 2.2K | MIT | [Website](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
@@ -643,6 +648,7 @@ No published projects yet.
 | [ai-memory](https://openfree.tools/ai-memory) | Long-term memory for AI coding agents | 9.7K | MIT | [Website](https://github.com/akitaonrails/ai-memory) · [GitHub](https://github.com/akitaonrails/ai-memory) |
 | [Mercury Agent](https://openfree.tools/mercury-agent) | Soul-driven AI agent that asks before it acts. | 3.8K | MIT | [Website](https://mercuryagent.sh/) · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) |
 | [Beacon](https://openfree.tools/beacon) | Self-improving memory for coding agents | 2.5K | MIT | [Website](https://beacon.sh/) · [GitHub](https://github.com/Asymptote-Labs/agent-beacon) |
+| [Linger](https://openfree.tools/linger) | Open-source personal agent that runs fully on your PC | 0.7K | Other | [Website](https://github.com/simplexai-labs/linger) · [GitHub](https://github.com/simplexai-labs/linger) |
 | [Hy-Memory](https://openfree.tools/hy-memory) | Dual-system cognitive memory for self-evolving LLM agents. | 0.3K | Other | [Website](https://github.com/Tencent-Hunyuan/Hy-Memory) · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Memory) |
 | [Octop Memory](https://openfree.tools/octop-2) | Your intelligent partner that understands and grows with you | 0.1K | MIT | [Website](https://octop.cloud/) · [GitHub](https://github.com/TencentCloud/octop-memory) |
 
@@ -966,7 +972,9 @@ No published projects yet.
 
 ### Observability &amp; Tracing
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [Checkmate](https://openfree.tools/checkmate) | Open-source self-hosted uptime monitoring | 11.1K | AGPL-3.0 | [Website](https://osp.fyi/checkmate) · [GitHub](https://github.com/bluewave-labs/Checkmate) |
 
 <a id="category-experiment-tracking-model-registry"></a>
 
@@ -1079,6 +1087,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [AutoClip](https://openfree.tools/autoclip) | One link, one click to publish-ready clips. | 11.0K | MIT | [Website](https://github.com/zhouxiaoka/autoclip) · [GitHub](https://github.com/zhouxiaoka/autoclip) |
 | [VidBee](https://openfree.tools/vidbee) | Download videos and create searchable transcripts locally. | 10.8K | MIT | [Website](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [Lapian Notes](https://openfree.tools/lapian-notes) | Turn a film into an editable breakdown notebook | 0.8K | MIT | [Website](https://discord.gg/uT6xryBX9w) · [GitHub](https://github.com/bkingfilm/lapian-notes) |
 
@@ -1114,6 +1123,7 @@ No published projects yet.
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [Codex Security](https://openfree.tools/codex-security) | Find, validate, and fix security vulnerabilities in code | 11.4K | Apache-2.0 | [Website](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |
+| [ARTEX](https://openfree.tools/artex) | Autonomous pentesting that keeps its receipts. | 10.3K | AGPL-3.0 | [Website](https://osp.fyi/artex) · [GitHub](https://github.com/BaaRai/ARTEX) |
 | [ADR](https://openfree.tools/adr) | Enterprise security for AI agents | 2.1K | Apache-2.0 | [Website](https://arxiv.org/abs/2605.17380) · [GitHub](https://github.com/uber/ADR) |
 | [ZeroLeaks](https://openfree.tools/zeroleaks) | Continuous red teaming for AI agents | 0.7K | Other | [Website](https://zeroleaks.ai/) · [GitHub](https://github.com/ZeroLeaks/zeroleaks) |
 
