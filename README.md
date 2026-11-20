@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**415 projects · 83 subcategories · Synced daily**
+**422 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -161,6 +161,7 @@ No sponsors yet.
 | [claude-desktop-debian](https://openfree.tools/claude-desktop-debian) | Unofficial Claude Desktop packaging for Linux | 5.5K | Apache-2.0 | [Website](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [EAC-Desktop](https://openfree.tools/eac-desktop) | Open-source desktop workbench built on DeepSeek Harness | 3.1K | MIT | [Website](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
+| [Yuvomi](https://openfree.tools/yuvomi) | The self-hosted family planner | 2.4K | MIT | [Website](https://osp.fyi/yuvomi) · [GitHub](https://github.com/ulsklyc/yuvomi) |
 | [PromptHub](https://openfree.tools/prompthub) | Local-first workspace for prompts, skills, and agent assets | 1.7K | AGPL-3.0 | [Website](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/amical) | Open-source AI dictation for Mac, Windows, iOS, and Android | 1.5K | MIT | [Website](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/mika) | Your private AI assistant on your phone | 1.3K | Apache-2.0 | [Website](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
@@ -189,6 +190,7 @@ No sponsors yet.
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [VidBee](https://openfree.tools/vidbee) | Download videos and create searchable transcripts locally. | 10.8K | MIT | [Website](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [Hex](https://openfree.tools/hex) | Speak. It appears. | 2.7K | MIT | [Website](https://github.com/anomalyco/hex) · [GitHub](https://github.com/anomalyco/hex) |
+| [Transub Player](https://openfree.tools/transub-player) | Open a video. Subtitles follow. | 1.2K | — | [Website](https://www.transub.cc/) · [GitHub](https://github.com/dlsandy/Transub-Player) |
 
 <a id="category-search-answer-engines"></a>
 
@@ -224,6 +226,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
+| [Raven](https://openfree.tools/raven-2) | A Windows your apps recognize. | 1.1K | Other | [Website](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
 <a id="category-generative-media-design"></a>
 
@@ -330,6 +333,7 @@ No published projects yet.
 | [omp](https://openfree.tools/omp) | A coding agent with the IDE wired in. | 33.5K | MIT | [Website](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Serena](https://openfree.tools/serena) | Semantic IDE tools for coding agents via MCP | 31.0K | Other | [Website](https://oraios.github.io/serena) · [GitHub](https://github.com/oraios/serena) |
 | [Kilo Code](https://openfree.tools/kilo-code) | One open agent for every developer workflow | 27.6K | MIT | [Website](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [Modern Web Guidance](https://openfree.tools/modern-web-guidance) | Web platform expertise for AI coding agents | 23.8K | Apache-2.0 | [Website](https://github.com/GoogleChrome/modern-web-guidance) · [GitHub](https://github.com/GoogleChrome/modern-web-guidance) |
 | [Paradev](https://openfree.tools/paradev) | IDE for running and orchestrating parallel coding agents | 15.7K | Other | [Website](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Plannotator](https://openfree.tools/plannotator) | Plan and code review for your agents. | 10.3K | Apache-2.0 | [Website](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
@@ -620,6 +624,7 @@ No published projects yet.
 | [Mailflare](https://openfree.tools/mailflare) | Professional email for individuals and teams | 3.6K | AGPL-3.0 | [Website](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
+| [Doop](https://openfree.tools/doop) | Design with AI agents on a live shared canvas | 2.2K | AGPL-3.0 | [Website](https://doop.design/) · [GitHub](https://github.com/kgoedecke/doop) |
 | [boss-agent-cli](https://openfree.tools/boss-agent-cli) | BOSS Zhipin CLI for humans and AI agents | 2.2K | MIT | [Website](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
 | [GitLab MCP Server](https://openfree.tools/gitlab-mcp-server) | MCP server for GitLab projects, MRs, issues, and pipelines | 2.1K | MIT | [Website](https://zereight.github.io/gitlab-mcp/) · [GitHub](https://github.com/zereight/gitlab-mcp) |
 | [earshot](https://openfree.tools/earshot) | Ears for coding agents: hear, review and make sound | 1.9K | MIT | [Website](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
@@ -1007,6 +1012,7 @@ No published projects yet.
 | [God's Eye View](https://openfree.tools/god-s-eye-view) | A spy-satellite simulator with real data | 64.6K | Other | [Website](https://godseyeview.ai/) · [GitHub](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [同花顺金融数据](https://openfree.tools/listing) | Flexible access with built-in financial data capabilities | 4.3K | MIT | [Website](https://fuyao.aicubes.cn/) · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) |
 | [Auto Ontology](https://openfree.tools/auto-ontology) | Semantic graph reasoning layer for trusted agent analytics | 3.0K | Apache-2.0 | [Website](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/datagen) | AI-driven multi-agent research assistant | 1.8K | MIT | [Website](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/minilytics) | Revenue-first web analytics for indie founders | 0.3K | MIT | [Website](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
@@ -1043,7 +1049,9 @@ No published projects yet.
 
 ### Legal &amp; Compliance
 
-No published projects yet.
+| Project | Description | Stars | License | Links |
+| --- | --- | ---: | --- | --- |
+| [SignuDoc](https://openfree.tools/signudoc) | Open-source e-signatures on your own Vercel account | 2.5K | MIT | [Website](https://osp.fyi/signudoc) · [GitHub](https://github.com/NYLLON-SOFTWARE/SignuDoc) |
 
 <a id="category-healthcare-medical"></a>
 

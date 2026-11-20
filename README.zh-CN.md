@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**415 个项目 · 83 个二级分类 · 每日同步**
+**422 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -160,6 +160,7 @@
 | [claude-desktop-debian](https://openfree.tools/zh/claude-desktop-debian) | 面向 Linux 的非官方 Claude Desktop 打包 | 5.5K | Apache-2.0 | [官网](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [EAC-Desktop](https://openfree.tools/zh/eac-desktop) | 基于 DeepSeek Harness 的开源桌面工作台 | 3.1K | MIT | [官网](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
+| [Yuvomi](https://openfree.tools/zh/yuvomi) | 自托管家庭规划工具 | 2.4K | MIT | [官网](https://osp.fyi/yuvomi) · [GitHub](https://github.com/ulsklyc/yuvomi) |
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
 | [Mika](https://openfree.tools/zh/mika) | 你手机上的私人 AI 助理 | 1.3K | Apache-2.0 | [官网](https://github.com/wangzan101/Mika) · [GitHub](https://github.com/wangzan101/Mika) |
@@ -188,6 +189,7 @@
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [VidBee](https://openfree.tools/zh/vidbee) | 下载视频并在本机生成可搜索的转录文本。 | 10.8K | MIT | [官网](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [Hex](https://openfree.tools/zh/hex) | 说话，它便出现。 | 2.7K | MIT | [官网](https://github.com/anomalyco/hex) · [GitHub](https://github.com/anomalyco/hex) |
+| [Transub Player](https://openfree.tools/zh/transub-player) | 打开视频，字幕随后跟上。 | 1.2K | — | [官网](https://www.transub.cc/) · [GitHub](https://github.com/dlsandy/Transub-Player) |
 
 <a id="category-search-answer-engines"></a>
 
@@ -223,6 +225,7 @@
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
+| [Raven](https://openfree.tools/zh/raven-2) | 你的应用认得出的 Windows。 | 1.1K | Other | [官网](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
 <a id="category-generative-media-design"></a>
 
@@ -329,6 +332,7 @@
 | [omp](https://openfree.tools/zh/omp) | 内置 IDE 的编码智能体。 | 33.5K | MIT | [官网](https://omp.sh/) · [GitHub](https://github.com/can1357/oh-my-pi) |
 | [Serena](https://openfree.tools/zh/serena) | 通过 MCP 为编码代理提供 IDE 级语义代码工具 | 31.0K | Other | [官网](https://oraios.github.io/serena) · [GitHub](https://github.com/oraios/serena) |
 | [Kilo Code](https://openfree.tools/zh/kilo-code) | 为每个开发者工作流打造的开放智能体 | 27.6K | MIT | [官网](https://kilo.ai/) · [GitHub](https://github.com/Kilo-Org/kilocode) |
+| [Modern Web Guidance](https://openfree.tools/zh/modern-web-guidance) | 为 AI 编程代理注入现代 Web 专业知识 | 23.8K | Apache-2.0 | [官网](https://github.com/GoogleChrome/modern-web-guidance) · [GitHub](https://github.com/GoogleChrome/modern-web-guidance) |
 | [Paradev](https://openfree.tools/zh/paradev) | 用于并行编码智能体编排的 IDE | 15.7K | Other | [官网](https://paradev.com/) · [GitHub](https://github.com/ParadevAI/Paradev) |
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Plannotator](https://openfree.tools/zh/plannotator) | 为智能体提供计划与代码评审 | 10.3K | Apache-2.0 | [官网](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
@@ -619,6 +623,7 @@
 | [Mailflare](https://openfree.tools/zh/mailflare) | 面向个人与团队的专业邮箱 | 3.6K | AGPL-3.0 | [官网](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
+| [Doop](https://openfree.tools/zh/doop) | 在共享画布上与 AI 智能体实时设计 | 2.2K | AGPL-3.0 | [官网](https://doop.design/) · [GitHub](https://github.com/kgoedecke/doop) |
 | [boss-agent-cli](https://openfree.tools/zh/boss-agent-cli) | 面向真人与 AI Agent 的 BOSS 直聘 CLI | 2.2K | MIT | [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) |
 | [GitLab MCP Server](https://openfree.tools/zh/gitlab-mcp-server) | 连接 AI 客户端与 GitLab 的 MCP 服务器 | 2.1K | MIT | [官网](https://zereight.github.io/gitlab-mcp/) · [GitHub](https://github.com/zereight/gitlab-mcp) |
 | [earshot](https://openfree.tools/zh/earshot) | 为编程智能体提供听觉：听见、审查并制作声音 | 1.9K | MIT | [官网](https://github.com/Leonxlnx/earshot) · [GitHub](https://github.com/Leonxlnx/earshot) |
@@ -1006,6 +1011,7 @@
 | [God's Eye View](https://openfree.tools/zh/god-s-eye-view) | 真实数据的间谍卫星模拟器 | 64.6K | Other | [官网](https://godseyeview.ai/) · [GitHub](https://github.com/bilawalsidhu/gods-eye-view) |
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
+| [同花顺金融数据](https://openfree.tools/zh/listing) | 灵活接入，金融数据能力已内置 | 4.3K | MIT | [官网](https://fuyao.aicubes.cn/) · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) |
 | [Auto Ontology](https://openfree.tools/zh/auto-ontology) | 面向可信智能体分析的语义图推理层 | 3.0K | Apache-2.0 | [官网](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/zh/datagen) | AI 驱动的多智能体研究助手 | 1.8K | MIT | [官网](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/zh/minilytics) | 面向独立开发者的收入优先网站分析 | 0.3K | MIT | [官网](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
@@ -1042,7 +1048,9 @@
 
 ### 法律与合规
 
-暂无已发布项目。
+| 项目 | 简介 | Stars | 许可证 | 链接 |
+| --- | --- | ---: | --- | --- |
+| [SignuDoc](https://openfree.tools/zh/signudoc) | 在自有 Vercel 账号上运行的开源电子签名 | 2.5K | MIT | [官网](https://osp.fyi/signudoc) · [GitHub](https://github.com/NYLLON-SOFTWARE/SignuDoc) |
 
 <a id="category-healthcare-medical"></a>
 
