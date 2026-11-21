@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**422 projects · 83 subcategories · Synced daily**
+**429 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -146,6 +146,7 @@ No sponsors yet.
 | [agentes.chat](https://openfree.tools/agentes-chat) | AI agents in your team's chat | 1.4K | AGPL-3.0 | [Website](https://agentes.chat/) · [GitHub](https://github.com/agentes-chat/agentes-chat) |
 | [AnyModelBot](https://openfree.tools/anymodelbot) | Open-source, local-first AI assistant on your computer | 1.0K | MIT | [Website](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 | [Ember](https://openfree.tools/ember) | Open source team chat on your own Cloudflare account | 0.6K | MIT | [Website](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
+| [TalkTo](https://openfree.tools/talkto) | Message boards for AI agents | 0.0K | Apache-2.0 | [Website](http://talkto.sh/) · [GitHub](https://github.com/plannotator/talkto) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -161,6 +162,7 @@ No sponsors yet.
 | [claude-desktop-debian](https://openfree.tools/claude-desktop-debian) | Unofficial Claude Desktop packaging for Linux | 5.5K | Apache-2.0 | [Website](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/crossdesk) | Free, lightweight open-source remote desktop | 4.5K | GPL-3.0 | [Website](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [EAC-Desktop](https://openfree.tools/eac-desktop) | Open-source desktop workbench built on DeepSeek Harness | 3.1K | MIT | [Website](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
+| [Lastbook](https://openfree.tools/lastbook) | Offline knowledge, AI, maps, and videos | 2.8K | MIT | [Website](https://github.com/Immortal-Protocols/lastbook) · [GitHub](https://github.com/Immortal-Protocols/lastbook) |
 | [Yuvomi](https://openfree.tools/yuvomi) | The self-hosted family planner | 2.4K | MIT | [Website](https://osp.fyi/yuvomi) · [GitHub](https://github.com/ulsklyc/yuvomi) |
 | [PromptHub](https://openfree.tools/prompthub) | Local-first workspace for prompts, skills, and agent assets | 1.7K | AGPL-3.0 | [Website](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/amical) | Open-source AI dictation for Mac, Windows, iOS, and Android | 1.5K | MIT | [Website](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
@@ -306,6 +308,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Pascal Editor](https://openfree.tools/pascal-editor) | Open-source local-first 3D building editor | 25.0K | MIT | [Website](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [Hunyuan3D](https://openfree.tools/hunyuan3d) | All-in-one AI creation platform for 3D content | 15.0K | Other | [Website](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| [OpenMVS](https://openfree.tools/openmvs) | Multi-View Stereo reconstruction to textured 3D mesh | 4.2K | AGPL-3.0 | [Website](https://osp.fyi/openmvs) · [GitHub](https://github.com/cdcseacave/openMVS) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
 <a id="category-avatars-digital-humans"></a>
@@ -787,6 +790,7 @@ No published projects yet.
 | [vLLM](https://openfree.tools/vllm) | Easy, fast, and cost-efficient LLM serving for everyone. | 94.2K | Apache-2.0 | [Website](https://vllm.ai/) · [GitHub](https://github.com/vllm-project/vllm) |
 | [DwarfStar](https://openfree.tools/dwarfstar) | Local inference engine for DeepSeek, GLM, and Qwen | 24.0K | MIT | [Website](https://github.com/antirez/ds4) · [GitHub](https://github.com/antirez/ds4) |
 | [DeepInfer](https://openfree.tools/deepinfer) | High-performance inference framework for DeepSeek models | 7.9K | Apache-2.0 | [Website](https://github.com/deepseek-ai/DeepInfer) · [GitHub](https://github.com/deepseek-ai/DeepInfer) |
+| [TrnRT](https://openfree.tools/trnrt) | Open LLM inference engine for AWS Trainium | 1.6K | Apache-2.0 | [Website](https://osp.fyi/trnrt) · [GitHub](https://github.com/RunanywhereAI/trnrt) |
 
 <a id="category-quantization-acceleration"></a>
 
@@ -810,6 +814,7 @@ No published projects yet.
 | [FastMCP](https://openfree.tools/fastmcp) | The standard framework for building MCP applications | 28.3K | Apache-2.0 | [Website](https://gofastmcp.com/) · [GitHub](https://github.com/PrefectHQ/fastmcp) |
 | [GDevelop](https://openfree.tools/gdevelop) | Open-source no-code engine for 2D, 3D and multiplayer games | 27.6K | Other | [Website](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/emdash) | Open source Astro CMS for humans and agents | 13.8K | MIT | [Website](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
+| [FlowGram.AI](https://openfree.tools/flowgram-ai) | Workflow development framework &amp; toolkit | 8.5K | MIT | [Website](https://flowgram.ai/) · [GitHub](https://github.com/bytedance/flowgram.ai) |
 | [Exact](https://openfree.tools/exact) | Write once, run natively, test with AI agents | 4.2K | MIT | [Website](https://github.com/expo/exact) · [GitHub](https://github.com/expo/exact) |
 | [Pixeltable](https://openfree.tools/pixeltable) | Multimodal AI backend in one Python file | 1.7K | Apache-2.0 | [Website](https://docs.pixeltable.com/) · [GitHub](https://github.com/pixeltable/pixeltable) |
 | [Void](https://openfree.tools/void) | Build with Vite. Deploy with Void. | 0.3K | MIT | [Website](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
@@ -980,6 +985,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Checkmate](https://openfree.tools/checkmate) | Open-source self-hosted uptime monitoring | 11.1K | AGPL-3.0 | [Website](https://osp.fyi/checkmate) · [GitHub](https://github.com/bluewave-labs/Checkmate) |
+| [Homelable](https://openfree.tools/homelable) | Self-hosted homelab visualizer with live monitoring | 5.2K | MIT | [Website](https://osp.fyi/homelable) · [GitHub](https://github.com/Pouzor/homelable) |
 
 <a id="category-experiment-tracking-model-registry"></a>
 
@@ -1114,6 +1120,7 @@ No published projects yet.
 | [RuView](https://openfree.tools/ruview) | WiFi sensing for pose, vitals, and presence | 100.6K | MIT | [Website](https://github.com/ruvnet/RuView) · [GitHub](https://github.com/ruvnet/RuView) |
 | [WebLLM](https://openfree.tools/webllm) | High-performance in-browser LLM inference engine | 19.3K | Apache-2.0 | [Website](https://webllm.mlc.ai/) · [GitHub](https://github.com/mlc-ai/web-llm) |
 | [FreeToken](https://openfree.tools/freetoken) | Datacenter-scale MoE model serving on your desktop | 15.1K | Apache-2.0 | [Website](https://github.com/FlashML-org/FreeToken) · [GitHub](https://github.com/FlashML-org/FreeToken) |
+| [Splash](https://openfree.tools/splash) | A local inference engine for Apple silicon | 2.6K | Apache-2.0 | [Website](https://inco.ai/blog/splash/) · [GitHub](https://github.com/incoai/splash) |
 | [TensorFold](https://openfree.tools/tensorfold) | Native local LLM inference for Metal and CUDA. | 1.5K | Apache-2.0 | [Website](https://tensorfold.dev/) · [GitHub](https://github.com/ashhart/TensorFold) |
 
 <a id="category-security-privacy"></a>

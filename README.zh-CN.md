@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**422 个项目 · 83 个二级分类 · 每日同步**
+**429 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -145,6 +145,7 @@
 | [agentes.chat](https://openfree.tools/zh/agentes-chat) | 把 AI Agent 放进团队聊天 | 1.4K | AGPL-3.0 | [官网](https://agentes.chat/) · [GitHub](https://github.com/agentes-chat/agentes-chat) |
 | [AnyModelBot](https://openfree.tools/zh/anymodelbot) | 住在你电脑里的开源 AI 搭子，一个 Key 畅用主流模型 | 1.0K | MIT | [官网](https://anymodel.bot/) · [GitHub](https://github.com/modelflare-ai/AnyModelBot) |
 | [Ember](https://openfree.tools/zh/ember) | 开源团队聊天，部署在自己的 Cloudflare 账户 | 0.6K | MIT | [官网](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) · [GitHub](https://github.com/NYLLON-SOFTWARE/ember-cloudflare) |
+| [TalkTo](https://openfree.tools/zh/talkto) | 面向 AI 代理的消息板 | 0.0K | Apache-2.0 | [官网](http://talkto.sh/) · [GitHub](https://github.com/plannotator/talkto) |
 
 <a id="category-personal-desktop-assistants"></a>
 
@@ -160,6 +161,7 @@
 | [claude-desktop-debian](https://openfree.tools/zh/claude-desktop-debian) | 面向 Linux 的非官方 Claude Desktop 打包 | 5.5K | Apache-2.0 | [官网](https://github.com/aaddrick/claude-desktop-debian) · [GitHub](https://github.com/aaddrick/claude-desktop-debian) |
 | [CrossDesk](https://openfree.tools/zh/crossdesk) | 免费、轻量的开源跨平台远程桌面软件 | 4.5K | GPL-3.0 | [官网](https://www.crossdesk.cn/) · [GitHub](https://github.com/kunkundi/crossdesk) |
 | [EAC-Desktop](https://openfree.tools/zh/eac-desktop) | 基于 DeepSeek Harness 的开源桌面工作台 | 3.1K | MIT | [官网](https://osp.fyi/eac-desktop) · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) |
+| [Lastbook](https://openfree.tools/zh/lastbook) | 离线知识、AI、地图与视频 | 2.8K | MIT | [官网](https://github.com/Immortal-Protocols/lastbook) · [GitHub](https://github.com/Immortal-Protocols/lastbook) |
 | [Yuvomi](https://openfree.tools/zh/yuvomi) | 自托管家庭规划工具 | 2.4K | MIT | [官网](https://osp.fyi/yuvomi) · [GitHub](https://github.com/ulsklyc/yuvomi) |
 | [PromptHub](https://openfree.tools/zh/prompthub) | 本地优先的 AI 资产与智能体工作台 | 1.7K | AGPL-3.0 | [官网](https://prompthub.click/) · [GitHub](https://github.com/legeling/PromptHub) |
 | [Amical](https://openfree.tools/zh/amical) | 开源 AI 听写，支持 Mac、Windows、iOS 与 Android | 1.5K | MIT | [官网](https://amical.ai/) · [GitHub](https://github.com/amicalhq/amical) |
@@ -305,6 +307,7 @@
 | --- | --- | ---: | --- | --- |
 | [Pascal Editor](https://openfree.tools/zh/pascal-editor) | 开源、本地优先的 3D 建筑编辑器 | 25.0K | MIT | [官网](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [腾讯混元3D](https://openfree.tools/zh/hunyuan3d) | 一站式3D内容AI创作平台 | 15.0K | Other | [官网](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| [OpenMVS](https://openfree.tools/zh/openmvs) | 从相机位姿与稀疏点云生成带纹理三维网格 | 4.2K | AGPL-3.0 | [官网](https://osp.fyi/openmvs) · [GitHub](https://github.com/cdcseacave/openMVS) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
 <a id="category-avatars-digital-humans"></a>
@@ -786,6 +789,7 @@
 | [vLLM](https://openfree.tools/zh/vllm) | 面向所有人，简单、快速且经济高效的 LLM 服务。 | 94.2K | Apache-2.0 | [官网](https://vllm.ai/) · [GitHub](https://github.com/vllm-project/vllm) |
 | [DwarfStar](https://openfree.tools/zh/dwarfstar) | 面向消费级硬件的精选大模型本地推理引擎 | 24.0K | MIT | [官网](https://github.com/antirez/ds4) · [GitHub](https://github.com/antirez/ds4) |
 | [DeepInfer](https://openfree.tools/zh/deepinfer) | 面向 DeepSeek 模型的高性能大规模推理框架 | 7.9K | Apache-2.0 | [官网](https://github.com/deepseek-ai/DeepInfer) · [GitHub](https://github.com/deepseek-ai/DeepInfer) |
+| [TrnRT](https://openfree.tools/zh/trnrt) | AWS Trainium 上的开放 LLM 推理引擎 | 1.6K | Apache-2.0 | [官网](https://osp.fyi/trnrt) · [GitHub](https://github.com/RunanywhereAI/trnrt) |
 
 <a id="category-quantization-acceleration"></a>
 
@@ -809,6 +813,7 @@
 | [FastMCP](https://openfree.tools/zh/fastmcp) | 构建 MCP 服务器、客户端与交互式应用的标准框架 | 28.3K | Apache-2.0 | [官网](https://gofastmcp.com/) · [GitHub](https://github.com/PrefectHQ/fastmcp) |
 | [GDevelop](https://openfree.tools/zh/gdevelop) | 开源无代码游戏引擎，支持2D、3D和多人游戏 | 27.6K | Other | [官网](https://github.com/4ian/GDevelop) · [GitHub](https://github.com/4ian/GDevelop) |
 | [EmDash](https://openfree.tools/zh/emdash) | 面向人类与智能体的开源 Astro CMS | 13.8K | MIT | [官网](https://github.com/emdash-cms/emdash) · [GitHub](https://github.com/emdash-cms/emdash) |
+| [FlowGram.AI](https://openfree.tools/zh/flowgram-ai) | 工作流开发框架 | 8.5K | MIT | [官网](https://flowgram.ai/) · [GitHub](https://github.com/bytedance/flowgram.ai) |
 | [Exact](https://openfree.tools/zh/exact) | 一次编写，跨平台原生运行，可由 AI 智能体测试 | 4.2K | MIT | [官网](https://github.com/expo/exact) · [GitHub](https://github.com/expo/exact) |
 | [Pixeltable](https://openfree.tools/zh/pixeltable) | 多模态 AI 后端集中在一个 Python 文件 | 1.7K | Apache-2.0 | [官网](https://docs.pixeltable.com/) · [GitHub](https://github.com/pixeltable/pixeltable) |
 | [Void](https://openfree.tools/zh/void) | 用 Vite 构建，用 Void 部署。 | 0.3K | MIT | [官网](https://github.com/voidzero-dev/void) · [GitHub](https://github.com/voidzero-dev/void) |
@@ -979,6 +984,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Checkmate](https://openfree.tools/zh/checkmate) | 开源自托管可用性与基础设施监控 | 11.1K | AGPL-3.0 | [官网](https://osp.fyi/checkmate) · [GitHub](https://github.com/bluewave-labs/Checkmate) |
+| [Homelable](https://openfree.tools/zh/homelable) | 自托管的家庭实验室可视化与实时监控 | 5.2K | MIT | [官网](https://osp.fyi/homelable) · [GitHub](https://github.com/Pouzor/homelable) |
 
 <a id="category-experiment-tracking-model-registry"></a>
 
@@ -1113,6 +1119,7 @@
 | [RuView](https://openfree.tools/zh/ruview) | 用 WiFi 感知姿态、生命体征与在场状态 | 100.6K | MIT | [官网](https://github.com/ruvnet/RuView) · [GitHub](https://github.com/ruvnet/RuView) |
 | [WebLLM](https://openfree.tools/zh/webllm) | 高性能浏览器内大语言模型推理引擎 | 19.3K | Apache-2.0 | [官网](https://webllm.mlc.ai/) · [GitHub](https://github.com/mlc-ai/web-llm) |
 | [FreeToken](https://openfree.tools/zh/freetoken) | 在桌面端提供数据中心级 MoE 模型服务 | 15.1K | Apache-2.0 | [官网](https://github.com/FlashML-org/FreeToken) · [GitHub](https://github.com/FlashML-org/FreeToken) |
+| [Splash](https://openfree.tools/zh/splash) | 面向 Apple 芯片、围绕模型构建的本地推理引擎 | 2.6K | Apache-2.0 | [官网](https://inco.ai/blog/splash/) · [GitHub](https://github.com/incoai/splash) |
 | [TensorFold](https://openfree.tools/zh/tensorfold) | 面向 Metal 与 CUDA 的原生本地 LLM 推理 | 1.5K | Apache-2.0 | [官网](https://tensorfold.dev/) · [GitHub](https://github.com/ashhart/TensorFold) |
 
 <a id="category-security-privacy"></a>
