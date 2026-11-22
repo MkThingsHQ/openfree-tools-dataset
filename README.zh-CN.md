@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**429 个项目 · 83 个二级分类 · 每日同步**
+**435 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -217,6 +217,7 @@
 | [WordCraft](https://openfree.tools/zh/wordcraft) | 用纯 Rust 重构的快速开源文字处理器 | 13.8K | Apache-2.0 | [官网](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [文译（Wenyi）](https://openfree.tools/zh/wenyi) | 以整本书的上下文，把文学作品带到你的语言中。 | 2.8K | MIT | [官网](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/zh/dossier) | 求职全程，运行在你自己的服务器上 | 2.0K | AGPL-3.0 | [官网](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
+| [VibeOffice](https://openfree.tools/zh/vibeoffice) | 免费的浏览器办公套件，支持 .docx、.xlsx 和 .pptx 文件 | 1.4K | Apache-2.0 | [官网](https://vibeoffice.work/) · [GitHub](https://github.com/tcchen2026/VibeOffice) |
 | [quiet.md](https://openfree.tools/zh/quiet-md) | 快速、安静的本地笔记 | 0.2K | MIT | [官网](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
@@ -226,6 +227,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [Floccus](https://openfree.tools/zh/floccus) | 在浏览器和设备间私密同步书签 | 8.7K | MPL-2.0 | [官网](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Raven](https://openfree.tools/zh/raven-2) | 你的应用认得出的 Windows。 | 1.1K | Other | [官网](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
@@ -340,6 +342,7 @@
 | [HumanLayer](https://openfree.tools/zh/humanlayer) | 多人在线编码智能体 IDE 与云端 | 12.3K | Apache-2.0 | [官网](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Plannotator](https://openfree.tools/zh/plannotator) | 为智能体提供计划与代码评审 | 10.3K | Apache-2.0 | [官网](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
 | [Kimi Code](https://openfree.tools/zh/kimi-code) | 面向开发者的智能编程服务，覆盖桌面端、CLI 与 VS Code | 8.0K | MIT | [官网](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
+| [Pyrefly](https://openfree.tools/zh/pyrefly) | 快速 Python 类型检查器与语言服务器 | 7.2K | MIT | [官网](https://osp.fyi/pyrefly) · [GitHub](https://github.com/pyrefly-org/pyrefly) |
 | [CC Workflow Studio](https://openfree.tools/zh/cc-workflow-studio) | 面向 AI 编程代理的可视化工作流编辑器 | 5.4K | Other | [官网](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/zh/portal-ai-plugins) | 为 AI 编码代理提供 Portal 工作流 | 2.9K | Apache-2.0 | [官网](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [Floorplan](https://openfree.tools/zh/floorplan) | 看清你的应用究竟如何组合在一起。 | 2.9K | MIT | [官网](https://github.com/haydenschmitty/floorplan) · [GitHub](https://github.com/haydenschmitty/floorplan) |
@@ -681,6 +684,7 @@
 | [Moli](https://openfree.tools/zh/moli) | 面向 AI 智能体的开源无头浏览器 | 20.6K | Apache-2.0 | [官网](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/zh/openshell) | 面向自主 AI 智能体的安全、私密运行时 | 17.7K | Apache-2.0 | [官网](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [AX](https://openfree.tools/zh/ax) | 面向规模化智能体工作负载的声明式编排 | 14.4K | Apache-2.0 | [官网](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
+| [Agent Substrate](https://openfree.tools/zh/agent-substrate) | 面向 Kubernetes 的大规模智能体零信任沙箱运行时 | 8.1K | Apache-2.0 | [官网](https://osp.fyi/substrate) · [GitHub](https://github.com/agent-substrate/substrate) |
 | [HarnessRouter](https://openfree.tools/zh/harnessrouter) | 智能体运行框架的统一接口 | 2.7K | Apache-2.0 | [官网](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/zh/lcu) | 把 Codex 计算机使用能力从 Codex 应用解耦 | 1.2K | MIT | [官网](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [vork](https://openfree.tools/zh/vork) | 为智能体打造的无头 3D 与 VFX 引擎 | 1.0K | Other | [官网](https://voyager.so/vork) · [GitHub](https://github.com/voyager-so/vork) |
@@ -1018,6 +1022,7 @@
 | [Scientific Agent Skills](https://openfree.tools/zh/scientific-agent-skills) | 面向科研 AI 智能体的科学流程知识库 | 51.8K | MIT | [官网](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/zh/rerun) | 面向物理 AI 的数据层，覆盖从采集到训练 | 11.6K | Apache-2.0 | [官网](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [同花顺金融数据](https://openfree.tools/zh/listing) | 灵活接入，金融数据能力已内置 | 4.3K | MIT | [官网](https://fuyao.aicubes.cn/) · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) |
+| [Graphic Walker](https://openfree.tools/zh/graphic-walker) | 可嵌入React应用的拖拽式数据探索组件 | 3.3K | Apache-2.0 | [官网](https://osp.fyi/graphic-walker) · [GitHub](https://github.com/Kanaries/graphic-walker) |
 | [Auto Ontology](https://openfree.tools/zh/auto-ontology) | 面向可信智能体分析的语义图推理层 | 3.0K | Apache-2.0 | [官网](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/zh/datagen) | AI 驱动的多智能体研究助手 | 1.8K | MIT | [官网](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/zh/minilytics) | 面向独立开发者的收入优先网站分析 | 0.3K | MIT | [官网](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
@@ -1049,6 +1054,7 @@
 | [OpenStock](https://openfree.tools/zh/openstock) | 行情数据，无需付费墙。 | 20.6K | AGPL-3.0 | [官网](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 | [Sure](https://openfree.tools/zh/sure) | 面向所有人、由社区共同打造的个人财务应用 | 15.5K | AGPL-3.0 | [官网](https://sure.am/) · [GitHub](https://github.com/we-promise/sure) |
 | [NOFX](https://openfree.tools/zh/nofx) | AI 提议交易，你批准或启用 Autopilot | 13.2K | AGPL-3.0 | [官网](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
+| [Wealthfolio](https://openfree.tools/zh/wealthfolio) | 隐私优先的开源个人财务追踪工具 | 9.7K | AGPL-3.0 | [官网](https://wealthfolio.app/) · [GitHub](https://github.com/wealthfolio/wealthfolio) |
 
 <a id="category-legal-compliance"></a>
 

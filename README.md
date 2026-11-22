@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**429 projects · 83 subcategories · Synced daily**
+**435 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -218,6 +218,7 @@ No published projects yet.
 | [WordCraft](https://openfree.tools/wordcraft) | Fast, open-source word processing, rebuilt in pure Rust. | 13.8K | Apache-2.0 | [Website](https://github.com/storytold/wordcraft) · [GitHub](https://github.com/storytold/wordcraft) |
 | [Wenyi](https://openfree.tools/wenyi) | Bring literature into your language with whole-book context. | 2.8K | MIT | [Website](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/dossier) | Your job search, on your own server. | 2.0K | AGPL-3.0 | [Website](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
+| [VibeOffice](https://openfree.tools/vibeoffice) | Free browser office suite for .docx, .xlsx and .pptx files | 1.4K | Apache-2.0 | [Website](https://vibeoffice.work/) · [GitHub](https://github.com/tcchen2026/VibeOffice) |
 | [quiet.md](https://openfree.tools/quiet-md) | Fast, quiet local notes | 0.2K | MIT | [Website](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
@@ -227,6 +228,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [Floccus](https://openfree.tools/floccus) | Sync your bookmarks privately across browsers and devices | 8.7K | MPL-2.0 | [Website](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Raven](https://openfree.tools/raven-2) | A Windows your apps recognize. | 1.1K | Other | [Website](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
@@ -341,6 +343,7 @@ No published projects yet.
 | [HumanLayer](https://openfree.tools/humanlayer) | Multiplayer coding agent IDE and cloud | 12.3K | Apache-2.0 | [Website](https://humanlayer.dev/code) · [GitHub](https://github.com/humanlayer/humanlayer) |
 | [Plannotator](https://openfree.tools/plannotator) | Plan and code review for your agents. | 10.3K | Apache-2.0 | [Website](https://plannotator.ai/) · [GitHub](https://github.com/backnotprop/plannotator) |
 | [Kimi Code](https://openfree.tools/kimi-code) | Developer AI coding across desktop, CLI, and VS Code | 8.0K | MIT | [Website](https://www.kimi.com/code/docs/) · [GitHub](https://github.com/MoonshotAI/kimi-code) |
+| [Pyrefly](https://openfree.tools/pyrefly) | A fast Python type checker and language server | 7.2K | MIT | [Website](https://osp.fyi/pyrefly) · [GitHub](https://github.com/pyrefly-org/pyrefly) |
 | [CC Workflow Studio](https://openfree.tools/cc-workflow-studio) | Visual workflow editor for AI coding agents | 5.4K | Other | [Website](https://open-vsx.org/extension/breaking-brake/cc-wf-studio) · [GitHub](https://github.com/breaking-brake/cc-wf-studio) |
 | [Spotify Portal AI Plugins](https://openfree.tools/portal-ai-plugins) | Portal workflows for AI coding agents | 2.9K | Apache-2.0 | [Website](https://github.com/spotify/portal-ai-plugins) · [GitHub](https://github.com/spotify/portal-ai-plugins) |
 | [Floorplan](https://openfree.tools/floorplan) | See how your app actually fits together. | 2.9K | MIT | [Website](https://github.com/haydenschmitty/floorplan) · [GitHub](https://github.com/haydenschmitty/floorplan) |
@@ -682,6 +685,7 @@ No published projects yet.
 | [Moli](https://openfree.tools/moli) | Open-source headless browser for AI agents | 20.6K | Apache-2.0 | [Website](https://browser.lexmount.com/) · [GitHub](https://github.com/lexmount/moli) |
 | [OpenShell](https://openfree.tools/openshell) | Safe, private runtime for autonomous AI agents. | 17.7K | Apache-2.0 | [Website](https://docs.nvidia.com/openshell/latest/) · [GitHub](https://github.com/NVIDIA/OpenShell) |
 | [AX](https://openfree.tools/ax) | Declarative orchestration for agentic workloads at scale | 14.4K | Apache-2.0 | [Website](https://agentexecutor.io/) · [GitHub](https://github.com/google/ax) |
+| [Agent Substrate](https://openfree.tools/agent-substrate) | Zero-trust sandboxing for millions of agents on Kubernetes. | 8.1K | Apache-2.0 | [Website](https://osp.fyi/substrate) · [GitHub](https://github.com/agent-substrate/substrate) |
 | [HarnessRouter](https://openfree.tools/harnessrouter) | The unified interface for agent harnesses. | 2.7K | Apache-2.0 | [Website](https://harnessrouter.ai/) · [GitHub](https://github.com/HarnessRouter/harnessrouter) |
 | [LCU](https://openfree.tools/lcu) | Codex computer use, decoupled from the Codex app. | 1.2K | MIT | [Website](https://github.com/amontlabs/lcu) · [GitHub](https://github.com/amontlabs/lcu) |
 | [vork](https://openfree.tools/vork) | Headless 3D and VFX engine built for agents | 1.0K | Other | [Website](https://voyager.so/vork) · [GitHub](https://github.com/voyager-so/vork) |
@@ -1019,6 +1023,7 @@ No published projects yet.
 | [Scientific Agent Skills](https://openfree.tools/scientific-agent-skills) | Procedural knowledge library for scientific AI agents | 51.8K | MIT | [Website](https://github.com/K-Dense-AI/scientific-agent-skills) · [GitHub](https://github.com/K-Dense-AI/scientific-agent-skills) |
 | [Rerun](https://openfree.tools/rerun) | The data layer for physical AI. From collection to training. | 11.6K | Apache-2.0 | [Website](https://github.com/rerun-io/rerun) · [GitHub](https://github.com/rerun-io/rerun) |
 | [同花顺金融数据](https://openfree.tools/listing) | Flexible access with built-in financial data capabilities | 4.3K | MIT | [Website](https://fuyao.aicubes.cn/) · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) |
+| [Graphic Walker](https://openfree.tools/graphic-walker) | Embeddable React visual analytics for data exploration | 3.3K | Apache-2.0 | [Website](https://osp.fyi/graphic-walker) · [GitHub](https://github.com/Kanaries/graphic-walker) |
 | [Auto Ontology](https://openfree.tools/auto-ontology) | Semantic graph reasoning layer for trusted agent analytics | 3.0K | Apache-2.0 | [Website](https://github.com/NVIDIA/auto-ontology) · [GitHub](https://github.com/NVIDIA/auto-ontology) |
 | [DATAGEN](https://openfree.tools/datagen) | AI-driven multi-agent research assistant | 1.8K | MIT | [Website](https://github.com/zi-yue-1129/DATAGEN) · [GitHub](https://github.com/zi-yue-1129/DATAGEN) |
 | [Minilytics](https://openfree.tools/minilytics) | Revenue-first web analytics for indie founders | 0.3K | MIT | [Website](https://github.com/surendrapandar/minilytics) · [GitHub](https://github.com/surendrapandar/minilytics) |
@@ -1050,6 +1055,7 @@ No published projects yet.
 | [OpenStock](https://openfree.tools/openstock) | Markets, minus the paywall. | 20.6K | AGPL-3.0 | [Website](https://openstock-ods.vercel.app/) · [GitHub](https://github.com/Open-Dev-Society/OpenStock) |
 | [Sure](https://openfree.tools/sure) | The personal finance app for everyone | 15.5K | AGPL-3.0 | [Website](https://sure.am/) · [GitHub](https://github.com/we-promise/sure) |
 | [NOFX](https://openfree.tools/nofx) | AI proposes trades; you approve or run Autopilot | 13.2K | AGPL-3.0 | [Website](https://osp.fyi/nofx) · [GitHub](https://github.com/NoFxAiOS/nofx) |
+| [Wealthfolio](https://openfree.tools/wealthfolio) | Private, open-source personal finance tracking. | 9.7K | AGPL-3.0 | [Website](https://wealthfolio.app/) · [GitHub](https://github.com/wealthfolio/wealthfolio) |
 
 <a id="category-legal-compliance"></a>
 
