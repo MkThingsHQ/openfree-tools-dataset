@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**435 个项目 · 83 个二级分类 · 每日同步**
+**444 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -218,6 +218,7 @@
 | [文译（Wenyi）](https://openfree.tools/zh/wenyi) | 以整本书的上下文，把文学作品带到你的语言中。 | 2.8K | MIT | [官网](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/zh/dossier) | 求职全程，运行在你自己的服务器上 | 2.0K | AGPL-3.0 | [官网](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
 | [VibeOffice](https://openfree.tools/zh/vibeoffice) | 免费的浏览器办公套件，支持 .docx、.xlsx 和 .pptx 文件 | 1.4K | Apache-2.0 | [官网](https://vibeoffice.work/) · [GitHub](https://github.com/tcchen2026/VibeOffice) |
+| [EdenText](https://openfree.tools/zh/edentext) | 在浏览器中打开和保存 .odt 与 .docx 的文字处理器 | 0.7K | AGPL-3.0 | [官网](https://osp.fyi/edentext) · [GitHub](https://github.com/stffnb/edentext) |
 | [quiet.md](https://openfree.tools/zh/quiet-md) | 快速、安静的本地笔记 | 0.2K | MIT | [官网](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
@@ -269,9 +270,11 @@
 | --- | --- | ---: | --- | --- |
 | [HyperFrames](https://openfree.tools/zh/hyperframes) | 为智能体打造的视频编辑器：编写 HTML、渲染视频 | 59.2K | Apache-2.0 | [官网](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [brag](https://openfree.tools/zh/brag) | 一条命令把项目变成 20 秒发布短片 | 18.5K | MIT | [官网](https://latent-spaces.github.io/brag/) · [GitHub](https://github.com/latent-spaces/brag) |
+| [OpenMotion](https://openfree.tools/zh/openmotion) | 用你的智能体与品牌素材重建参考视频 | 15.6K | Apache-2.0 | [官网](https://osp.fyi/openmotion) · [GitHub](https://github.com/nexu-io/openmotion) |
 | [OpenFilm](https://openfree.tools/zh/openfilm) | 开源的 AI 视频代理 | 6.1K | MIT | [官网](https://openfilm.dev/) · [GitHub](https://github.com/openfilm/openfilm) |
 | [短视频工厂](https://openfree.tools/zh/ai-short-video-factory) | 多创作，少剪辑。 | 5.8K | AGPL-3.0 | [官网](https://short-video-factory.yils.blog/) · [GitHub](https://github.com/YILS-LIN/short-video-factory) |
 | [LemoOpuscar](https://openfree.tools/zh/lemo-opuscar) | 可复用风格提示词与纯代码短片 | 5.0K | MIT | [官网](https://github.com/lemomo-ai/lemo-opuscar) · [GitHub](https://github.com/lemomo-ai/lemo-opuscar) |
+| [FreeVideo](https://openfree.tools/zh/freevideo) | 在你已有的电脑上制作视频 | 4.7K | Apache-2.0 | [官网](https://osp.fyi/freevideo) · [GitHub](https://github.com/FlashML-org/FreeVideo) |
 
 <a id="category-video-editing-animation"></a>
 
@@ -282,6 +285,8 @@
 | [Recordly](https://openfree.tools/zh/recordly) | 开源屏幕录制与编辑工具，制作精美演示 | 33.9K | Other | [官网](https://github.com/webadderallorg/Recordly) · [GitHub](https://github.com/webadderallorg/Recordly) |
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Concat](https://openfree.tools/zh/concat) | 免费开源的 CapCut 替代方案 | 10.9K | AGPL-3.0 | [官网](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
+| [raea](https://openfree.tools/zh/raea) | 用 AI 写 React 与 TypeScript，在本地 GPU 渲染视频、动态图形、3D 和游戏 | 4.5K | Other | [官网](https://raea.io/) · [GitHub](https://github.com/shinyobjectz/raea) |
+| [RGB MoCap](https://openfree.tools/zh/rgb-mocap) | 本地 AI 将普通视频转为可编辑人体动画 | 3.1K | Other | [官网](https://osp.fyi/toyxyz-rgbmocap) · [GitHub](https://github.com/toyxyz/toyxyz_RGBMocap) |
 | [ManimGX](https://openfree.tools/zh/manimgx) | 面向智能体的极速 3D 动画引擎 | 2.1K | MIT | [官网](https://manimgx.academa.ai/) · [GitHub](https://github.com/academa-labs/manimgx) |
 | [CorridorKey 2.0](https://openfree.tools/zh/corridorkey-2-0) | 一键完成绿幕与蓝幕抠像 | 1.1K | Other | [官网](https://corridorkey.com/) · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) |
 
@@ -368,6 +373,7 @@
 | [Open Code Review](https://openfree.tools/zh/open-code-review) | 行级精准的 AI 代码审查命令行工具 | 47.5K | Apache-2.0 | [官网](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/zh/codewhale) | 支持任意模型的开源编码智能体 | 41.1K | MIT | [官网](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
 | [AI Website Cloner Template](https://openfree.tools/zh/ai-website-cloner-template) | 用一条命令让 AI 编码代理克隆任意网站 | 37.3K | MIT | [官网](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
+| [DSH Go](https://openfree.tools/zh/dsh-go) | 把 DeepSeek Harness 装进口袋的手机应用 | 30.5K | AGPL-3.0 | [官网](https://osp.fyi/dsh-go) · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) |
 | [Qwen Code](https://openfree.tools/zh/qwen-code) | 终端中的开源 AI 编码智能体 | 29.6K | Apache-2.0 | [官网](https://github.com/QwenLM/qwen-code) · [GitHub](https://github.com/QwenLM/qwen-code) |
 | [Grok Build](https://openfree.tools/zh/grok-build) | SpaceXAI 的编码代理框架与 TUI | 27.1K | Apache-2.0 | [官网](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/zh/happy) | Claude Code 与 Codex 的远程控制 | 23.9K | MIT | [官网](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
@@ -405,6 +411,7 @@
 | [Impeccable](https://openfree.tools/zh/impeccable) | 为编码代理补上设计词汇，告别 AI 味 | 96.5K | Apache-2.0 | [官网](https://impeccable.style/) · [GitHub](https://github.com/pbakaus/impeccable) |
 | [Hallmark](https://openfree.tools/zh/hallmark) | 面向 Claude Code、Cursor 和 Codex 的反套路设计技能。 | 30.6K | MIT | [官网](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/zh/openui) | 面向生成式 UI 的开放标准 | 11.4K | MIT | [官网](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
+| [M3E Canvas](https://openfree.tools/zh/m3e-canvas) | 在浏览器中绘制 Material 3 Expressive 界面并生成 AI 编程提示词 | 8.3K | MIT | [官网](https://lnkiai.github.io/m3e-canvas/) · [GitHub](https://github.com/lnkiai/m3e-canvas) |
 | [Open CoDesign](https://openfree.tools/zh/open-codesign) | 以意图驱动设计。 | 8.1K | MIT | [官网](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
 | [baoyu-design](https://openfree.tools/zh/baoyu-design) | 本地运行 Claude Design 的 Agent Skill | 4.7K | MIT | [官网](https://github.com/JimLiu/baoyu-design) · [GitHub](https://github.com/JimLiu/baoyu-design) |
 | [Anatomy](https://openfree.tools/zh/anatomy) | 面向 Claude Code 的实时等距机械图技能 | 1.5K | MIT | [官网](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
@@ -530,6 +537,7 @@
 | [Orkas](https://openfree.tools/zh/orkas) | 开源、本地优先的桌面 AI 团队 | 5.9K | MIT | [官网](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [SoduWork](https://openfree.tools/zh/soduwork) | 面向团队及其智能体的 AI 原生引擎，多执行框架、多智能体、可自托管 | 0.8K | MIT | [官网](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
+| [mobile-agent-testers](https://openfree.tools/zh/mobile-agent-testers) | GitHub Actions 上的并行 AI 移动测试员 | 0.5K | MIT | [官网](https://github.com/pierridotite/mobile-agent-testers) · [GitHub](https://github.com/pierridotite/mobile-agent-testers) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -1140,6 +1148,7 @@
 | --- | --- | ---: | --- | --- |
 | [Strix](https://openfree.tools/zh/strix) | 面向代码、API 与云端的自主 AI 渗透测试 | 70.3K | Apache-2.0 | [官网](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [Shannon](https://openfree.tools/zh/shannon) | 持续智能体渗透测试，验证真实漏洞利用 | 51.3K | AGPL-3.0 | [官网](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
+| [iFixAi](https://openfree.tools/zh/ifixai) | AI 智能体的独立审计层 | 46.9K | Apache-2.0 | [官网](https://osp.fyi/ifixai) · [GitHub](https://github.com/ifixai-ai/iFixAi) |
 | [Promptfoo](https://openfree.tools/zh/promptfoo) | 面向 LLM 应用的自动化测试与红队工具 | 26.1K | MIT | [官网](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/zh/skillspector) | 安装前扫描 AI 智能体技能的安全风险 | 21.8K | Apache-2.0 | [官网](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [Codex Security](https://openfree.tools/zh/codex-security) | 发现、验证并修复代码中的安全漏洞 | 11.4K | Apache-2.0 | [官网](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |

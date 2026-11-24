@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**435 projects · 83 subcategories · Synced daily**
+**444 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -219,6 +219,7 @@ No published projects yet.
 | [Wenyi](https://openfree.tools/wenyi) | Bring literature into your language with whole-book context. | 2.8K | MIT | [Website](https://github.com/BigDawnGhost/wenyi) · [GitHub](https://github.com/BigDawnGhost/wenyi) |
 | [Dossier](https://openfree.tools/dossier) | Your job search, on your own server. | 2.0K | AGPL-3.0 | [Website](https://dossier.aien.me/) · [GitHub](https://github.com/AienTech/dossier) |
 | [VibeOffice](https://openfree.tools/vibeoffice) | Free browser office suite for .docx, .xlsx and .pptx files | 1.4K | Apache-2.0 | [Website](https://vibeoffice.work/) · [GitHub](https://github.com/tcchen2026/VibeOffice) |
+| [EdenText](https://openfree.tools/edentext) | Browser-based word processor for .odt and .docx | 0.7K | AGPL-3.0 | [Website](https://osp.fyi/edentext) · [GitHub](https://github.com/stffnb/edentext) |
 | [quiet.md](https://openfree.tools/quiet-md) | Fast, quiet local notes | 0.2K | MIT | [Website](https://quiet.md/) · [GitHub](https://github.com/s1dashu/quiet-md) |
 
 <a id="category-system-device-utilities"></a>
@@ -270,9 +271,11 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [HyperFrames](https://openfree.tools/hyperframes) | Write HTML. Render video. Built for agents. | 59.2K | Apache-2.0 | [Website](https://hyperframes.dev/) · [GitHub](https://github.com/heygen-com/hyperframes) |
 | [brag](https://openfree.tools/brag) | Turn your project into a 20-second launch video | 18.5K | MIT | [Website](https://latent-spaces.github.io/brag/) · [GitHub](https://github.com/latent-spaces/brag) |
+| [OpenMotion](https://openfree.tools/openmotion) | Recreate reference videos with your own agent and brand kit | 15.6K | Apache-2.0 | [Website](https://osp.fyi/openmotion) · [GitHub](https://github.com/nexu-io/openmotion) |
 | [OpenFilm](https://openfree.tools/openfilm) | The open source AI video agent. | 6.1K | MIT | [Website](https://openfilm.dev/) · [GitHub](https://github.com/openfilm/openfilm) |
 | [AI Short Video Factory](https://openfree.tools/ai-short-video-factory) | Create more. Edit less. | 5.8K | AGPL-3.0 | [Website](https://short-video-factory.yils.blog/) · [GitHub](https://github.com/YILS-LIN/short-video-factory) |
 | [LemoOpuscar](https://openfree.tools/lemo-opuscar) | Reusable style prompts and code-made short films | 5.0K | MIT | [Website](https://github.com/lemomo-ai/lemo-opuscar) · [GitHub](https://github.com/lemomo-ai/lemo-opuscar) |
+| [FreeVideo](https://openfree.tools/freevideo) | Make videos on the computer you already own | 4.7K | Apache-2.0 | [Website](https://osp.fyi/freevideo) · [GitHub](https://github.com/FlashML-org/FreeVideo) |
 
 <a id="category-video-editing-animation"></a>
 
@@ -283,6 +286,8 @@ No published projects yet.
 | [Recordly](https://openfree.tools/recordly) | Open-source screen recorder for polished demos | 33.9K | Other | [Website](https://github.com/webadderallorg/Recordly) · [GitHub](https://github.com/webadderallorg/Recordly) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Concat](https://openfree.tools/concat) | The free, open-source CapCut replacement. | 10.9K | AGPL-3.0 | [Website](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
+| [raea](https://openfree.tools/raea) | Make video, motion graphics, 3D and games with AI | 4.5K | Other | [Website](https://raea.io/) · [GitHub](https://github.com/shinyobjectz/raea) |
+| [RGB MoCap](https://openfree.tools/rgb-mocap) | Turn video into editable human animation locally | 3.1K | Other | [Website](https://osp.fyi/toyxyz-rgbmocap) · [GitHub](https://github.com/toyxyz/toyxyz_RGBMocap) |
 | [ManimGX](https://openfree.tools/manimgx) | Blazingly fast 3D animation engine for agents | 2.1K | MIT | [Website](https://manimgx.academa.ai/) · [GitHub](https://github.com/academa-labs/manimgx) |
 | [CorridorKey 2.0](https://openfree.tools/corridorkey-2-0) | One-click chroma keying for green and blue screens | 1.1K | Other | [Website](https://corridorkey.com/) · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) |
 
@@ -369,6 +374,7 @@ No published projects yet.
 | [Open Code Review](https://openfree.tools/open-code-review) | AI code review agent with line-level precision | 47.5K | Apache-2.0 | [Website](https://github.com/alibaba/open-code-review) · [GitHub](https://github.com/alibaba/open-code-review) |
 | [Codewhale](https://openfree.tools/codewhale) | Open-source coding agent that works with any model. | 41.1K | MIT | [Website](https://github.com/codewhale-hq/Codewhale) · [GitHub](https://github.com/codewhale-hq/Codewhale) |
 | [AI Website Cloner Template](https://openfree.tools/ai-website-cloner-template) | Clone any website with one command using AI coding agents | 37.3K | MIT | [Website](https://dsc.gg/jcodesmore) · [GitHub](https://github.com/JCodesMore/ai-website-cloner-template) |
+| [DSH Go](https://openfree.tools/dsh-go) | DeepSeek Harness mobile companion for coding agents | 30.5K | AGPL-3.0 | [Website](https://osp.fyi/dsh-go) · [GitHub](https://github.com/ccch1mneyyy/dsh-Go) |
 | [Qwen Code](https://openfree.tools/qwen-code) | Open-source AI coding agent in your terminal | 29.6K | Apache-2.0 | [Website](https://github.com/QwenLM/qwen-code) · [GitHub](https://github.com/QwenLM/qwen-code) |
 | [Grok Build](https://openfree.tools/grok-build) | SpaceXAI's coding agent harness and TUI | 27.1K | Apache-2.0 | [Website](https://github.com/xai-org/grok-build) · [GitHub](https://github.com/xai-org/grok-build) |
 | [Happy](https://openfree.tools/happy) | Remote control for Claude Code and Codex | 23.9K | MIT | [Website](https://happy.engineering/) · [GitHub](https://github.com/slopus/happy) |
@@ -406,6 +412,7 @@ No published projects yet.
 | [Impeccable](https://openfree.tools/impeccable) | Turn AI slop into interfaces you're proud to ship | 96.5K | Apache-2.0 | [Website](https://impeccable.style/) · [GitHub](https://github.com/pbakaus/impeccable) |
 | [Hallmark](https://openfree.tools/hallmark) | Anti-AI-slop design skill for AI coding agents. | 30.6K | MIT | [Website](https://www.usehallmark.com/) · [GitHub](https://github.com/Nutlope/hallmark) |
 | [OpenUI](https://openfree.tools/openui) | Open Standard for Generative UI | 11.4K | MIT | [Website](https://github.com/thesysdev/openui) · [GitHub](https://github.com/thesysdev/openui) |
+| [M3E Canvas](https://openfree.tools/m3e-canvas) | Sketch Material 3 Expressive screens for AI coding. | 8.3K | MIT | [Website](https://lnkiai.github.io/m3e-canvas/) · [GitHub](https://github.com/lnkiai/m3e-canvas) |
 | [Open CoDesign](https://openfree.tools/open-codesign) | Design with intent. | 8.1K | MIT | [Website](https://opencoworkai.github.io/open-codesign/) · [GitHub](https://github.com/OpenCoworkAI/open-codesign) |
 | [baoyu-design](https://openfree.tools/baoyu-design) | Run Claude Design locally as an Agent Skill | 4.7K | MIT | [Website](https://github.com/JimLiu/baoyu-design) · [GitHub](https://github.com/JimLiu/baoyu-design) |
 | [Anatomy](https://openfree.tools/anatomy) | A Claude Code skill for live isometric machine figures | 1.5K | MIT | [Website](https://skills.wheresryan.sh/anatomy) · [GitHub](https://github.com/wheresryan22/anatomy) |
@@ -531,6 +538,7 @@ No published projects yet.
 | [Orkas](https://openfree.tools/orkas) | Open-source local-first AI team for your desktop | 5.9K | MIT | [Website](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [SoduWork](https://openfree.tools/soduwork) | The AI-native engine for teams and their agents | 0.8K | MIT | [Website](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
+| [mobile-agent-testers](https://openfree.tools/mobile-agent-testers) | Parallel AI mobile testers on GitHub Actions | 0.5K | MIT | [Website](https://github.com/pierridotite/mobile-agent-testers) · [GitHub](https://github.com/pierridotite/mobile-agent-testers) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
 <a id="category-agent-builders-studios"></a>
@@ -1141,6 +1149,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Strix](https://openfree.tools/strix) | Autonomous AI pentesting for code, APIs, and cloud | 70.3K | Apache-2.0 | [Website](https://strix.ai/) · [GitHub](https://github.com/usestrix/strix) |
 | [Shannon](https://openfree.tools/shannon) | Continuous agentic pentesting with proven exploits | 51.3K | AGPL-3.0 | [Website](https://keygraph.io/) · [GitHub](https://github.com/KeygraphHQ/shannon) |
+| [iFixAi](https://openfree.tools/ifixai) | Independent auditing for AI agents | 46.9K | Apache-2.0 | [Website](https://osp.fyi/ifixai) · [GitHub](https://github.com/ifixai-ai/iFixAi) |
 | [promptfoo](https://openfree.tools/promptfoo) | Automated testing and red teaming for LLM apps | 26.1K | MIT | [Website](https://github.com/promptfoo/promptfoo) · [GitHub](https://github.com/promptfoo/promptfoo) |
 | [SkillSpector](https://openfree.tools/skillspector) | Scan AI agent skills for security risks before installation | 21.8K | Apache-2.0 | [Website](https://github.com/NVIDIA/SkillSpector) · [GitHub](https://github.com/NVIDIA/SkillSpector) |
 | [Codex Security](https://openfree.tools/codex-security) | Find, validate, and fix security vulnerabilities in code | 11.4K | Apache-2.0 | [Website](https://github.com/openai/codex-security) · [GitHub](https://github.com/openai/codex-security) |
