@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**444 个项目 · 83 个二级分类 · 每日同步**
+**452 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -176,6 +176,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/zh/meetily) | 隐私优先的AI会议助手 | 31.1K | MIT | [官网](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
+| [Call.md](https://openfree.tools/zh/call-md) | 把会议变成实时智能体闭环 | 2.7K | — | [官网](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · [GitHub](https://github.com/video-db/call.md) |
 | [知了 Cicada](https://openfree.tools/zh/cicada) | 任何会议和直播的实时字幕、同声传译与 AI 会议纪要 | 1.6K | Apache-2.0 | [官网](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
 | [Yogurt](https://openfree.tools/zh/yogurt) | 私有 AI 会议笔记，免费开源 | 1.1K | MIT | [官网](https://yogurt.so/) · [GitHub](https://github.com/FrigadeHQ/yogurt) |
 
@@ -191,6 +192,7 @@
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [VidBee](https://openfree.tools/zh/vidbee) | 下载视频并在本机生成可搜索的转录文本。 | 10.8K | MIT | [官网](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [Hex](https://openfree.tools/zh/hex) | 说话，它便出现。 | 2.7K | MIT | [官网](https://github.com/anomalyco/hex) · [GitHub](https://github.com/anomalyco/hex) |
+| [NeonClipping](https://openfree.tools/zh/neonclipping) | 粘贴链接，约 2 分钟获得带字幕的 9:16 片段 | 2.4K | MIT | [官网](https://github.com/iamajmeena/neonclipping) · [GitHub](https://github.com/iamajmeena/neonclipping) |
 | [Transub Player](https://openfree.tools/zh/transub-player) | 打开视频，字幕随后跟上。 | 1.2K | — | [官网](https://www.transub.cc/) · [GitHub](https://github.com/dlsandy/Transub-Player) |
 
 <a id="category-search-answer-engines"></a>
@@ -229,6 +231,7 @@
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 | [Floccus](https://openfree.tools/zh/floccus) | 在浏览器和设备间私密同步书签 | 8.7K | MPL-2.0 | [官网](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
+| [xnulinux](https://openfree.tools/zh/xnulinux) | 在 arm64 Linux 上无需虚拟机管理程序运行 macOS 桌面 | 3.4K | Other | [官网](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Raven](https://openfree.tools/zh/raven-2) | 你的应用认得出的 Windows。 | 1.1K | Other | [官网](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
@@ -548,6 +551,7 @@
 | --- | --- | ---: | --- | --- |
 | [OpenMontage](https://openfree.tools/zh/openmontage) | 开源、智能体驱动的视频制作系统 | 61.5K | AGPL-3.0 | [官网](https://www.openmontage.video/) · [GitHub](https://github.com/calesthio/OpenMontage) |
 | [Omnara](https://openfree.tools/zh/omnara) | 开源托管式智能体平台 | 3.2K | Apache-2.0 | [官网](https://www.omnara.com/) · [GitHub](https://github.com/omnara-ai/omnara) |
+| [OpenComputer](https://openfree.tools/zh/opencomputer) | 面向长期运行智能体的平台。 | 0.6K | Apache-2.0 | [官网](https://opencomputer.dev/) · [GitHub](https://github.com/diggerhq/opencomputer) |
 
 <a id="category-browser-agents"></a>
 
@@ -577,6 +581,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Apprise](https://openfree.tools/zh/apprise) | 一个通知库，覆盖几乎主流服务 | 17.8K | BSD-2-Clause | [官网](https://osp.fyi/apprise) · [GitHub](https://github.com/caronc/apprise) |
 | [Worktrunk](https://openfree.tools/zh/worktrunk) | 让 Git worktree 像分支一样简单，服务并行 AI 代理 | 9.3K | Other | [官网](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
 | [Filee](https://openfree.tools/zh/filee) | 拖拽，放下，转换完成。 | 8.6K | MIT | [官网](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 | [Agent Autoloop](https://openfree.tools/zh/agent-autoloop) | 让命令行 Agent 在后台自己接活、跟进到底 | 3.0K | MIT | [官网](https://github.com/KKKKhazix/agent-autoloop) · [GitHub](https://github.com/KKKKhazix/agent-autoloop) |
@@ -634,6 +639,7 @@
 | [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/zh/pipeshub) | 面向 AI 智能体的开源、权限感知上下文层 | 4.0K | Apache-2.0 | [官网](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
+| [fast-anything](https://openfree.tools/zh/fast-anything) | 无需重写整个应用，只把慢的那 5% 换成 Rust。 | 3.6K | MIT | [官网](https://osp.fyi/fast-anything) · [GitHub](https://github.com/EL4CTEO/fast-anything) |
 | [Mailflare](https://openfree.tools/zh/mailflare) | 面向个人与团队的专业邮箱 | 3.6K | AGPL-3.0 | [官网](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/zh/agent-toolkit-for-aws) | AWS 官方支持的 MCP 服务器、技能与插件，助力 AI 编码代理 | 3.0K | Apache-2.0 | [官网](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/zh/open-computer-use) | 以 MCP 封装的开源 Computer Use 服务 | 2.6K | MIT | [官网](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
@@ -909,6 +915,7 @@
 
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
+| [Nogon](https://openfree.tools/zh/nogon) | 你自己的搜索引擎 | 6.4K | AGPL-3.0 | [官网](https://osp.fyi/nogon) · [GitHub](https://github.com/asciimoo/nogon) |
 | [WaterCrawl](https://openfree.tools/zh/watercrawl) | 开源自托管网页抓取与搜索引擎 | 2.2K | Other | [官网](https://osp.fyi/watercrawl) · [GitHub](https://github.com/watercrawl/WaterCrawl) |
 
 <a id="category-document-parsing-ocr"></a>
@@ -964,6 +971,7 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [Unsloth](https://openfree.tools/zh/unsloth) | 开源框架，用于在本地运行和训练LLM | 76.8K | Apache-2.0 | [官网](https://unsloth.ai/docs) · [GitHub](https://github.com/unslothai/unsloth) |
+| [SuperMimic](https://openfree.tools/zh/supermimic) | 用单一可微世界模型训练人形全身控制 | 2.0K | Apache-2.0 | [官网](https://supermimic.github.io/) · [GitHub](https://github.com/HybridRobotics/supermimic) |
 | [Overmind](https://openfree.tools/zh/overmind) | 面向专用智能体的训练平台 | 0.7K | AGPL-3.0 | [官网](https://overmindlab.ai/) · [GitHub](https://github.com/overmind-core/overmind) |
 
 <a id="category-distributed-training"></a>

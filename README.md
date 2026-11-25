@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**444 projects · 83 subcategories · Synced daily**
+**452 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -177,6 +177,7 @@ No sponsors yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Meetily](https://openfree.tools/meetily) | Privacy-first AI meeting assistant | 31.1K | MIT | [Website](https://meetily.ai/) · [GitHub](https://github.com/Zackriya-Solutions/meetily) |
+| [Call.md](https://openfree.tools/call-md) | Turn meetings into live agent loops | 2.7K | — | [Website](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · [GitHub](https://github.com/video-db/call.md) |
 | [Cicada](https://openfree.tools/cicada) | Live subtitles, interpreting and AI notes anywhere | 1.6K | Apache-2.0 | [Website](https://cicada.indaloop.app/) · [GitHub](https://github.com/wquguru/cicada) |
 | [Yogurt](https://openfree.tools/yogurt) | Private AI meeting notes, free and open source | 1.1K | MIT | [Website](https://yogurt.so/) · [GitHub](https://github.com/FrigadeHQ/yogurt) |
 
@@ -192,6 +193,7 @@ No sponsors yet.
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [VidBee](https://openfree.tools/vidbee) | Download videos and create searchable transcripts locally. | 10.8K | MIT | [Website](https://vidbee.org/) · [GitHub](https://github.com/nexmoe/VidBee) |
 | [Hex](https://openfree.tools/hex) | Speak. It appears. | 2.7K | MIT | [Website](https://github.com/anomalyco/hex) · [GitHub](https://github.com/anomalyco/hex) |
+| [NeonClipping](https://openfree.tools/neonclipping) | Paste a link, get captioned 9:16 clips in ~2 min | 2.4K | MIT | [Website](https://github.com/iamajmeena/neonclipping) · [GitHub](https://github.com/iamajmeena/neonclipping) |
 | [Transub Player](https://openfree.tools/transub-player) | Open a video. Subtitles follow. | 1.2K | — | [Website](https://www.transub.cc/) · [GitHub](https://github.com/dlsandy/Transub-Player) |
 
 <a id="category-search-answer-engines"></a>
@@ -230,6 +232,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
 | [Floccus](https://openfree.tools/floccus) | Sync your bookmarks privately across browsers and devices | 8.7K | MPL-2.0 | [Website](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
+| [xnulinux](https://openfree.tools/xnulinux) | Run macOS userspace on Linux without a hypervisor | 3.4K | Other | [Website](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Raven](https://openfree.tools/raven-2) | A Windows your apps recognize. | 1.1K | Other | [Website](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
@@ -549,6 +552,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [OpenMontage](https://openfree.tools/openmontage) | The open-source, agentic video production system | 61.5K | AGPL-3.0 | [Website](https://www.openmontage.video/) · [GitHub](https://github.com/calesthio/OpenMontage) |
 | [Omnara](https://openfree.tools/omnara) | Open-source managed agent platform | 3.2K | Apache-2.0 | [Website](https://www.omnara.com/) · [GitHub](https://github.com/omnara-ai/omnara) |
+| [OpenComputer](https://openfree.tools/opencomputer) | The platform for long-running agents. | 0.6K | Apache-2.0 | [Website](https://opencomputer.dev/) · [GitHub](https://github.com/diggerhq/opencomputer) |
 
 <a id="category-browser-agents"></a>
 
@@ -578,6 +582,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
+| [Apprise](https://openfree.tools/apprise) | One notification library for almost every service | 17.8K | BSD-2-Clause | [Website](https://osp.fyi/apprise) · [GitHub](https://github.com/caronc/apprise) |
 | [Worktrunk](https://openfree.tools/worktrunk) | Git worktrees as easy as branches for parallel AI agents | 9.3K | Other | [Website](https://worktrunk.dev/) · [GitHub](https://github.com/max-sixty/worktrunk) |
 | [Filee](https://openfree.tools/filee) | Drag. Drop. Converted. | 8.6K | MIT | [Website](https://filee.sh/) · [GitHub](https://github.com/KnifeLemon/Filee) |
 | [Agent Autoloop](https://openfree.tools/agent-autoloop) | Background loop for CLI agents, asking only when needed | 3.0K | MIT | [Website](https://github.com/KKKKhazix/agent-autoloop) · [GitHub](https://github.com/KKKKhazix/agent-autoloop) |
@@ -635,6 +640,7 @@ No published projects yet.
 | [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
 | [AiSOC](https://openfree.tools/aisoc) | Open-source, self-hostable AI security operations center | 4.4K | MIT | [Website](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/pipeshub) | Open-source, permission-aware context for AI agents | 4.0K | Apache-2.0 | [Website](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
+| [fast-anything](https://openfree.tools/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow. | 3.6K | MIT | [Website](https://osp.fyi/fast-anything) · [GitHub](https://github.com/EL4CTEO/fast-anything) |
 | [Mailflare](https://openfree.tools/mailflare) | Professional email for individuals and teams | 3.6K | AGPL-3.0 | [Website](https://mailflare.co/) · [GitHub](https://github.com/hieunc229/mailflare) |
 | [Agent Toolkit for AWS](https://openfree.tools/agent-toolkit-for-aws) | AWS-supported MCP servers, skills, and plugins for agents | 3.0K | Apache-2.0 | [Website](https://github.com/aws/agent-toolkit-for-aws) · [GitHub](https://github.com/aws/agent-toolkit-for-aws) |
 | [open-computer-use](https://openfree.tools/open-computer-use) | Open-source Computer Use service wrapped as MCP | 2.6K | MIT | [Website](https://github.com/iFurySt/open-computer-use) · [GitHub](https://github.com/iFurySt/open-computer-use) |
@@ -910,6 +916,7 @@ No published projects yet.
 
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
+| [Nogon](https://openfree.tools/nogon) | Your own search engine | 6.4K | AGPL-3.0 | [Website](https://osp.fyi/nogon) · [GitHub](https://github.com/asciimoo/nogon) |
 | [WaterCrawl](https://openfree.tools/watercrawl) | Self-hosted web crawler, scraper, and search engine | 2.2K | Other | [Website](https://osp.fyi/watercrawl) · [GitHub](https://github.com/watercrawl/WaterCrawl) |
 
 <a id="category-document-parsing-ocr"></a>
@@ -965,6 +972,7 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [Unsloth](https://openfree.tools/unsloth) | Open-source framework to run and train LLMs locally | 76.8K | Apache-2.0 | [Website](https://unsloth.ai/docs) · [GitHub](https://github.com/unslothai/unsloth) |
+| [SuperMimic](https://openfree.tools/supermimic) | Humanoid whole-body control via differentiable world model | 2.0K | Apache-2.0 | [Website](https://supermimic.github.io/) · [GitHub](https://github.com/HybridRobotics/supermimic) |
 | [Overmind](https://openfree.tools/overmind) | The training platform for specialized agents | 0.7K | AGPL-3.0 | [Website](https://overmindlab.ai/) · [GitHub](https://github.com/overmind-core/overmind) |
 
 <a id="category-distributed-training"></a>
