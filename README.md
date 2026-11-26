@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**452 projects · 83 subcategories · Synced daily**
+**457 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -231,6 +231,9 @@ No published projects yet.
 | Project | Description | Stars | License | Links |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/cleanyourtv) | Your TV, minus the ads. | 12.8K | Other | [Website](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [Nginx UI](https://openfree.tools/nginx-ui) | Web-based control panel for Nginx | 11.9K | AGPL-3.0 | [Website](https://osp.fyi/nginx-ui) · [GitHub](https://github.com/0xJacky/nginx-ui) |
+| [Homer](https://openfree.tools/homer) | A simple static homepage for your server | 11.7K | Apache-2.0 | [Website](https://osp.fyi/homer) · [GitHub](https://github.com/homer-dashboard/homer) |
+| [Windhawk](https://openfree.tools/windhawk) | Customization marketplace for Windows programs | 10.0K | GPL-3.0 | [Website](https://windhawk.net/) · [GitHub](https://github.com/ramensoftware/windhawk) |
 | [Floccus](https://openfree.tools/floccus) | Sync your bookmarks privately across browsers and devices | 8.7K | MPL-2.0 | [Website](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [xnulinux](https://openfree.tools/xnulinux) | Run macOS userspace on Linux without a hypervisor | 3.4K | Other | [Website](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
@@ -541,6 +544,7 @@ No published projects yet.
 | [Orkas](https://openfree.tools/orkas) | Open-source local-first AI team for your desktop | 5.9K | MIT | [Website](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/layerfs) | Ephemeral workspaces, durable shared history | 1.9K | MIT | [Website](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [SoduWork](https://openfree.tools/soduwork) | The AI-native engine for teams and their agents | 0.8K | MIT | [Website](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
+| [dusk bot](https://openfree.tools/dusk-bot) | A team of AI bots, each with its own computer and memory | 0.6K | Other | [Website](https://dusk.bot/) · [GitHub](https://github.com/DuskBotAI/duskbot) |
 | [mobile-agent-testers](https://openfree.tools/mobile-agent-testers) | Parallel AI mobile testers on GitHub Actions | 0.5K | MIT | [Website](https://github.com/pierridotite/mobile-agent-testers) · [GitHub](https://github.com/pierridotite/mobile-agent-testers) |
 | [OpenDots](https://openfree.tools/opendots) | Always-on AI coworkers for text, calls and Slack | 0.4K | MIT | [Website](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
@@ -857,6 +861,7 @@ No published projects yet.
 | [Tolaria](https://openfree.tools/tolaria) | A second brain for the AI era. Free forever. | 19.9K | AGPL-3.0 | [Website](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [Horizon](https://openfree.tools/horizon) | Your own AI-powered news radar | 12.3K | MIT | [Website](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
 | [LearnHarness](https://openfree.tools/learnharness) | An AI agent harness for learning difficult things. | 9.0K | AGPL-3.0 | [Website](https://github.com/amosblomqvist/learnharness) · [GitHub](https://github.com/amosblomqvist/learnharness) |
+| [Freeplane](https://openfree.tools/freeplane) | Free, open-source desktop mind mapping in Java | 4.5K | GPL-2.0 | [Website](https://osp.fyi/freeplane) · [GitHub](https://github.com/freeplane/freeplane) |
 | [OpenKnowledge](https://openfree.tools/openknowledge) | Beautiful, AI-native markdown editor | 4.3K | GPL-3.0 | [Website](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/edgeever) | AI-native, self-hosted notes and knowledge base | 2.6K | AGPL-3.0 | [Website](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/morrow) | Privacy-first, local-first workspace for notes and databases | 0.2K | Apache-2.0 | [Website](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |

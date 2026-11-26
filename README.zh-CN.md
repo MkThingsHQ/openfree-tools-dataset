@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**452 个项目 · 83 个二级分类 · 每日同步**
+**457 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -230,6 +230,9 @@
 | 项目 | 简介 | Stars | 许可证 | 链接 |
 | --- | --- | ---: | --- | --- |
 | [CleanYourTV](https://openfree.tools/zh/cleanyourtv) | 让电视告别广告。 | 12.8K | Other | [官网](https://cleanyour.tv/) · [GitHub](https://github.com/Gathin23/cleanyourtv) |
+| [Nginx UI](https://openfree.tools/zh/nginx-ui) | 用于管理 Nginx 的 Web 控制面板 | 11.9K | AGPL-3.0 | [官网](https://osp.fyi/nginx-ui) · [GitHub](https://github.com/0xJacky/nginx-ui) |
+| [Homer](https://openfree.tools/zh/homer) | 面向服务器的简洁静态首页 | 11.7K | Apache-2.0 | [官网](https://osp.fyi/homer) · [GitHub](https://github.com/homer-dashboard/homer) |
+| [Windhawk](https://openfree.tools/zh/windhawk) | Windows 程序的自定义应用市场 | 10.0K | GPL-3.0 | [官网](https://windhawk.net/) · [GitHub](https://github.com/ramensoftware/windhawk) |
 | [Floccus](https://openfree.tools/zh/floccus) | 在浏览器和设备间私密同步书签 | 8.7K | MPL-2.0 | [官网](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [xnulinux](https://openfree.tools/zh/xnulinux) | 在 arm64 Linux 上无需虚拟机管理程序运行 macOS 桌面 | 3.4K | Other | [官网](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
@@ -540,6 +543,7 @@
 | [Orkas](https://openfree.tools/zh/orkas) | 开源、本地优先的桌面 AI 团队 | 5.9K | MIT | [官网](https://github.com/Orkas-AI/Orkas) · [GitHub](https://github.com/Orkas-AI/Orkas) |
 | [LayerFS](https://openfree.tools/zh/layerfs) | 临时工作区，持久共享历史 | 1.9K | MIT | [官网](https://layerfs.ai/) · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) |
 | [SoduWork](https://openfree.tools/zh/soduwork) | 面向团队及其智能体的 AI 原生引擎，多执行框架、多智能体、可自托管 | 0.8K | MIT | [官网](https://www.soduwork.ai/) · [GitHub](https://github.com/mdiri-ai/SoduWork) |
+| [dusk bot](https://openfree.tools/zh/dusk-bot) | 你的专属 AI 助手团队，每个 bot 都有独立电脑与记忆 | 0.6K | Other | [官网](https://dusk.bot/) · [GitHub](https://github.com/DuskBotAI/duskbot) |
 | [mobile-agent-testers](https://openfree.tools/zh/mobile-agent-testers) | GitHub Actions 上的并行 AI 移动测试员 | 0.5K | MIT | [官网](https://github.com/pierridotite/mobile-agent-testers) · [GitHub](https://github.com/pierridotite/mobile-agent-testers) |
 | [OpenDots](https://openfree.tools/zh/opendots) | 可在文本、通话和 Slack 之间切换的常驻 AI 同事 | 0.4K | MIT | [官网](https://www.copilotkit.ai/opendots) · [GitHub](https://github.com/CopilotKit/OpenDots) |
 
@@ -856,6 +860,7 @@
 | [Tolaria](https://openfree.tools/zh/tolaria) | AI 时代的第二大脑。永久免费。 | 19.9K | AGPL-3.0 | [官网](https://tolaria.md/) · [GitHub](https://github.com/refactoringhq/tolaria) |
 | [Horizon](https://openfree.tools/zh/horizon) | 你的 AI 新闻雷达 | 12.3K | MIT | [官网](https://www.horizon1123.top/) · [GitHub](https://github.com/Thysrael/Horizon) |
 | [LearnHarness](https://openfree.tools/zh/learnharness) | 用于学习困难内容的 AI 智能体框架 | 9.0K | AGPL-3.0 | [官网](https://github.com/amosblomqvist/learnharness) · [GitHub](https://github.com/amosblomqvist/learnharness) |
+| [Freeplane](https://openfree.tools/zh/freeplane) | 免费开源的 Java 桌面思维导图工具 | 4.5K | GPL-2.0 | [官网](https://osp.fyi/freeplane) · [GitHub](https://github.com/freeplane/freeplane) |
 | [OpenKnowledge](https://openfree.tools/zh/openknowledge) | 漂亮的 AI 原生 Markdown 编辑器与知识库 | 4.3K | GPL-3.0 | [官网](https://openknowledge.ai/) · [GitHub](https://github.com/inkeep/open-knowledge) |
 | [EdgeEver](https://openfree.tools/zh/edgeever) | AI 原生、可自托管的笔记与知识库 | 2.6K | AGPL-3.0 | [官网](https://github.com/tianma-if/edgeever) · [GitHub](https://github.com/tianma-if/edgeever) |
 | [Morrow](https://openfree.tools/zh/morrow) | 隐私优先、本地优先的笔记与数据库工作区 | 0.2K | Apache-2.0 | [官网](https://github.com/Aarav2709/Morrow) · [GitHub](https://github.com/Aarav2709/Morrow) |
