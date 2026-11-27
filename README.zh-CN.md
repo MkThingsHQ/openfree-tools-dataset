@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**457 个项目 · 83 个二级分类 · 每日同步**
+**459 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -236,6 +236,7 @@
 | [Floccus](https://openfree.tools/zh/floccus) | 在浏览器和设备间私密同步书签 | 8.7K | MPL-2.0 | [官网](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [xnulinux](https://openfree.tools/zh/xnulinux) | 在 arm64 Linux 上无需虚拟机管理程序运行 macOS 桌面 | 3.4K | Other | [官网](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
+| [Serie](https://openfree.tools/zh/serie) | 在终端中清晰浏览 Git 提交图 | 2.2K | MIT | [官网](https://osp.fyi/serie) · [GitHub](https://github.com/lusingander/serie) |
 | [Raven](https://openfree.tools/zh/raven-2) | 你的应用认得出的 Windows。 | 1.1K | Other | [官网](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
 <a id="category-generative-media-design"></a>
@@ -874,6 +875,7 @@
 | [Univer](https://openfree.tools/zh/univer) | 面向应用与 AI 代理的开源 Office SDK | 25.0K | Apache-2.0 | [官网](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/zh/ag-ui) | 开放、轻量、事件驱动的智能体与用户交互协议 | 17.2K | MIT | [官网](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [Oat UI](https://openfree.tools/zh/oat-ui) | 轻量、无依赖的语义化 UI 组件库 | 5.6K | MIT | [官网](https://osp.fyi/oat) · [GitHub](https://github.com/knadh/oat) |
 | [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/zh/ollama-javascript-library) | Ollama 的官方 JavaScript 客户端 | 4.4K | MIT | [官网](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
 | [Free My TV](https://openfree.tools/zh/free-my-tv) | 快速、无广告的电视首页 | 3.1K | MIT | [官网](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |

@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**457 projects · 83 subcategories · Synced daily**
+**459 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -237,6 +237,7 @@ No published projects yet.
 | [Floccus](https://openfree.tools/floccus) | Sync your bookmarks privately across browsers and devices | 8.7K | MPL-2.0 | [Website](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
 | [xnulinux](https://openfree.tools/xnulinux) | Run macOS userspace on Linux without a hypervisor | 3.4K | Other | [Website](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
+| [Serie](https://openfree.tools/serie) | A rich, readable Git commit graph in your terminal | 2.2K | MIT | [Website](https://osp.fyi/serie) · [GitHub](https://github.com/lusingander/serie) |
 | [Raven](https://openfree.tools/raven-2) | A Windows your apps recognize. | 1.1K | Other | [Website](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
 
 <a id="category-generative-media-design"></a>
@@ -875,6 +876,7 @@ No published projects yet.
 | [Univer](https://openfree.tools/univer) | Open-source Office SDK for apps and AI agents | 25.0K | Apache-2.0 | [Website](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/ag-ui) | Open event-based protocol for agent-user interaction | 17.2K | MIT | [Website](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [Oat UI](https://openfree.tools/oat-ui) | Semantic, minimal, dependency-free UI library | 5.6K | MIT | [Website](https://osp.fyi/oat) · [GitHub](https://github.com/knadh/oat) |
 | [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/ollama-javascript-library) | Official JavaScript client for Ollama | 4.4K | MIT | [Website](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
 | [Free My TV](https://openfree.tools/free-my-tv) | A fast, ad-free TV home screen | 3.1K | MIT | [Website](https://freemytv.io/) · [GitHub](https://github.com/simbasjungles/free-my-tv) |

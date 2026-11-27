@@ -17377,6 +17377,56 @@
       ]
     },
     {
+      "id": "7dafaf5e-6b30-4dd0-bac3-a8d9ef1dab10",
+      "slug": "oat-ui",
+      "name": "Oat UI",
+      "nameZh": "Oat UI",
+      "tagline": "Semantic, minimal, dependency-free UI library",
+      "taglineZh": "轻量、无依赖的语义化 UI 组件库",
+      "description": "Oat UI is an ultra-lightweight, dependency-free HTML and CSS component library that styles semantic markup out of the box. It ships about 10KB of CSS and JS, requires no framework or build step, and covers commonly needed components.",
+      "descriptionZh": "Oat UI 是一个约 10KB 的 HTML 与 CSS 语义化 UI 组件库，零依赖，无需学习框架或配置构建步骤。它按语义标签和属性自动应用样式，覆盖常用组件，适合希望保持简洁标记和较小页面体积的 Web 项目。",
+      "content": "## Overview\n\nOat UI is an HTML and CSS semantic UI component library with a small JavaScript layer for a few dynamic WebComponents\\. It styles semantic tags and attributes contextually without requiring classes, aiming to keep markup clean and reduce class pollution\\. The project is designed for building decent\\-looking web applications without a framework, build step, or dependency tree\\.\n\n## Key Features\n\n- Ultra\\-lightweight: approximately 10KB of CSS and JS combined\\.\n- Zero dependencies, with no framework or build step to configure\\.\n- Styles semantic HTML tags and attributes contextually without classes for base components\\.\n- Uses minimal JavaScript and WebComponents only for a few dynamic components\\.\n- Covers most commonly needed components and elements for everyday web application UI\\.\n- Designed to reduce markup class pollution and encourage meaningful HTML\\.\n\n## Use Cases\n\n- Small projects and internal tools where page weight matters\\.\n- Projects where a full component framework or design system is overkill\\.\n- Developers who want clean semantic HTML and tiny bundles\\.\n- Manual, transparent front\\-end setups using two included files and no build pipeline\\.\n\n## Getting Started\n\n- Obtain the CSS and JavaScript files from the project repository\\.\n- Include the CSS in the HTML head and the JavaScript before the closing body tag\\.\n- Write semantic HTML and let the library style base components without classes\\.\n- Review the live demo and documentation to see available components and expected markup\\.\n\n## Deployment & Requirements\n\n- No build step, bundler, compiler, config file, or dependency tree is required\\.\n- The library is shipped as a tiny CSS file and a tiny JS file included directly in the page\\.\n- The workflow is manual and transparent because no package manager step or build pipeline is described\\.\n\n## Before You Adopt\n\n- License: MIT\\. Review its terms before using, modifying, or distributing the project\\.\n- Oat UI is not intended to replace large component frameworks or full design systems with theming, complex data components, and a broad ecosystem\\.\n- The documented setup is deliberately manual because no package manager step or build pipeline is described\\.",
+      "contentZh": "## 项目简介\n\nOat UI 是一个 HTML 和 CSS 语义化 UI 组件库，少量 JavaScript 仅用于若干动态 WebComponents。它上下文化地为语义标签和属性应用样式，无需类名，目标是保持标记整洁、减少类名污染，并在不引入框架、构建步骤或依赖树的情况下搭建外观得体的 Web 应用。\n\n## 核心功能\n\n- 超轻量：CSS 与 JS 合计约 10KB。\n- 零依赖，无需配置框架或构建步骤。\n- 基础组件按语义 HTML 标签和属性上下文化应用样式，无需类名。\n- 仅在少数动态组件中使用少量 JavaScript 与 WebComponents。\n- 覆盖日常 Web 应用所需的大部分常用组件和元素。\n- 有助于减少标记中的类名污染，鼓励编写有意义的 HTML。\n\n## 适用场景\n\n- 页面体积敏感的小型项目和内部工具。\n- 完整组件框架或设计系统显得过重的项目。\n- 希望使用简洁语义 HTML 和微小打包体积的开发者。\n- 直接引入两个文件、不依赖构建流水线的手动透明前端配置。\n\n## 快速开始\n\n- 从项目仓库获取 CSS 和 JavaScript 文件。\n- 将 CSS 放入 HTML 的 head，将 JavaScript 放在结束 body 标签之前。\n- 编写语义 HTML，让库为不需要类名的基础组件应用样式。\n- 查看在线演示和文档，了解可用组件及推荐的标记方式。\n\n## 部署与要求\n\n- 无需构建步骤、打包器、编译器、配置文件或依赖树。\n- 库以小型 CSS 文件和小型 JS 文件的形式直接引入页面。\n- 由于未描述包管理器步骤或构建流水线，工作流刻意保持手动和透明。\n\n## 采用前须知\n\n- 许可证：MIT。在使用、修改或分发项目前，请确认其具体条款。",
+      "websiteUrl": "https://osp.fyi/oat",
+      "repositoryUrl": "https://github.com/knadh/oat",
+      "repositoryHomepageUrl": "https://oat.ink/",
+      "license": "MIT",
+      "primaryLanguage": "CSS",
+      "topics": [
+        "component-library",
+        "css",
+        "css-framework",
+        "dashboard-design",
+        "semantic-html",
+        "semantic-web",
+        "ui-components",
+        "ui-design",
+        "web-ui",
+        "web-ui-framework",
+        "webcomponents"
+      ],
+      "stars": 5640,
+      "repositoryCreatedAt": "2026-01-15T05:49:47.000Z",
+      "pushedAt": "2026-11-01T11:40:16.000Z",
+      "repositoryFetchedAt": "2026-11-26T00:54:29.865Z",
+      "archived": false,
+      "selfHosted": "unknown",
+      "sourceType": "x_post",
+      "sourceUrl": "https://x.com/GithubProjects/status/2125652996591857740",
+      "faviconUrl": "/api/storage/file?key=listings%2F7dafaf5e-6b30-4dd0-bac3-a8d9ef1dab10%2Ffavicon%2F118fdc8f-08d3-4fcd-b198-07584bc5adbd-favicon.jpg",
+      "screenshotUrl": "/api/storage/file?key=listings%2F7dafaf5e-6b30-4dd0-bac3-a8d9ef1dab10%2Fscreenshot%2F937df0d5-4a9d-4cfa-9699-23c95fc3beb4-screenshot.png",
+      "publishedAt": "2026-11-26T00:57:33.910Z",
+      "updatedAt": "2026-11-26T00:57:33.910Z",
+      "categoryIds": [
+        "cat-framework-ui"
+      ],
+      "tagIds": [
+        "tag-javascript",
+        "tag-library",
+        "tag-web"
+      ]
+    },
+    {
       "id": "8a73d396-89db-4c9f-94f8-18d8d3e4c3ee",
       "slug": "octomind",
       "name": "Octomind",
@@ -24334,6 +24384,55 @@
         "tag-mcp",
         "tag-mcp-server",
         "tag-semantic-search"
+      ]
+    },
+    {
+      "id": "70461716-12b3-4d4e-addf-f952a33777be",
+      "slug": "serie",
+      "name": "Serie",
+      "nameZh": "Serie",
+      "tagline": "A rich, readable Git commit graph in your terminal",
+      "taglineZh": "在终端中清晰浏览 Git 提交图",
+      "description": "Serie is a Rust terminal UI for browsing Git repositories that renders commit graphs as images through terminal image protocols, making history easier to read than ASCII graphs.",
+      "descriptionZh": "Serie 是一款用 Rust 编写的终端界面工具，通过终端图像协议将 Git 提交图渲染为图像，让浏览仓库历史比 ASCII 提交图更清晰易读。",
+      "content": "## Overview\n\nSerie is a terminal UI application for browsing Git repositories, built around rendering the commit graph richly rather than approximating it with ASCII characters\\. It uses the terminal emulator's image display protocol to draw a commit graph like git log \\-\\-graph \\-\\-all\\. The project is written in Rust and built with Ratatui, and its scope is deliberately commit\\-graph\\-centric rather than a full\\-featured Git client or a complex multi\\-pane TUI\\.\n\n## Key Features\n\n- Renders commit graphs as images inside supported terminal emulators using their image display protocols\\.\n- Offers selectable graph edge styles: rounded, angular, or curved\\.\n- Supports image protocol selection among auto, iterm, kitty, and kitty\\-unicode\\.\n- Can keep a primary branch pinned to the leftmost column\\.\n- Lets users limit rendered commits with max count and choose chrono or topo commit ordering\\.\n- Supports overridable keybindings and config loading from SERIE\\_CONFIG\\_FILE or the XDG config path with defaults\\.\n\n## Use Cases\n\n- Browsing branchy Git history where ASCII commit graphs are difficult to parse\\.\n- Keeping a main or develop branch visible in a predictable leftmost column while reviewing commits\\.\n- Opening a repository from another directory with the \\-C option\\.\n- Adjusting graph appearance and terminal protocol settings for a preferred terminal setup\\.\n\n## Getting Started\n\n- Install with Cargo using cargo install \\-\\-locked serie\\.\n- Run serie in the directory containing your Git repository\\.\n- Open a repository from another directory with serie \\-C \\<path\\>\\.\n- Press ? inside the application to see keybindings\\.\n\n## Deployment & Requirements\n\n- Git is required\\.\n- A supported terminal emulator is required, using either the Inline Images Protocol (iTerm2) or the kitty terminal graphics protocol\\.\n- tmux is supported only when using the kitty Unicode placeholder protocol\\.\n\n## Before You Adopt\n\n- License: MIT\\. Review its terms before using, modifying, or distributing the project\\.",
+      "contentZh": "## 项目简介\n\nSerie 是一款用于浏览 Git 仓库的终端界面应用，核心是用终端模拟器的图像显示协议丰富地绘制提交图，而不是用 ASCII 字符近似呈现类似 git log \\-\\-graph \\-\\-all 的图。它使用 Rust 编写并基于 Ratatui，范围刻意围绕提交图浏览，并非完整 Git 客户端或多窗格复杂 TUI。\n\n## 核心功能\n\n- 在支持的终端模拟器中通过图像显示协议将提交图渲染为图像；提供 rounded、angular、curved 三种图边样式；图像协议可选 auto、iterm、kitty、kitty\\-unicode；可将主分支固定在最左列；可用最大提交数限制渲染数量，并选择 chrono 或 topo 提交排序；支持覆盖键位，并从 SERIE\\_CONFIG\\_FILE 或 XDG 配置路径加载配置，未设置时使用默认值。\n\n## 适用场景\n\n- 浏览分支较多的 Git 历史，尤其是 ASCII 提交图难以解析时；在查看提交时将 main 或 develop 等主分支保持在可预测的最左列；使用 \\-C 选项从其他目录打开仓库；针对偏好的终端环境调整图外观和终端协议设置。\n\n## 快速开始\n\n- 使用 cargo install \\-\\-locked serie 安装；在包含 Git 仓库的目录运行 serie；使用 serie \\-C 指定路径从其他目录打开仓库；在应用内按 ? 查看键位。\n\n## 部署与要求\n\n- 需要 Git；需要支持的终端模拟器，使用 Inline Images Protocol（iTerm2）或 kitty 终端图形协议；tmux 仅在使用 kitty Unicode placeholder 协议时受支持。\n\n## 采用前须知\n\n- 许可证：MIT。在使用、修改或分发项目前，请确认其具体条款。",
+      "websiteUrl": "https://osp.fyi/serie",
+      "repositoryUrl": "https://github.com/lusingander/serie",
+      "repositoryHomepageUrl": "https://lusingander.github.io/serie/",
+      "license": "MIT",
+      "primaryLanguage": "Rust",
+      "topics": [
+        "cli",
+        "git",
+        "git-client",
+        "git-graph",
+        "git-log",
+        "git-tools",
+        "ratatui",
+        "terminal",
+        "tui"
+      ],
+      "stars": 2204,
+      "repositoryCreatedAt": "2024-07-28T07:22:08.000Z",
+      "pushedAt": "2026-11-24T02:49:18.000Z",
+      "repositoryFetchedAt": "2026-11-26T00:54:31.137Z",
+      "archived": false,
+      "selfHosted": "unknown",
+      "sourceType": "x_post",
+      "sourceUrl": "https://x.com/GithubProjects/status/2125622610507841870",
+      "faviconUrl": "/api/storage/file?key=listings%2F70461716-12b3-4d4e-addf-f952a33777be%2Ffavicon%2Fb82db478-8ad8-4b5a-aded-c00632c5cb6d-favicon.jpg",
+      "screenshotUrl": "/api/storage/file?key=listings%2F70461716-12b3-4d4e-addf-f952a33777be%2Fscreenshot%2Fd8eaa250-d456-4935-982b-b69a5becfd8e-screenshot.png",
+      "publishedAt": "2026-11-26T00:57:36.190Z",
+      "updatedAt": "2026-11-26T00:57:36.190Z",
+      "categoryIds": [
+        "cat-assistants-system"
+      ],
+      "tagIds": [
+        "tag-cli",
+        "tag-developer-tool",
+        "tag-rust",
+        "tag-terminal"
       ]
     },
     {
