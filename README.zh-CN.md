@@ -7,7 +7,7 @@
 本仓库保存 **[OpenFree](https://openfree.tools/zh)**
 公开项目目录的每日数据快照，同步维护英文和中文项目信息。
 
-**459 个项目 · 83 个二级分类 · 每日同步**
+**468 个项目 · 83 个二级分类 · 每日同步**
 
 点击下方分类即可跳转到项目表格，点击项目名称可阅读完整介绍。
 也可以下载[结构化 JSON 数据](data/dataset.json)，用于自己的工具。
@@ -234,10 +234,13 @@
 | [Homer](https://openfree.tools/zh/homer) | 面向服务器的简洁静态首页 | 11.7K | Apache-2.0 | [官网](https://osp.fyi/homer) · [GitHub](https://github.com/homer-dashboard/homer) |
 | [Windhawk](https://openfree.tools/zh/windhawk) | Windows 程序的自定义应用市场 | 10.0K | GPL-3.0 | [官网](https://windhawk.net/) · [GitHub](https://github.com/ramensoftware/windhawk) |
 | [Floccus](https://openfree.tools/zh/floccus) | 在浏览器和设备间私密同步书签 | 8.7K | MPL-2.0 | [官网](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
+| [Search](https://openfree.tools/zh/search) | 小巧安静的 macOS WebKit 浏览器 | 4.2K | MIT | [官网](https://osp.fyi/search) · [GitHub](https://github.com/driceroland/Search) |
 | [xnulinux](https://openfree.tools/zh/xnulinux) | 在 arm64 Linux 上无需虚拟机管理程序运行 macOS 桌面 | 3.4K | Other | [官网](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/zh/phonebox) | 把旧安卓手机变成电脑桌面面板与触控台 | 3.2K | MIT | [官网](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Serie](https://openfree.tools/zh/serie) | 在终端中清晰浏览 Git 提交图 | 2.2K | MIT | [官网](https://osp.fyi/serie) · [GitHub](https://github.com/lusingander/serie) |
+| [Prism](https://openfree.tools/zh/prism) | 快速、免费、开源的下载管理器 | 1.7K | MIT | [官网](https://prismdl.site/) · [GitHub](https://github.com/FortoGraphy/prism-download-manager) |
 | [Raven](https://openfree.tools/zh/raven-2) | 你的应用认得出的 Windows。 | 1.1K | Other | [官网](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
+| [rustyfiles](https://openfree.tools/zh/rustyfiles) | 永不卡顿的快速文件管理器 | 0.6K | MIT | [官网](https://rustyfiles.com/) · [GitHub](https://github.com/gelenmedya/rustyfiles) |
 
 <a id="category-generative-media-design"></a>
 
@@ -293,9 +296,11 @@
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Concat](https://openfree.tools/zh/concat) | 免费开源的 CapCut 替代方案 | 10.9K | AGPL-3.0 | [官网](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
 | [raea](https://openfree.tools/zh/raea) | 用 AI 写 React 与 TypeScript，在本地 GPU 渲染视频、动态图形、3D 和游戏 | 4.5K | Other | [官网](https://raea.io/) · [GitHub](https://github.com/shinyobjectz/raea) |
+| [Clypra](https://openfree.tools/zh/clypra) | 硬件加速的原生视频编辑器 | 3.4K | MIT | [官网](https://clypra.abdulkabirmusa.com/) · [GitHub](https://github.com/AIEraDev/Clypra) |
 | [RGB MoCap](https://openfree.tools/zh/rgb-mocap) | 本地 AI 将普通视频转为可编辑人体动画 | 3.1K | Other | [官网](https://osp.fyi/toyxyz-rgbmocap) · [GitHub](https://github.com/toyxyz/toyxyz_RGBMocap) |
 | [ManimGX](https://openfree.tools/zh/manimgx) | 面向智能体的极速 3D 动画引擎 | 2.1K | MIT | [官网](https://manimgx.academa.ai/) · [GitHub](https://github.com/academa-labs/manimgx) |
 | [CorridorKey 2.0](https://openfree.tools/zh/corridorkey-2-0) | 一键完成绿幕与蓝幕抠像 | 1.1K | Other | [官网](https://corridorkey.com/) · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) |
+| [AudioGhost](https://openfree.tools/zh/audioghost) | 从音频或视频中提取任意声音 | 0.8K | Other | [官网](https://audioghost.suixu.ai/) · [GitHub](https://github.com/0x0funky/audioghost-ai) |
 
 <a id="category-speech-voice-generation"></a>
 
@@ -305,6 +310,7 @@
 | --- | --- | ---: | --- | --- |
 | [VibeVoice](https://openfree.tools/zh/vibevoice) | 开源前沿的长篇多说话人语音合成 | 55.5K | MIT | [官网](https://github.com/microsoft/VibeVoice) · [GitHub](https://github.com/microsoft/VibeVoice) |
 | [VoxCPM](https://openfree.tools/zh/voxcpm) | 富有表现力的多语言文本转语音 | 39.9K | Apache-2.0 | [官网](https://voxcpm.com/) · [GitHub](https://github.com/OpenBMB/VoxCPM) |
+| [Chatterbox](https://openfree.tools/zh/chatterbox) | 开源文本转语音与语音克隆模型系列 | 28.1K | MIT | [官网](https://osp.fyi/chatterbox) · [GitHub](https://github.com/resemble-ai/chatterbox) |
 | [VideoLingo](https://openfree.tools/zh/videolingo) | Netflix 级字幕切割、翻译、对齐与配音，一键全自动视频本地化 AI 字幕组 | 18.7K | Apache-2.0 | [官网](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 
 <a id="category-music-audio-generation"></a>
@@ -321,6 +327,7 @@
 | --- | --- | ---: | --- | --- |
 | [Pascal Editor](https://openfree.tools/zh/pascal-editor) | 开源、本地优先的 3D 建筑编辑器 | 25.0K | MIT | [官网](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [腾讯混元3D](https://openfree.tools/zh/hunyuan3d) | 一站式3D内容AI创作平台 | 15.0K | Other | [官网](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| [Chili3D](https://openfree.tools/zh/chili3d) | 面向 AI、参数化与直接建模的浏览器 3D CAD | 5.0K | AGPL-3.0 | [官网](https://osp.fyi/chili3d) · [GitHub](https://github.com/xiangechen/chili3d) |
 | [OpenMVS](https://openfree.tools/zh/openmvs) | 从相机位姿与稀疏点云生成带纹理三维网格 | 4.2K | AGPL-3.0 | [官网](https://osp.fyi/openmvs) · [GitHub](https://github.com/cdcseacave/openMVS) |
 | [mcp-for-blender-pro](https://openfree.tools/zh/mcp-for-blender-pro) | Blender 的 AI 助手与 MCP 服务器 | 1.0K | MIT | [官网](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
@@ -642,6 +649,7 @@
 | [agent-device](https://openfree.tools/zh/agent-device) | 面向 AI 编程代理的开源设备层 | 5.2K | MIT | [官网](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/zh/treg) | 面向智能体工具的 OpenRouter | 4.8K | Other | [官网](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/zh/phone-harness) | 让 AI 智能体使用你的手机。 | 4.6K | MIT | [官网](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
+| [MR Office](https://openfree.tools/zh/mr-office) | 面向真实文件的开源 AI 办公套件 | 4.5K | AGPL-3.0 | [官网](https://osp.fyi/mroffice) · [GitHub](https://github.com/XinaTian/MROffice) |
 | [AiSOC](https://openfree.tools/zh/aisoc) | 开源自托管的 AI 安全运营中心 | 4.4K | MIT | [官网](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/zh/pipeshub) | 面向 AI 智能体的开源、权限感知上下文层 | 4.0K | Apache-2.0 | [官网](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [fast-anything](https://openfree.tools/zh/fast-anything) | 无需重写整个应用，只把慢的那 5% 换成 Rust。 | 3.6K | MIT | [官网](https://osp.fyi/fast-anything) · [GitHub](https://github.com/EL4CTEO/fast-anything) |
@@ -875,6 +883,7 @@
 | [Univer](https://openfree.tools/zh/univer) | 面向应用与 AI 代理的开源 Office SDK | 25.0K | Apache-2.0 | [官网](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/zh/ag-ui) | 开放、轻量、事件驱动的智能体与用户交互协议 | 17.2K | MIT | [官网](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/zh/astryx) | 可完全定制、面向智能体的 React 设计系统 | 13.8K | MIT | [官网](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [Ollama Python Library](https://openfree.tools/zh/ollama-python-library) | 本地与云端 Ollama 模型的官方 Python 客户端 | 10.7K | MIT | [官网](https://osp.fyi/ollama-python) · [GitHub](https://github.com/ollama/ollama-python) |
 | [Oat UI](https://openfree.tools/zh/oat-ui) | 轻量、无依赖的语义化 UI 组件库 | 5.6K | MIT | [官网](https://osp.fyi/oat) · [GitHub](https://github.com/knadh/oat) |
 | [LNDev UI](https://openfree.tools/zh/lndev-ui) | 基于 shadcn/ui 的开源项目管理界面布局 | 4.7K | MIT | [官网](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/zh/ollama-javascript-library) | Ollama 的官方 JavaScript 客户端 | 4.4K | MIT | [官网](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |

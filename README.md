@@ -8,7 +8,7 @@ This repository is the daily
 public catalog snapshot of **[OpenFree](https://openfree.tools)**, with English
 and Chinese project information maintained together.
 
-**459 projects · 83 subcategories · Synced daily**
+**468 projects · 83 subcategories · Synced daily**
 
 Browse the categories below, visit a project page for the full review, or use the
 [machine-readable dataset](data/dataset.json) in your own tools. Projects may
@@ -235,10 +235,13 @@ No published projects yet.
 | [Homer](https://openfree.tools/homer) | A simple static homepage for your server | 11.7K | Apache-2.0 | [Website](https://osp.fyi/homer) · [GitHub](https://github.com/homer-dashboard/homer) |
 | [Windhawk](https://openfree.tools/windhawk) | Customization marketplace for Windows programs | 10.0K | GPL-3.0 | [Website](https://windhawk.net/) · [GitHub](https://github.com/ramensoftware/windhawk) |
 | [Floccus](https://openfree.tools/floccus) | Sync your bookmarks privately across browsers and devices | 8.7K | MPL-2.0 | [Website](https://osp.fyi/floccus) · [GitHub](https://github.com/floccusaddon/floccus) |
+| [Search](https://openfree.tools/search) | A small, quiet WebKit browser for macOS | 4.2K | MIT | [Website](https://osp.fyi/search) · [GitHub](https://github.com/driceroland/Search) |
 | [xnulinux](https://openfree.tools/xnulinux) | Run macOS userspace on Linux without a hypervisor | 3.4K | Other | [Website](https://osp.fyi/xnulinux) · [GitHub](https://github.com/AFK-surf/xnulinux) |
 | [PhoneBox](https://openfree.tools/phonebox) | Turn an old Android phone into a desk panel and control deck | 3.2K | MIT | [Website](https://ersinkoc.github.io/phonebox/) · [GitHub](https://github.com/ersinkoc/phonebox) |
 | [Serie](https://openfree.tools/serie) | A rich, readable Git commit graph in your terminal | 2.2K | MIT | [Website](https://osp.fyi/serie) · [GitHub](https://github.com/lusingander/serie) |
+| [Prism](https://openfree.tools/prism) | Fast, free, open-source download manager | 1.7K | MIT | [Website](https://prismdl.site/) · [GitHub](https://github.com/FortoGraphy/prism-download-manager) |
 | [Raven](https://openfree.tools/raven-2) | A Windows your apps recognize. | 1.1K | Other | [Website](https://osp.fyi/raven) · [GitHub](https://github.com/mirkobrombin/raven) |
+| [rustyfiles](https://openfree.tools/rustyfiles) | A fast file manager that never freezes | 0.6K | MIT | [Website](https://rustyfiles.com/) · [GitHub](https://github.com/gelenmedya/rustyfiles) |
 
 <a id="category-generative-media-design"></a>
 
@@ -294,9 +297,11 @@ No published projects yet.
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 | [Concat](https://openfree.tools/concat) | The free, open-source CapCut replacement. | 10.9K | AGPL-3.0 | [Website](https://concat.standalones.org/) · [GitHub](https://github.com/jub0t/Concat) |
 | [raea](https://openfree.tools/raea) | Make video, motion graphics, 3D and games with AI | 4.5K | Other | [Website](https://raea.io/) · [GitHub](https://github.com/shinyobjectz/raea) |
+| [Clypra](https://openfree.tools/clypra) | Hardware-accelerated native video editor | 3.4K | MIT | [Website](https://clypra.abdulkabirmusa.com/) · [GitHub](https://github.com/AIEraDev/Clypra) |
 | [RGB MoCap](https://openfree.tools/rgb-mocap) | Turn video into editable human animation locally | 3.1K | Other | [Website](https://osp.fyi/toyxyz-rgbmocap) · [GitHub](https://github.com/toyxyz/toyxyz_RGBMocap) |
 | [ManimGX](https://openfree.tools/manimgx) | Blazingly fast 3D animation engine for agents | 2.1K | MIT | [Website](https://manimgx.academa.ai/) · [GitHub](https://github.com/academa-labs/manimgx) |
 | [CorridorKey 2.0](https://openfree.tools/corridorkey-2-0) | One-click chroma keying for green and blue screens | 1.1K | Other | [Website](https://corridorkey.com/) · [GitHub](https://github.com/nikopueringer/CorridorKey2.0) |
+| [AudioGhost](https://openfree.tools/audioghost) | Pull any sound out of audio or video | 0.8K | Other | [Website](https://audioghost.suixu.ai/) · [GitHub](https://github.com/0x0funky/audioghost-ai) |
 
 <a id="category-speech-voice-generation"></a>
 
@@ -306,6 +311,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [VibeVoice](https://openfree.tools/vibevoice) | Expressive long-form multi-speaker TTS | 55.5K | MIT | [Website](https://github.com/microsoft/VibeVoice) · [GitHub](https://github.com/microsoft/VibeVoice) |
 | [VoxCPM](https://openfree.tools/voxcpm) | Creative and expressive multilingual text-to-speech | 39.9K | Apache-2.0 | [Website](https://voxcpm.com/) · [GitHub](https://github.com/OpenBMB/VoxCPM) |
+| [Chatterbox](https://openfree.tools/chatterbox) | Open-source text-to-speech and voice cloning models | 28.1K | MIT | [Website](https://osp.fyi/chatterbox) · [GitHub](https://github.com/resemble-ai/chatterbox) |
 | [VideoLingo](https://openfree.tools/videolingo) | AI subtitle cutting, translation, alignment, and dubbing | 18.7K | Apache-2.0 | [Website](https://docs.videolingo.io/) · [GitHub](https://github.com/Huanshere/VideoLingo) |
 
 <a id="category-music-audio-generation"></a>
@@ -322,6 +328,7 @@ No published projects yet.
 | --- | --- | ---: | --- | --- |
 | [Pascal Editor](https://openfree.tools/pascal-editor) | Open-source local-first 3D building editor | 25.0K | MIT | [Website](https://githubrepo.cloud/repo/pascalorg/editor?utm_source=x#badge) · [GitHub](https://github.com/pascalorg/editor) |
 | [Hunyuan3D](https://openfree.tools/hunyuan3d) | All-in-one AI creation platform for 3D content | 15.0K | Other | [Website](https://3d.hunyuan.tencent.com/) · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| [Chili3D](https://openfree.tools/chili3d) | Browser 3D CAD for AI, parametric, and direct modeling | 5.0K | AGPL-3.0 | [Website](https://osp.fyi/chili3d) · [GitHub](https://github.com/xiangechen/chili3d) |
 | [OpenMVS](https://openfree.tools/openmvs) | Multi-View Stereo reconstruction to textured 3D mesh | 4.2K | AGPL-3.0 | [Website](https://osp.fyi/openmvs) · [GitHub](https://github.com/cdcseacave/openMVS) |
 | [mcp-for-blender-pro](https://openfree.tools/mcp-for-blender-pro) | AI assistant and MCP server for Blender | 1.0K | MIT | [Website](https://github.com/LiCinCan/blender-ai-mcp-addon) · [GitHub](https://github.com/LiCinCan/blender-ai-mcp-addon) |
 
@@ -643,6 +650,7 @@ No published projects yet.
 | [agent-device](https://openfree.tools/agent-device) | Open source device layer for AI coding agents | 5.2K | MIT | [Website](https://agent-device.dev/) · [GitHub](https://github.com/callstack/agent-device) |
 | [treg](https://openfree.tools/treg) | OpenRouter for agent tools | 4.8K | Other | [Website](https://treg.to/?ref=javayhu-qsn8e) · [GitHub](https://github.com/superdesigndev/treg) |
 | [Phone Harness](https://openfree.tools/phone-harness) | Let your AI agent use your phone. | 4.6K | MIT | [Website](http://phone-harness.com/) · [GitHub](https://github.com/phone-harness/phone-harness) |
+| [MR Office](https://openfree.tools/mr-office) | Open-source AI office suite for real files | 4.5K | AGPL-3.0 | [Website](https://osp.fyi/mroffice) · [GitHub](https://github.com/XinaTian/MROffice) |
 | [AiSOC](https://openfree.tools/aisoc) | Open-source, self-hostable AI security operations center | 4.4K | MIT | [Website](https://beenuar.github.io/AiSOC/) · [GitHub](https://github.com/beenuar/AiSOC) |
 | [PipesHub](https://openfree.tools/pipeshub) | Open-source, permission-aware context for AI agents | 4.0K | Apache-2.0 | [Website](https://pipeshub.com/) · [GitHub](https://github.com/pipeshub-ai/pipeshub-ai) |
 | [fast-anything](https://openfree.tools/fast-anything) | Don't rewrite it in Rust. Rewrite the 5% that's slow. | 3.6K | MIT | [Website](https://osp.fyi/fast-anything) · [GitHub](https://github.com/EL4CTEO/fast-anything) |
@@ -876,6 +884,7 @@ No published projects yet.
 | [Univer](https://openfree.tools/univer) | Open-source Office SDK for apps and AI agents | 25.0K | Apache-2.0 | [Website](https://github.com/dream-num/univer) · [GitHub](https://github.com/dream-num/univer) |
 | [AG-UI](https://openfree.tools/ag-ui) | Open event-based protocol for agent-user interaction | 17.2K | MIT | [Website](https://github.com/ag-ui-protocol/ag-ui) · [GitHub](https://github.com/ag-ui-protocol/ag-ui) |
 | [Astryx](https://openfree.tools/astryx) | Fully customizable, agent-ready React design system | 13.8K | MIT | [Website](http://astryx.atmeta.com/) · [GitHub](https://github.com/meta/astryx) |
+| [Ollama Python Library](https://openfree.tools/ollama-python-library) | Official Python client for local and cloud Ollama models | 10.7K | MIT | [Website](https://osp.fyi/ollama-python) · [GitHub](https://github.com/ollama/ollama-python) |
 | [Oat UI](https://openfree.tools/oat-ui) | Semantic, minimal, dependency-free UI library | 5.6K | MIT | [Website](https://osp.fyi/oat) · [GitHub](https://github.com/knadh/oat) |
 | [LNDev UI](https://openfree.tools/lndev-ui) | Open-source shadcn/ui layouts for project management | 4.7K | MIT | [Website](https://circle.lndev.me/) · [GitHub](https://github.com/ln-dev7/circle) |
 | [Ollama JavaScript Library](https://openfree.tools/ollama-javascript-library) | Official JavaScript client for Ollama | 4.4K | MIT | [Website](https://osp.fyi/ollama-js) · [GitHub](https://github.com/ollama/ollama-js) |
